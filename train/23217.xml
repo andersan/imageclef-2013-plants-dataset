@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23217.jpg</FileName>
+  <IndividualPlantId>6566</IndividualPlantId>
+  <Date>14/09/10</Date>
+  <Locality>France - Roissy-En-Brie</Locality>
+  <GPSLocality>
+    <Longitude>2.654541</Longitude>
+    <Latitude>48.790685</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Malus sylvestris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Malus Mill.</Genus>
+    <Species>Malus sylvestris Mill.</Species>
+  </Taxon>
+  <VernacularNames>European wild apple</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

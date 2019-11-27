@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19682.jpg</FileName>
+  <IndividualPlantId>1604</IndividualPlantId>
+  <Date>06/05/06</Date>
+  <Locality>France - Juillac</Locality>
+  <GPSLocality>
+    <Longitude>1.322400</Longitude>
+    <Latitude>45.317259</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Sorbus torminalis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus torminalis (L.) Crantz</Species>
+  </Taxon>
+  <VernacularNames>Wild service tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

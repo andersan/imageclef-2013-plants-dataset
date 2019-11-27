@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>33939.jpg</FileName>
+  <IndividualPlantId>6619</IndividualPlantId>
+  <Date>13/05/11</Date>
+  <Locality>France - Orgon</Locality>
+  <GPSLocality>
+    <Longitude>5.038677</Longitude>
+    <Latitude>43.791223</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Gladiolus italicus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Iridaceae Juss.</Family>
+    <Genus>Gladiolus L.</Genus>
+    <Species>Gladiolus italicus Mill.</Species>
+  </Taxon>
+  <VernacularNames>Italian gladiolus</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24556.jpg</FileName>
+  <IndividualPlantId>4703</IndividualPlantId>
+  <Date>03/09/12</Date>
+  <Locality>France - Marseille</Locality>
+  <GPSLocality>
+    <Longitude>5.369780</Longitude>
+    <Latitude>43.296482</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Fraxinus angustifolia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus angustifolia Vahl</Species>
+  </Taxon>
+  <VernacularNames>Narrow leafed ash</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

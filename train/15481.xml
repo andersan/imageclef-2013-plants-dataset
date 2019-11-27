@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15481.jpg</FileName>
+  <IndividualPlantId>5279</IndividualPlantId>
+  <Date>19/04/12</Date>
+  <Locality>France - Colombiers</Locality>
+  <GPSLocality>
+    <Longitude>3.139111</Longitude>
+    <Latitude>43.314885</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Melia azedarach</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Meliaceae Juss.</Family>
+    <Genus>Melia L.</Genus>
+    <Species>Melia azedarach L.</Species>
+  </Taxon>
+  <VernacularNames>Persian lilac</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

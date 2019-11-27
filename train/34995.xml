@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>34995.jpg</FileName>
+  <IndividualPlantId>3513</IndividualPlantId>
+  <Date>26/05/11</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Gregoire Duche</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Ailanthus altissima</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Simaroubaceae DC.</Family>
+    <Genus>Ailanthus Desf.</Genus>
+    <Species>Ailanthus altissima (Mill.) Swingle</Species>
+  </Taxon>
+  <VernacularNames>Tree of heaven</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

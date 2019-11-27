@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20525.jpg</FileName>
+  <IndividualPlantId>3284</IndividualPlantId>
+  <Date>01/09/09</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Claudine Pelissier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Juglans regia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Juglandaceae DC. ex Perleb</Family>
+    <Genus>Juglans L.</Genus>
+    <Species>Juglans regia L.</Species>
+  </Taxon>
+  <VernacularNames>Common walnut</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>279</IndividualPlantId2012>
+  <ImageID2012>6542.jpg</ImageID2012>
+</Image>
+

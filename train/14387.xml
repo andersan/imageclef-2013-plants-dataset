@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14387.jpg</FileName>
+  <IndividualPlantId>277</IndividualPlantId>
+  <Date>12/08/10</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Fagus sylvatica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Fagus L.</Genus>
+    <Species>Fagus sylvatica L.</Species>
+  </Taxon>
+  <VernacularNames>European beech</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>173</IndividualPlantId2012>
+  <ImageID2012>3181.jpg</ImageID2012>
+</Image>
+

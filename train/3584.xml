@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3584.jpg</FileName>
+  <IndividualPlantId>3822</IndividualPlantId>
+  <Date>25/07/12</Date>
+  <Locality>France - Marseille</Locality>
+  <GPSLocality>
+    <Longitude>5.369780</Longitude>
+    <Latitude>43.296482</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Verbascum thapsus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Scrophulariaceae Juss.</Family>
+    <Genus>Verbascum L.</Genus>
+    <Species>Verbascum thapsus L.</Species>
+  </Taxon>
+  <VernacularNames>Common mullein</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

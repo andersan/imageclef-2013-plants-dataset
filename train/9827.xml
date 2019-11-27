@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9827.jpg</FileName>
+  <IndividualPlantId>5329</IndividualPlantId>
+  <Date>10/08/09</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.350986</Longitude>
+    <Latitude>48.856667</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Robinia pseudoacacia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Robinia L.</Genus>
+    <Species>Robinia pseudoacacia L.</Species>
+  </Taxon>
+  <VernacularNames>Black locust</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>165</IndividualPlantId2012>
+  <ImageID2012>10557.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25518.jpg</FileName>
+  <IndividualPlantId>1979</IndividualPlantId>
+  <Date>23/11/11</Date>
+  <Locality>France - Villeneuve-Saint-Denis</Locality>
+  <GPSLocality>
+    <Longitude>2.793211</Longitude>
+    <Latitude>48.815617</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Quercus cerris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus cerris L.</Species>
+  </Taxon>
+  <VernacularNames>Turkey oak</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>443</IndividualPlantId2012>
+  <ImageID2012>6281.jpg</ImageID2012>
+</Image>
+

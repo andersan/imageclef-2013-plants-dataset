@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>30281.jpg</FileName>
+  <IndividualPlantId>6408</IndividualPlantId>
+  <Date>12/09/12</Date>
+  <Locality>France - Offendorf</Locality>
+  <GPSLocality>
+    <Longitude>7.912148</Longitude>
+    <Latitude>48.711072</Latitude>
+  </GPSLocality>
+  <Author>Claire Sutter</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Betula pendula</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Betula L.</Genus>
+    <Species>Betula pendula Roth</Species>
+  </Taxon>
+  <VernacularNames>Silver birch</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

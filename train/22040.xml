@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22040.jpg</FileName>
+  <IndividualPlantId>2788</IndividualPlantId>
+  <Date>13/05/11</Date>
+  <Locality>France - Le Baume Auriol</Locality>
+  <GPSLocality>
+    <Longitude>3.509142</Longitude>
+    <Latitude>43.887166</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Acer monspessulanum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer monspessulanum L.</Species>
+  </Taxon>
+  <VernacularNames>Montpellier maple</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

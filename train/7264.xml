@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7264.jpg</FileName>
+  <IndividualPlantId>2711</IndividualPlantId>
+  <Date>20/04/06</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Amelanchier ovalis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Amelanchier Medik.</Genus>
+    <Species>Amelanchier ovalis Medik.</Species>
+  </Taxon>
+  <VernacularNames>Snowy mespilus</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>28438.jpg</FileName>
+  <IndividualPlantId>2785</IndividualPlantId>
+  <Date>06/04/06</Date>
+  <Locality>France - Champ-Sur-Drac</Locality>
+  <GPSLocality>
+    <Longitude>5.731518</Longitude>
+    <Latitude>45.069402</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Carpinus betulus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Carpinus L.</Genus>
+    <Species>Carpinus betulus L.</Species>
+  </Taxon>
+  <VernacularNames>European hornbeam</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

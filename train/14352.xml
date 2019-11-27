@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14352.jpg</FileName>
+  <IndividualPlantId>3870</IndividualPlantId>
+  <Date>22/04/12</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Laetitia Goeau</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Photinia serrulata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Photinia Lindl.</Genus>
+    <Species>Photinia serrulata Lindl.</Species>
+  </Taxon>
+  <VernacularNames>Chinese photinia</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>853</IndividualPlantId2012>
+  <ImageID2012>5394.jpg</ImageID2012>
+</Image>
+

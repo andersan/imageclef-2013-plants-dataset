@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23618.jpg</FileName>
+  <IndividualPlantId>3617</IndividualPlantId>
+  <Date>26/05/11</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Michael Belluau</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Aesculus hippocastanum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Aesculus L.</Genus>
+    <Species>Aesculus hippocastanum L.</Species>
+  </Taxon>
+  <VernacularNames>Horse chestnut</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>365</IndividualPlantId2012>
+  <ImageID2012>1715.jpg</ImageID2012>
+</Image>
+

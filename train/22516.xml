@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22516.jpg</FileName>
+  <IndividualPlantId>1916</IndividualPlantId>
+  <Date>21/04/12</Date>
+  <Locality>France - Saint-Germain-En-Laye</Locality>
+  <GPSLocality>
+    <Longitude>2.093761</Longitude>
+    <Latitude>48.898908</Latitude>
+  </GPSLocality>
+  <Author>Vera Bakic</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Cercis siliquastrum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Cercis L.</Genus>
+    <Species>Cercis siliquastrum L.</Species>
+  </Taxon>
+  <VernacularNames>Judas tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

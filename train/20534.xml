@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20534.jpg</FileName>
+  <IndividualPlantId>2558</IndividualPlantId>
+  <Date>25/09/11</Date>
+  <Locality>France - Vernouillet</Locality>
+  <GPSLocality>
+    <Longitude>1.983023</Longitude>
+    <Latitude>48.973699</Latitude>
+  </GPSLocality>
+  <Author>Vera Bakic</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Platanus x hispanica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Proteanae Takht.</Superorder>
+    <Order>Proteales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Platanaceae T. Lestib.</Family>
+    <Genus>Platanus L.</Genus>
+    <Species>Platanus x hispanica Mill. ex MŸnchh.</Species>
+  </Taxon>
+  <VernacularNames>Hybrid plane</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

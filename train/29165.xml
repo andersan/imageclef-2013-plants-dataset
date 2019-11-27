@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>29165.jpg</FileName>
+  <IndividualPlantId>3733</IndividualPlantId>
+  <Date>15/04/07</Date>
+  <Locality>France - Vias</Locality>
+  <GPSLocality>
+    <Longitude>3.418564</Longitude>
+    <Latitude>43.312489</Latitude>
+  </GPSLocality>
+  <Author>Christophe Girod</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Bellevalia romana</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Asparagaceae Juss.</Family>
+    <Genus>Bellevalia Lapeyr.</Genus>
+    <Species>Bellevalia romana (L.) Sweet</Species>
+  </Taxon>
+  <VernacularNames>Roman hyacinth</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>31929.jpg</FileName>
+  <IndividualPlantId>5630</IndividualPlantId>
+  <Date>16/10/11</Date>
+  <Locality>France - La Queue-En-Brie</Locality>
+  <GPSLocality>
+    <Longitude>2.575493</Longitude>
+    <Latitude>48.790857</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Acer platanoides</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer platanoides L.</Species>
+  </Taxon>
+  <VernacularNames>Norway maple</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>800</IndividualPlantId2012>
+  <ImageID2012>11180.jpg</ImageID2012>
+</Image>
+

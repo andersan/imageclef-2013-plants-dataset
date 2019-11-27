@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8924.jpg</FileName>
+  <IndividualPlantId>59</IndividualPlantId>
+  <Date>15/07/10</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Christine Heinz</Author>
+  <Organization>UM2</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ligustrum vulgare</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Ligustrum L.</Genus>
+    <Species>Ligustrum vulgare L.</Species>
+  </Taxon>
+  <VernacularNames>European privet</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>141</IndividualPlantId2012>
+  <ImageID2012>4194.jpg</ImageID2012>
+</Image>
+

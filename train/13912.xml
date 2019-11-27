@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13912.jpg</FileName>
+  <IndividualPlantId>352</IndividualPlantId>
+  <Date>04/04/11</Date>
+  <Locality>France - Saint-Maurice-Navacelles</Locality>
+  <GPSLocality>
+    <Longitude>3.511591</Longitude>
+    <Latitude>43.894120</Latitude>
+  </GPSLocality>
+  <Author>Houdste</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Anemone hepatica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Anemone L.</Genus>
+    <Species>Anemone hepatica L.</Species>
+  </Taxon>
+  <VernacularNames>Common hepatica</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

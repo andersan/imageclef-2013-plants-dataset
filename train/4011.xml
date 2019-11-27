@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4011.jpg</FileName>
+  <IndividualPlantId>1627</IndividualPlantId>
+  <Date>06/04/11</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.350986</Longitude>
+    <Latitude>48.856667</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Viburnum lantana</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Viburnum L.</Genus>
+    <Species>Viburnum lantana L.</Species>
+  </Taxon>
+  <VernacularNames>Wayfaringtree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

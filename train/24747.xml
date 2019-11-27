@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24747.jpg</FileName>
+  <IndividualPlantId>2964</IndividualPlantId>
+  <Date>01/01/10</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>9.030762</Longitude>
+    <Latitude>42.155259</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Arbutus unedo</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Ericaceae Juss.</Family>
+    <Genus>Arbutus L.</Genus>
+    <Species>Arbutus unedo L.</Species>
+  </Taxon>
+  <VernacularNames>Strawberry tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

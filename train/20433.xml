@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20433.jpg</FileName>
+  <IndividualPlantId>2349</IndividualPlantId>
+  <Date>03/05/12</Date>
+  <Locality>France - Indre</Locality>
+  <GPSLocality>
+    <Longitude>1.448266</Longitude>
+    <Latitude>46.661397</Latitude>
+  </GPSLocality>
+  <Author>Martin Serre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Malus sylvestris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Malus Mill.</Genus>
+    <Species>Malus sylvestris Mill.</Species>
+  </Taxon>
+  <VernacularNames>European wild apple</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

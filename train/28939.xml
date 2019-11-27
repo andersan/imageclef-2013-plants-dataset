@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>28939.jpg</FileName>
+  <IndividualPlantId>1692</IndividualPlantId>
+  <Date>28/07/12</Date>
+  <Locality>France - Gémenos</Locality>
+  <GPSLocality>
+    <Longitude>5.628112</Longitude>
+    <Latitude>43.295388</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Convolvulus cantabrica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Convolvulaceae Juss.</Family>
+    <Genus>Convolvulus L.</Genus>
+    <Species>Convolvulus cantabrica L.</Species>
+  </Taxon>
+  <VernacularNames>Cantabrican morning glory</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11871.jpg</FileName>
+  <IndividualPlantId>5076</IndividualPlantId>
+  <Date>11/08/11</Date>
+  <Locality>France - Noiseau</Locality>
+  <GPSLocality>
+    <Longitude>2.553189</Longitude>
+    <Latitude>48.774689</Latitude>
+  </GPSLocality>
+  <Author>Bertrand Bui</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Epipactis helleborine</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Epipactis Pers.</Genus>
+    <Species>Epipactis helleborine (L.) Crantz</Species>
+  </Taxon>
+  <VernacularNames>Broad-leaved helleborine</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13755.jpg</FileName>
+  <IndividualPlantId>3110</IndividualPlantId>
+  <Date>23/09/11</Date>
+  <Locality>France - Clapiers</Locality>
+  <GPSLocality>
+    <Longitude>1.796815</Longitude>
+    <Latitude>43.927384</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Pinus halepensis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Pinidae Cronquist, Takht. &amp; W. Zimm.</Subclass>
+    <Superorder>Pinidae Cronquist, Takht. &amp; W. Zimm.</Superorder>
+    <Order>Pinales Gorozh.</Order>
+    <Family>Pinaceae Spreng. ex Rudolphi</Family>
+    <Genus>Pinus L.</Genus>
+    <Species>Pinus halepensis Mill.</Species>
+  </Taxon>
+  <VernacularNames>Aleppo pine</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

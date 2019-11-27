@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13973.jpg</FileName>
+  <IndividualPlantId>3645</IndividualPlantId>
+  <Date>06/08/09</Date>
+  <Locality>France - Pralognan-La-Vanoise</Locality>
+  <GPSLocality>
+    <Longitude>6.721232</Longitude>
+    <Latitude>45.382062</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Parnassia palustris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Celastrales Link</Order>
+    <Family>Celastraceae R. Br.</Family>
+    <Genus>Parnassia L.</Genus>
+    <Species>Parnassia palustris L.</Species>
+  </Taxon>
+  <VernacularNames>Marsh grass-of-parnassus</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

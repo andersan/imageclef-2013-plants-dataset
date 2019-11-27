@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>31993.jpg</FileName>
+  <IndividualPlantId>1897</IndividualPlantId>
+  <Date>02/05/12</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.350986</Longitude>
+    <Latitude>48.856667</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Euonymus latifolius</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Celastrales Link</Order>
+    <Family>Celastraceae R. Br.</Family>
+    <Genus>Euonymus L.</Genus>
+    <Species>Euonymus latifolius (L.) Mill.</Species>
+  </Taxon>
+  <VernacularNames>Large leaved spindle</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

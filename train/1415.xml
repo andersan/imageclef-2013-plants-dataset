@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1415.jpg</FileName>
+  <IndividualPlantId>1997</IndividualPlantId>
+  <Date>19/10/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ailanthus altissima</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Simaroubaceae DC.</Family>
+    <Genus>Ailanthus Desf.</Genus>
+    <Species>Ailanthus altissima (Mill.) Swingle</Species>
+  </Taxon>
+  <VernacularNames>Tree of heaven</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>233</IndividualPlantId2012>
+  <ImageID2012>7052.jpg</ImageID2012>
+</Image>
+

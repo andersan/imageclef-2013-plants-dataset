@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25230.jpg</FileName>
+  <IndividualPlantId>8652</IndividualPlantId>
+  <Date>07/08/07</Date>
+  <Locality>France - Loctudy</Locality>
+  <GPSLocality>
+    <Longitude>-4.168061</Longitude>
+    <Latitude>47.830440</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Convolvulus arvensis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Convolvulaceae Juss.</Family>
+    <Genus>Convolvulus L.</Genus>
+    <Species>Convolvulus arvensis L.</Species>
+  </Taxon>
+  <VernacularNames>Field bindweed</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

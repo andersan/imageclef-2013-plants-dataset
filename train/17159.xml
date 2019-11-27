@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>17159.jpg</FileName>
+  <IndividualPlantId>782</IndividualPlantId>
+  <Date>12/04/12</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Vera Bakic</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Acer negundo</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer negundo L.</Species>
+  </Taxon>
+  <VernacularNames>Box elder maple</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

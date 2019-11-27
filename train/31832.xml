@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>31832.jpg</FileName>
+  <IndividualPlantId>43</IndividualPlantId>
+  <Date>10/09/12</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Ostrya carpinifolia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Ostrya Scop.</Genus>
+    <Species>Ostrya carpinifolia Scop.</Species>
+  </Taxon>
+  <VernacularNames>Hop hornbeam</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>27644.jpg</FileName>
+  <IndividualPlantId>3817</IndividualPlantId>
+  <Date>28/08/07</Date>
+  <Locality>Switzerland - Finhaut</Locality>
+  <GPSLocality>
+    <Longitude>6.976699</Longitude>
+    <Latitude>46.083195</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Parnassia palustris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Celastrales Link</Order>
+    <Family>Celastraceae R. Br.</Family>
+    <Genus>Parnassia L.</Genus>
+    <Species>Parnassia palustris L.</Species>
+  </Taxon>
+  <VernacularNames>Marsh grass-of-parnassus</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

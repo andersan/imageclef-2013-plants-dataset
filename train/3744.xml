@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3744.jpg</FileName>
+  <IndividualPlantId>1001</IndividualPlantId>
+  <Date>14/08/10</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Sorbus torminalis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus torminalis (L.) Crantz</Species>
+  </Taxon>
+  <VernacularNames>Wild service tree</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>125</IndividualPlantId2012>
+  <ImageID2012>6202.jpg</ImageID2012>
+</Image>
+

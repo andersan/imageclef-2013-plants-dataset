@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8276.jpg</FileName>
+  <IndividualPlantId>420</IndividualPlantId>
+  <Date>06/04/11</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.350986</Longitude>
+    <Latitude>48.856667</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Cercis siliquastrum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Cercis L.</Genus>
+    <Species>Cercis siliquastrum L.</Species>
+  </Taxon>
+  <VernacularNames>Judas tree</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>977</IndividualPlantId2012>
+  <ImageID2012>8599.jpg</ImageID2012>
+</Image>
+

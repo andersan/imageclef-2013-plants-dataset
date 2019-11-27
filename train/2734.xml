@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2734.jpg</FileName>
+  <IndividualPlantId>355</IndividualPlantId>
+  <Date>18/03/09</Date>
+  <Locality>France - La Tour-Sur-Orb</Locality>
+  <GPSLocality>
+    <Longitude>3.149230</Longitude>
+    <Latitude>43.655629</Latitude>
+  </GPSLocality>
+  <Author>Franck Jullin</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Euphorbia nicaeensis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Euphorbiaceae Juss.</Family>
+    <Genus>Euphorbia L.</Genus>
+    <Species>Euphorbia nicaeensis All.</Species>
+  </Taxon>
+  <VernacularNames>Southern spurge</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

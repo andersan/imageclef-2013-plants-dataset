@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2474.jpg</FileName>
+  <IndividualPlantId>6012</IndividualPlantId>
+  <Date>08/04/07</Date>
+  <Locality>France - Banyuls-Sur-Mer</Locality>
+  <GPSLocality>
+    <Longitude>3.128874</Longitude>
+    <Latitude>42.483430</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Serapias lingua</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Serapias Pers.</Genus>
+    <Species>Serapias lingua L.</Species>
+  </Taxon>
+  <VernacularNames>Tongue orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

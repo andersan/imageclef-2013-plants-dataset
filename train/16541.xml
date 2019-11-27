@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16541.jpg</FileName>
+  <IndividualPlantId>140</IndividualPlantId>
+  <Date>27/04/12</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.350986</Longitude>
+    <Latitude>48.856667</Latitude>
+  </GPSLocality>
+  <Author>Vera Bakic</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Cornus mas</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Cornales Link</Order>
+    <Family>Cornaceae Bercht. ex J. Presl</Family>
+    <Genus>Cornus L.</Genus>
+    <Species>Cornus mas L.</Species>
+  </Taxon>
+  <VernacularNames>European cornel</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

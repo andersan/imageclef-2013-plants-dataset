@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7375.jpg</FileName>
+  <IndividualPlantId>426</IndividualPlantId>
+  <Date>07/10/12</Date>
+  <Locality>France - Lyon</Locality>
+  <GPSLocality>
+    <Longitude>4.835659</Longitude>
+    <Latitude>45.764043</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Populus alba</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Populus L.</Genus>
+    <Species>Populus alba L.</Species>
+  </Taxon>
+  <VernacularNames>Silver poplar</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

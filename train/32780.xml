@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>32780.jpg</FileName>
+  <IndividualPlantId>619</IndividualPlantId>
+  <Date>27/04/12</Date>
+  <Locality>France - Saint-Michel-Sur-Orge</Locality>
+  <GPSLocality>
+    <Longitude>2.312884</Longitude>
+    <Latitude>48.632640</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Laburnum anagyroides</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Laburnum Fabr.</Genus>
+    <Species>Laburnum anagyroides Medik.</Species>
+  </Taxon>
+  <VernacularNames>Common laburnum</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>474</IndividualPlantId2012>
+  <ImageID2012>9721.jpg</ImageID2012>
+</Image>
+

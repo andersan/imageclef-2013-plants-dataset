@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16664.jpg</FileName>
+  <IndividualPlantId>5454</IndividualPlantId>
+  <Date>14/08/04</Date>
+  <Locality>France - Damgan</Locality>
+  <GPSLocality>
+    <Longitude>-2.578760</Longitude>
+    <Latitude>47.519791</Latitude>
+  </GPSLocality>
+  <Author>Christophe Girod</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Solanum dulcamara</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Solanaceae Juss.</Family>
+    <Genus>Solanum L.</Genus>
+    <Species>Solanum dulcamara L.</Species>
+  </Taxon>
+  <VernacularNames>Bittersweet</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

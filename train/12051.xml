@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>12051.jpg</FileName>
+  <IndividualPlantId>1340</IndividualPlantId>
+  <Date>25/03/12</Date>
+  <Locality>France - Saint-Guilhem-Le-Desert</Locality>
+  <GPSLocality>
+    <Longitude>3.549015</Longitude>
+    <Latitude>43.734434</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Quercus ilex</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus ilex L.</Species>
+  </Taxon>
+  <VernacularNames>Holm oak</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

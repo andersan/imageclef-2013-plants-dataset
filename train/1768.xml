@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1768.jpg</FileName>
+  <IndividualPlantId>1180</IndividualPlantId>
+  <Date>20/04/11</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Anne Verroust</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Magnolia grandiflora</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Magnoliales Bromhead</Order>
+    <Family>Magnoliaceae Juss.</Family>
+    <Genus>Magnolia L.</Genus>
+    <Species>Magnolia grandiflora L.</Species>
+  </Taxon>
+  <VernacularNames>Southern magnolia</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

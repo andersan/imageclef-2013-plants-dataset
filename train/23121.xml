@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23121.jpg</FileName>
+  <IndividualPlantId>3267</IndividualPlantId>
+  <Date>08/07/09</Date>
+  <Locality>France - Freteval</Locality>
+  <GPSLocality>
+    <Longitude>1.208877</Longitude>
+    <Latitude>47.889458</Latitude>
+  </GPSLocality>
+  <Author>Thierry Richer De Forges</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Epilobium hirsutum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Myrtales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Onagraceae Juss.</Family>
+    <Genus>Epilobium L.</Genus>
+    <Species>Epilobium hirsutum L.</Species>
+  </Taxon>
+  <VernacularNames>Great willowherb</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23420.jpg</FileName>
+  <IndividualPlantId>4512</IndividualPlantId>
+  <Date>17/04/11</Date>
+  <Locality>France - Vienne</Locality>
+  <GPSLocality>
+    <Longitude>4.874339</Longitude>
+    <Latitude>45.525587</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Viburnum tinus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Viburnum L.</Genus>
+    <Species>Viburnum tinus L.</Species>
+  </Taxon>
+  <VernacularNames>Laurestine</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>478</IndividualPlantId2012>
+  <ImageID2012>6075.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11474.jpg</FileName>
+  <IndividualPlantId>145</IndividualPlantId>
+  <Date>01/07/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Millan</Author>
+  <Organization>Cirad</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Rhamnus alaternus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rhamnaceae Juss.</Family>
+    <Genus>Rhamnus L.</Genus>
+    <Species>Rhamnus alaternus L.</Species>
+  </Taxon>
+  <VernacularNames>Italian buckthorn</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>130</IndividualPlantId2012>
+  <ImageID2012>4965.jpg</ImageID2012>
+</Image>
+

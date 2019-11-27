@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>33406.jpg</FileName>
+  <IndividualPlantId>7183</IndividualPlantId>
+  <Date>30/05/09</Date>
+  <Locality>France - Le Rozier</Locality>
+  <GPSLocality>
+    <Longitude>3.210352</Longitude>
+    <Latitude>44.190432</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Laburnum anagyroides</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Laburnum Fabr.</Genus>
+    <Species>Laburnum anagyroides Medik.</Species>
+  </Taxon>
+  <VernacularNames>Common laburnum</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

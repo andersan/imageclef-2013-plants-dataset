@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7996.jpg</FileName>
+  <IndividualPlantId>409</IndividualPlantId>
+  <Date>18/10/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Quercus coccifera</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus coccifera L.</Species>
+  </Taxon>
+  <VernacularNames>Kermes oak</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>158</IndividualPlantId2012>
+  <ImageID2012>3599.jpg</ImageID2012>
+</Image>
+

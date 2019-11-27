@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11121.jpg</FileName>
+  <IndividualPlantId>3542</IndividualPlantId>
+  <Date>24/02/11</Date>
+  <Locality>Germany - Berlin</Locality>
+  <GPSLocality>
+    <Longitude>13.406091</Longitude>
+    <Latitude>52.519171</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Arbutus unedo</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Ericaceae Juss.</Family>
+    <Genus>Arbutus L.</Genus>
+    <Species>Arbutus unedo L.</Species>
+  </Taxon>
+  <VernacularNames>Strawberry tree</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>368</IndividualPlantId2012>
+  <ImageID2012>3207.jpg</ImageID2012>
+</Image>
+

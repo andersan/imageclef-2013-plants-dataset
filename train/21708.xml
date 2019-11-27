@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21708.jpg</FileName>
+  <IndividualPlantId>2098</IndividualPlantId>
+  <Date>07/04/07</Date>
+  <Locality>France - Opoul-Périllos</Locality>
+  <GPSLocality>
+    <Longitude>2.872769</Longitude>
+    <Latitude>42.867998</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Narcissus assoanus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Amaryllidaceae J. St.-Hil.</Family>
+    <Genus>Narcissus L.</Genus>
+    <Species>Narcissus assoanus Dufour ex Schult. &amp; Schult.f.</Species>
+  </Taxon>
+  <VernacularNames>Rush-leaf jonquil</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

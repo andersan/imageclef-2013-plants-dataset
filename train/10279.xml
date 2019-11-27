@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10279.jpg</FileName>
+  <IndividualPlantId>1200</IndividualPlantId>
+  <Date>18/04/12</Date>
+  <Locality>France - Argens-Minervois</Locality>
+  <GPSLocality>
+    <Longitude>2.767515</Longitude>
+    <Latitude>43.248141</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Nerium oleander</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Gentianales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Apocynaceae Juss.</Family>
+    <Genus>Nerium L.</Genus>
+    <Species>Nerium oleander L.</Species>
+  </Taxon>
+  <VernacularNames>Oleander</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

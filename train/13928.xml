@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13928.jpg</FileName>
+  <IndividualPlantId>33</IndividualPlantId>
+  <Date>10/09/12</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Anne Verroust</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Sorbus aucuparia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus aucuparia L.</Species>
+  </Taxon>
+  <VernacularNames>European rowan</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

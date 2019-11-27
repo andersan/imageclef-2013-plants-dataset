@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23757.jpg</FileName>
+  <IndividualPlantId>935</IndividualPlantId>
+  <Date>08/06/05</Date>
+  <Locality>France - Seix</Locality>
+  <GPSLocality>
+    <Longitude>1.200625</Longitude>
+    <Latitude>42.863690</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Soldanella alpina</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Primulaceae Batsch ex Borkh.</Family>
+    <Genus>Soldanella L.</Genus>
+    <Species>Soldanella alpina L.</Species>
+  </Taxon>
+  <VernacularNames>Alpine snowbell</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

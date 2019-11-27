@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>33026.jpg</FileName>
+  <IndividualPlantId>2366</IndividualPlantId>
+  <Date>14/07/10</Date>
+  <Locality>France - Palavas-Les-Flots</Locality>
+  <GPSLocality>
+    <Longitude>3.933493</Longitude>
+    <Latitude>43.528906</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Nerium oleander</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Gentianales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Apocynaceae Juss.</Family>
+    <Genus>Nerium L.</Genus>
+    <Species>Nerium oleander L.</Species>
+  </Taxon>
+  <VernacularNames>Oleander</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>316</IndividualPlantId2012>
+  <ImageID2012>1494.jpg</ImageID2012>
+</Image>
+

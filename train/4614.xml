@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4614.jpg</FileName>
+  <IndividualPlantId>451</IndividualPlantId>
+  <Date>12/10/11</Date>
+  <Locality>France - Montferrier-Sur-Lez</Locality>
+  <GPSLocality>
+    <Longitude>3.859265</Longitude>
+    <Latitude>43.671824</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ulmus minor</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Ulmaceae Mirb.</Family>
+    <Genus>Ulmus L.</Genus>
+    <Species>Ulmus minor Mill.</Species>
+  </Taxon>
+  <VernacularNames>Field elm</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>299</IndividualPlantId2012>
+  <ImageID2012>1603.jpg</ImageID2012>
+</Image>
+

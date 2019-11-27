@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18322.jpg</FileName>
+  <IndividualPlantId>3183</IndividualPlantId>
+  <Date>21/03/10</Date>
+  <Locality>France - Saint-Maurice-Navacelles</Locality>
+  <GPSLocality>
+    <Longitude>3.511591</Longitude>
+    <Latitude>43.894120</Latitude>
+  </GPSLocality>
+  <Author>Andrine Faure</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Narcissus assoanus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Amaryllidaceae J. St.-Hil.</Family>
+    <Genus>Narcissus L.</Genus>
+    <Species>Narcissus assoanus Dufour ex Schult. &amp; Schult.f.</Species>
+  </Taxon>
+  <VernacularNames>Rush-leaf jonquil</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

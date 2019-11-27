@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>33720.jpg</FileName>
+  <IndividualPlantId>4876</IndividualPlantId>
+  <Date>20/05/08</Date>
+  <Locality>France - Saint-Vincent-D'olargues</Locality>
+  <GPSLocality>
+    <Longitude>2.879000</Longitude>
+    <Latitude>43.560570</Latitude>
+  </GPSLocality>
+  <Author>Franck Jullin</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Melittis melissophyllum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Lamiaceae Martinov</Family>
+    <Genus>Melittis L.</Genus>
+    <Species>Melittis melissophyllum L.</Species>
+  </Taxon>
+  <VernacularNames>Bastard balm</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2440.jpg</FileName>
+  <IndividualPlantId>1089</IndividualPlantId>
+  <Date>30/08/12</Date>
+  <Locality>France - Le Poujol-Sur-Orb</Locality>
+  <GPSLocality>
+    <Longitude>3.060416</Longitude>
+    <Latitude>43.579534</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Verbena officinalis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Verbenaceae J. St.-Hil.</Family>
+    <Genus>Verbena L.</Genus>
+    <Species>Verbena officinalis L.</Species>
+  </Taxon>
+  <VernacularNames>Common vervain</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

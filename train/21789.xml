@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21789.jpg</FileName>
+  <IndividualPlantId>6434</IndividualPlantId>
+  <Date>19/10/11</Date>
+  <Locality>France - Montaut</Locality>
+  <GPSLocality>
+    <Longitude>-0.200506</Longitude>
+    <Latitude>43.130354</Latitude>
+  </GPSLocality>
+  <Author>Veronique Nolan</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Laurus nobilis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Laurales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Lauraceae Juss.</Family>
+    <Genus>Laurus L.</Genus>
+    <Species>Laurus nobilis L.</Species>
+  </Taxon>
+  <VernacularNames>Laurel tree</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>89</IndividualPlantId2012>
+  <ImageID2012>10276.jpg</ImageID2012>
+</Image>
+

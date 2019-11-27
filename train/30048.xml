@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>30048.jpg</FileName>
+  <IndividualPlantId>1248</IndividualPlantId>
+  <Date>09/11/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Quercus ilex</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus ilex L.</Species>
+  </Taxon>
+  <VernacularNames>Holm oak</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>332</IndividualPlantId2012>
+  <ImageID2012>834.jpg</ImageID2012>
+</Image>
+

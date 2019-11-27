@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>33634.jpg</FileName>
+  <IndividualPlantId>815</IndividualPlantId>
+  <Date>17/04/12</Date>
+  <Locality>France - Homps</Locality>
+  <GPSLocality>
+    <Longitude>1.881442</Longitude>
+    <Latitude>43.966574</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Prunus dulcis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus dulcis (Mill.) D.A. Webb</Species>
+  </Taxon>
+  <VernacularNames>Almond</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15338.jpg</FileName>
+  <IndividualPlantId>134</IndividualPlantId>
+  <Date>01/05/12</Date>
+  <Locality>France - Sainte-Geneviève-Des-Bois</Locality>
+  <GPSLocality>
+    <Longitude>2.326838</Longitude>
+    <Latitude>48.642943</Latitude>
+  </GPSLocality>
+  <Author>Laetitia Goeau</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Platanus x hispanica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Proteanae Takht.</Superorder>
+    <Order>Proteales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Platanaceae T. Lestib.</Family>
+    <Genus>Platanus L.</Genus>
+    <Species>Platanus x hispanica Mill. ex MŸnchh.</Species>
+  </Taxon>
+  <VernacularNames>Hybrid plane</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>795</IndividualPlantId2012>
+  <ImageID2012>118.jpg</ImageID2012>
+</Image>
+

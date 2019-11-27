@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23282.jpg</FileName>
+  <IndividualPlantId>1701</IndividualPlantId>
+  <Date>10/09/12</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Vera Bakic</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Tilia platyphyllos</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Malvaceae Juss.</Family>
+    <Genus>Tilia L.</Genus>
+    <Species>Tilia platyphyllos Scop.</Species>
+  </Taxon>
+  <VernacularNames>Large leaved lime</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>12936.jpg</FileName>
+  <IndividualPlantId>1305</IndividualPlantId>
+  <Date>30/11/99</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Virginie Pons</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Acer monspessulanum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer monspessulanum L.</Species>
+  </Taxon>
+  <VernacularNames>Montpellier maple</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

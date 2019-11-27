@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>27709.jpg</FileName>
+  <IndividualPlantId>2444</IndividualPlantId>
+  <Date>19/04/12</Date>
+  <Locality>France - Comigne</Locality>
+  <GPSLocality>
+    <Longitude>2.579931</Longitude>
+    <Latitude>43.170207</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Lithodora fruticosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Boraginales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Boraginaceae Juss.</Family>
+    <Genus>Lithodora Griseb.</Genus>
+    <Species>Lithodora fruticosa (L.) Griseb.</Species>
+  </Taxon>
+  <VernacularNames>Carrasquilla arbustiva</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

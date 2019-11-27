@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9334.jpg</FileName>
+  <IndividualPlantId>3532</IndividualPlantId>
+  <Date>07/07/10</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Quercus pubescens</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus pubescens Willd.</Species>
+  </Taxon>
+  <VernacularNames>Pubescent oak</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>258</IndividualPlantId2012>
+  <ImageID2012>1479.jpg</ImageID2012>
+</Image>
+

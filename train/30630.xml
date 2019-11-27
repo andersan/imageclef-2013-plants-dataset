@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>30630.jpg</FileName>
+  <IndividualPlantId>2171</IndividualPlantId>
+  <Date>08/05/12</Date>
+  <Locality>France - Les Assions</Locality>
+  <GPSLocality>
+    <Longitude>4.174045</Longitude>
+    <Latitude>44.421387</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Gladiolus italicus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Iridaceae Juss.</Family>
+    <Genus>Gladiolus L.</Genus>
+    <Species>Gladiolus italicus Mill.</Species>
+  </Taxon>
+  <VernacularNames>Italian gladiolus</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

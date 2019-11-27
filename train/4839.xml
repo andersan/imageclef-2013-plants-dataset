@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4839.jpg</FileName>
+  <IndividualPlantId>3891</IndividualPlantId>
+  <Date>27/04/08</Date>
+  <Locality>France - Les Angles</Locality>
+  <GPSLocality>
+    <Longitude>4.773580</Longitude>
+    <Latitude>43.954465</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Euphorbia characias</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Euphorbiaceae Juss.</Family>
+    <Genus>Euphorbia L.</Genus>
+    <Species>Euphorbia characias L.</Species>
+  </Taxon>
+  <VernacularNames>Mediterranean spurge</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

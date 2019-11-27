@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>26895.jpg</FileName>
+  <IndividualPlantId>605</IndividualPlantId>
+  <Date>19/03/11</Date>
+  <Locality>France - Palavas-Les-Flots</Locality>
+  <GPSLocality>
+    <Longitude>3.933493</Longitude>
+    <Latitude>43.528906</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Pittosporum tobira</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Pittosporaceae R. Br.</Family>
+    <Genus>Pittosporum Banks ex Gaertn.</Genus>
+    <Species>Pittosporum tobira (Thunb.) W.T. Aiton</Species>
+  </Taxon>
+  <VernacularNames>Japanese mock-orange</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>1111</IndividualPlantId2012>
+  <ImageID2012>4547.jpg</ImageID2012>
+</Image>
+

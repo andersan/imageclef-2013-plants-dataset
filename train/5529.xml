@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5529.jpg</FileName>
+  <IndividualPlantId>9609</IndividualPlantId>
+  <Date>28/08/04</Date>
+  <Locality>France - Coutances</Locality>
+  <GPSLocality>
+    <Longitude>-1.445261</Longitude>
+    <Latitude>49.047808</Latitude>
+  </GPSLocality>
+  <Author>Augustin Roche</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Eupatorium cannabinum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Eupatorium L.</Genus>
+    <Species>Eupatorium cannabinum L.</Species>
+  </Taxon>
+  <VernacularNames>Hemp-agrimony</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

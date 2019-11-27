@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>30019.jpg</FileName>
+  <IndividualPlantId>1219</IndividualPlantId>
+  <Date>27/05/12</Date>
+  <Locality>France - Vienne</Locality>
+  <GPSLocality>
+    <Longitude>4.874339</Longitude>
+    <Latitude>45.525587</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Populus nigra</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Populus L.</Genus>
+    <Species>Populus nigra L.</Species>
+  </Taxon>
+  <VernacularNames>Black poplar</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

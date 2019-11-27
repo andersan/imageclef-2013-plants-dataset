@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4405.jpg</FileName>
+  <IndividualPlantId>1084</IndividualPlantId>
+  <Date>06/09/11</Date>
+  <Locality>France - Montferrier-Sur-Lez</Locality>
+  <GPSLocality>
+    <Longitude>3.859265</Longitude>
+    <Latitude>43.671824</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Cercis siliquastrum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Cercis L.</Genus>
+    <Species>Cercis siliquastrum L.</Species>
+  </Taxon>
+  <VernacularNames>Judas tree</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>569</IndividualPlantId2012>
+  <ImageID2012>11452.jpg</ImageID2012>
+</Image>
+

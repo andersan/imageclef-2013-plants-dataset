@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>33136.jpg</FileName>
+  <IndividualPlantId>892</IndividualPlantId>
+  <Date>30/11/99</Date>
+  <Locality>France - Tullins</Locality>
+  <GPSLocality>
+    <Longitude>5.483733</Longitude>
+    <Latitude>45.298409</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Sambucus nigra</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Sambucus L.</Genus>
+    <Species>Sambucus nigra L.</Species>
+  </Taxon>
+  <VernacularNames>Black elder</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>266</IndividualPlantId2012>
+  <ImageID2012>882.jpg</ImageID2012>
+</Image>
+

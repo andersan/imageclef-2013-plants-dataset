@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>27615.jpg</FileName>
+  <IndividualPlantId>3181</IndividualPlantId>
+  <Date>19/10/11</Date>
+  <Locality>France - Montaut</Locality>
+  <GPSLocality>
+    <Longitude>-0.200506</Longitude>
+    <Latitude>43.130354</Latitude>
+  </GPSLocality>
+  <Author>Veronique Nolan</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Sorbus torminalis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus torminalis (L.) Crantz</Species>
+  </Taxon>
+  <VernacularNames>Wild service tree</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>547</IndividualPlantId2012>
+  <ImageID2012>3298.jpg</ImageID2012>
+</Image>
+

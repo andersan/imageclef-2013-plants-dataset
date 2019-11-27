@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>27260.jpg</FileName>
+  <IndividualPlantId>7513</IndividualPlantId>
+  <Date>25/06/12</Date>
+  <Locality>France - Jonage</Locality>
+  <GPSLocality>
+    <Longitude>5.050381</Longitude>
+    <Latitude>45.796138</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Girod</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Cichorium intybus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Cichorium L.</Genus>
+    <Species>Cichorium intybus L.</Species>
+  </Taxon>
+  <VernacularNames>Common chicory</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

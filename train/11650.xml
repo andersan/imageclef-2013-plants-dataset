@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11650.jpg</FileName>
+  <IndividualPlantId>7657</IndividualPlantId>
+  <Date>08/05/12</Date>
+  <Locality>France - Rouillon</Locality>
+  <GPSLocality>
+    <Longitude>0.313551</Longitude>
+    <Latitude>47.957205</Latitude>
+  </GPSLocality>
+  <Author>Emmanuel Stratmains</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Stachys sylvatica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Lamiaceae Martinov</Family>
+    <Genus>Stachys L.</Genus>
+    <Species>Stachys sylvatica L.</Species>
+  </Taxon>
+  <VernacularNames>Hedge woundwort</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

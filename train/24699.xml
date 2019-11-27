@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24699.jpg</FileName>
+  <IndividualPlantId>5965</IndividualPlantId>
+  <Date>23/12/07</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>9.382324</Longitude>
+    <Latitude>41.890010</Latitude>
+  </GPSLocality>
+  <Author>Christophe Girod</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Calystegia soldanella</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Convolvulaceae Juss.</Family>
+    <Genus>Calystegia R. Br.</Genus>
+    <Species>Calystegia soldanella (L.) R. Br.</Species>
+  </Taxon>
+  <VernacularNames>Morning glory</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

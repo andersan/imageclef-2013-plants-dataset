@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>17194.jpg</FileName>
+  <IndividualPlantId>914</IndividualPlantId>
+  <Date>19/05/05</Date>
+  <Locality>France - Saint-Genès-Champespe</Locality>
+  <GPSLocality>
+    <Longitude>2.724826</Longitude>
+    <Latitude>45.417987</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Narcissus poeticus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Amaryllidaceae J. St.-Hil.</Family>
+    <Genus>Narcissus L.</Genus>
+    <Species>Narcissus poeticus L.</Species>
+  </Taxon>
+  <VernacularNames>Poet's daffodil</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

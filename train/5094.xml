@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5094.jpg</FileName>
+  <IndividualPlantId>4450</IndividualPlantId>
+  <Date>15/07/03</Date>
+  <Locality>France - Coutances</Locality>
+  <GPSLocality>
+    <Longitude>-1.445261</Longitude>
+    <Latitude>49.047808</Latitude>
+  </GPSLocality>
+  <Author>Augustin Roche</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Buddleja davidii</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Scrophulariaceae Juss.</Family>
+    <Genus>Buddleja L.</Genus>
+    <Species>Buddleja davidii Franch.</Species>
+  </Taxon>
+  <VernacularNames>Summer lilac</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

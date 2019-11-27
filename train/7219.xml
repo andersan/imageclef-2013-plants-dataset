@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7219.jpg</FileName>
+  <IndividualPlantId>7251</IndividualPlantId>
+  <Date>22/08/04</Date>
+  <Locality>France - Belz</Locality>
+  <GPSLocality>
+    <Longitude>-3.168706</Longitude>
+    <Latitude>47.675870</Latitude>
+  </GPSLocality>
+  <Author>Christophe Girod</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Gentiana pneumonanthe</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Gentianales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Gentianaceae Juss.</Family>
+    <Genus>Gentiana L.</Genus>
+    <Species>Gentiana pneumonanthe L.</Species>
+  </Taxon>
+  <VernacularNames>Marsh gentian</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

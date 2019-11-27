@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7140.jpg</FileName>
+  <IndividualPlantId>7555</IndividualPlantId>
+  <Date>30/07/07</Date>
+  <Locality>France - Juillac</Locality>
+  <GPSLocality>
+    <Longitude>1.322400</Longitude>
+    <Latitude>45.317259</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Solanum dulcamara</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Solanaceae Juss.</Family>
+    <Genus>Solanum L.</Genus>
+    <Species>Solanum dulcamara L.</Species>
+  </Taxon>
+  <VernacularNames>Bittersweet</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

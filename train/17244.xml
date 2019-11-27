@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>17244.jpg</FileName>
+  <IndividualPlantId>363</IndividualPlantId>
+  <Date>10/05/12</Date>
+  <Locality>France - Sainte-Enimie</Locality>
+  <GPSLocality>
+    <Longitude>3.461195</Longitude>
+    <Latitude>44.284375</Latitude>
+  </GPSLocality>
+  <Author>Jean-Jacques Houdre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Helianthemum apenninum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Cistaceae Juss.</Family>
+    <Genus>Helianthemum Mill.</Genus>
+    <Species>Helianthemum apenninum (L.) Mill.</Species>
+  </Taxon>
+  <VernacularNames>White rock-rose</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

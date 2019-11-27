@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10475.jpg</FileName>
+  <IndividualPlantId>1529</IndividualPlantId>
+  <Date>23/10/11</Date>
+  <Locality>France - Pontault-Combault</Locality>
+  <GPSLocality>
+    <Longitude>2.607598</Longitude>
+    <Latitude>48.801255</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Euonymus europaeus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Celastrales Link</Order>
+    <Family>Celastraceae R. Br.</Family>
+    <Genus>Euonymus L.</Genus>
+    <Species>Euonymus europaeus L.</Species>
+  </Taxon>
+  <VernacularNames>European spindle</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>354</IndividualPlantId2012>
+  <ImageID2012>7793.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10595.jpg</FileName>
+  <IndividualPlantId>314</IndividualPlantId>
+  <Date>26/10/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Platanus x hispanica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Proteanae Takht.</Superorder>
+    <Order>Proteales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Platanaceae T. Lestib.</Family>
+    <Genus>Platanus L.</Genus>
+    <Species>Platanus x hispanica Mill. ex MŸnchh.</Species>
+  </Taxon>
+  <VernacularNames>Hybrid plane</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>102</IndividualPlantId2012>
+  <ImageID2012>9027.jpg</ImageID2012>
+</Image>
+

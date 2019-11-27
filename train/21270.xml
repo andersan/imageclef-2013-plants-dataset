@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21270.jpg</FileName>
+  <IndividualPlantId>4039</IndividualPlantId>
+  <Date>11/04/12</Date>
+  <Locality>France - Narbonne</Locality>
+  <GPSLocality>
+    <Longitude>3.003078</Longitude>
+    <Latitude>43.184277</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Cistus albidus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Cistaceae Juss.</Family>
+    <Genus>Cistus L.</Genus>
+    <Species>Cistus albidus L.</Species>
+  </Taxon>
+  <VernacularNames>White cistus</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

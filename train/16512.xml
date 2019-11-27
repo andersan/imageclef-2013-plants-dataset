@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16512.jpg</FileName>
+  <IndividualPlantId>5133</IndividualPlantId>
+  <Date>05/04/08</Date>
+  <Locality>France - Mazères</Locality>
+  <GPSLocality>
+    <Longitude>1.677750</Longitude>
+    <Latitude>43.250484</Latitude>
+  </GPSLocality>
+  <Author>Catherine Mahyeux</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Senecio inaequidens</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Senecio L.</Genus>
+    <Species>Senecio inaequidens DC.</Species>
+  </Taxon>
+  <VernacularNames>Narrow-leaved ragwort</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

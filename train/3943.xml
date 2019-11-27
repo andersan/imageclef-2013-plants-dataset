@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3943.jpg</FileName>
+  <IndividualPlantId>215</IndividualPlantId>
+  <Date>10/07/07</Date>
+  <Locality>France - Saint-Mathieu-De-Tréviers</Locality>
+  <GPSLocality>
+    <Longitude>3.869400</Longitude>
+    <Latitude>43.770600</Latitude>
+  </GPSLocality>
+  <Author>John De Vos</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Adonis annua</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Adonis L.</Genus>
+    <Species>Adonis annua L.</Species>
+  </Taxon>
+  <VernacularNames>Pheasant's-eye</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

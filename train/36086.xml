@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>36086.jpg</FileName>
+  <IndividualPlantId>9884</IndividualPlantId>
+  <Date>01/08/06</Date>
+  <Locality>France - Audierne</Locality>
+  <GPSLocality>
+    <Longitude>-4.538540</Longitude>
+    <Latitude>48.021938</Latitude>
+  </GPSLocality>
+  <Author>Laurent Petit</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Euphorbia paralias</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Euphorbiaceae Juss.</Family>
+    <Genus>Euphorbia L.</Genus>
+    <Species>Euphorbia paralias L.</Species>
+  </Taxon>
+  <VernacularNames>Sea spurge</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

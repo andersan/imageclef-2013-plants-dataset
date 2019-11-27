@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1944.jpg</FileName>
+  <IndividualPlantId>5808</IndividualPlantId>
+  <Date>27/09/09</Date>
+  <Locality>France - Cerins</Locality>
+  <GPSLocality>
+    <Longitude>5.545683</Longitude>
+    <Latitude>45.781373</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Viburnum opulus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Viburnum L.</Genus>
+    <Species>Viburnum opulus L.</Species>
+  </Taxon>
+  <VernacularNames>Guelder rose</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

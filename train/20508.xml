@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20508.jpg</FileName>
+  <IndividualPlantId>1417</IndividualPlantId>
+  <Date>01/10/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Sophora japonica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Sophora L.</Genus>
+    <Species>Sophora japonica L.</Species>
+  </Taxon>
+  <VernacularNames>Pagoda tree</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>363</IndividualPlantId2012>
+  <ImageID2012>7198.jpg</ImageID2012>
+</Image>
+

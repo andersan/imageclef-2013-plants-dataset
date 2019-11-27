@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9399.jpg</FileName>
+  <IndividualPlantId>1476</IndividualPlantId>
+  <Date>03/06/09</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.350986</Longitude>
+    <Latitude>48.856667</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Syringa vulgaris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Syringa L.</Genus>
+    <Species>Syringa vulgaris L.</Species>
+  </Taxon>
+  <VernacularNames>Common lilac</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>296</IndividualPlantId2012>
+  <ImageID2012>2024.jpg</ImageID2012>
+</Image>
+

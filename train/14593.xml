@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14593.jpg</FileName>
+  <IndividualPlantId>1284</IndividualPlantId>
+  <Date>29/09/12</Date>
+  <Locality>France - Lyon</Locality>
+  <GPSLocality>
+    <Longitude>4.835659</Longitude>
+    <Latitude>45.764043</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Buddleja davidii</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Scrophulariaceae Juss.</Family>
+    <Genus>Buddleja L.</Genus>
+    <Species>Buddleja davidii Franch.</Species>
+  </Taxon>
+  <VernacularNames>Summer lilac</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

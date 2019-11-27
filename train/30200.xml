@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>30200.jpg</FileName>
+  <IndividualPlantId>2703</IndividualPlantId>
+  <Date>16/10/11</Date>
+  <Locality>France - Millau</Locality>
+  <GPSLocality>
+    <Longitude>2.696681</Longitude>
+    <Latitude>43.739816</Latitude>
+  </GPSLocality>
+  <Author>Danielle Domeyne</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Malva sylvestris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class />
+    <Subclass />
+    <Superorder />
+    <Order />
+    <Family />
+    <Genus />
+    <Species />
+  </Taxon>
+  <VernacularNames>Common mallow</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

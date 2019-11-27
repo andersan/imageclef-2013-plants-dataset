@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>35381.jpg</FileName>
+  <IndividualPlantId>1774</IndividualPlantId>
+  <Date>10/08/07</Date>
+  <Locality>France - Pompogne</Locality>
+  <GPSLocality>
+    <Longitude>2.812288</Longitude>
+    <Latitude>49.212204</Latitude>
+  </GPSLocality>
+  <Author>Jacques Taburel</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Euonymus europaeus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Celastrales Link</Order>
+    <Family>Celastraceae R. Br.</Family>
+    <Genus>Euonymus L.</Genus>
+    <Species>Euonymus europaeus L.</Species>
+  </Taxon>
+  <VernacularNames>European spindle</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

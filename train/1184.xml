@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1184.jpg</FileName>
+  <IndividualPlantId>367</IndividualPlantId>
+  <Date>20/04/11</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Vera Bakic</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Tilia dasystyla</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Malvaceae Juss.</Family>
+    <Genus>Tilia L.</Genus>
+    <Species>Tilia dasystyla Steven</Species>
+  </Taxon>
+  <VernacularNames>Caucasian lime tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

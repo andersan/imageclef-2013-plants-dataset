@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24654.jpg</FileName>
+  <IndividualPlantId>4749</IndividualPlantId>
+  <Date>04/07/10</Date>
+  <Locality>France - Eyne</Locality>
+  <GPSLocality>
+    <Longitude>2.040680</Longitude>
+    <Latitude>42.459596</Latitude>
+  </GPSLocality>
+  <Author>Alain Bigou</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Echium vulgare</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Boraginales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Boraginaceae Juss.</Family>
+    <Genus>Echium L.</Genus>
+    <Species>Echium vulgare L.</Species>
+  </Taxon>
+  <VernacularNames>Blueweed</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

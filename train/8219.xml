@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8219.jpg</FileName>
+  <IndividualPlantId>2312</IndividualPlantId>
+  <Date>27/09/11</Date>
+  <Locality>France - Bussy-Saint-Georges</Locality>
+  <GPSLocality>
+    <Longitude>2.698020</Longitude>
+    <Latitude>48.842205</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Magnolia grandiflora</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Magnoliales Bromhead</Order>
+    <Family>Magnoliaceae Juss.</Family>
+    <Genus>Magnolia L.</Genus>
+    <Species>Magnolia grandiflora L.</Species>
+  </Taxon>
+  <VernacularNames>Southern magnolia</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

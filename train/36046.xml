@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>36046.jpg</FileName>
+  <IndividualPlantId>3264</IndividualPlantId>
+  <Date>06/04/11</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.350986</Longitude>
+    <Latitude>48.856667</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Syringa vulgaris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Syringa L.</Genus>
+    <Species>Syringa vulgaris L.</Species>
+  </Taxon>
+  <VernacularNames>Common lilac</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>657</IndividualPlantId2012>
+  <ImageID2012>7091.jpg</ImageID2012>
+</Image>
+

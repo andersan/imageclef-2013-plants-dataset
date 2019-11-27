@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>690.jpg</FileName>
+  <IndividualPlantId>1207</IndividualPlantId>
+  <Date>13/08/10</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Rhamnus cathartica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rhamnaceae Juss.</Family>
+    <Genus>Rhamnus L.</Genus>
+    <Species>Rhamnus cathartica L.</Species>
+  </Taxon>
+  <VernacularNames>Purging buckthorn</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>97</IndividualPlantId2012>
+  <ImageID2012>5198.jpg</ImageID2012>
+</Image>
+

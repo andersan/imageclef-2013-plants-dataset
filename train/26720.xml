@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>26720.jpg</FileName>
+  <IndividualPlantId>4451</IndividualPlantId>
+  <Date>13/05/07</Date>
+  <Locality>France - Saint-Martin-De-L'arçon</Locality>
+  <GPSLocality>
+    <Longitude>2.983004</Longitude>
+    <Latitude>43.574820</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Cistus albidus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Cistaceae Juss.</Family>
+    <Genus>Cistus L.</Genus>
+    <Species>Cistus albidus L.</Species>
+  </Taxon>
+  <VernacularNames>White cistus</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

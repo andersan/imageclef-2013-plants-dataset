@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>28327.jpg</FileName>
+  <IndividualPlantId>5942</IndividualPlantId>
+  <Date>31/07/11</Date>
+  <Locality>France - Le Béage</Locality>
+  <GPSLocality>
+    <Longitude>4.119858</Longitude>
+    <Latitude>44.849219</Latitude>
+  </GPSLocality>
+  <Author>Houdste</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Gentiana pneumonanthe</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Gentianales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Gentianaceae Juss.</Family>
+    <Genus>Gentiana L.</Genus>
+    <Species>Gentiana pneumonanthe L.</Species>
+  </Taxon>
+  <VernacularNames>Marsh gentian</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

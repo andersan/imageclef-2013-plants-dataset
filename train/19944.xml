@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19944.jpg</FileName>
+  <IndividualPlantId>2899</IndividualPlantId>
+  <Date>21/10/11</Date>
+  <Locality>Switzerland - Fey</Locality>
+  <GPSLocality>
+    <Longitude>6.683434</Longitude>
+    <Latitude>46.674009</Latitude>
+  </GPSLocality>
+  <Author>Loic L</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Alnus glutinosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Alnus Mill.</Genus>
+    <Species>Alnus glutinosa (L.) Gaertn.</Species>
+  </Taxon>
+  <VernacularNames>Black alder</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>499</IndividualPlantId2012>
+  <ImageID2012>6031.jpg</ImageID2012>
+</Image>
+

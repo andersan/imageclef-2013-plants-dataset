@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>29720.jpg</FileName>
+  <IndividualPlantId>3407</IndividualPlantId>
+  <Date>12/06/05</Date>
+  <Locality>France - Eyne</Locality>
+  <GPSLocality>
+    <Longitude>2.040680</Longitude>
+    <Latitude>42.459596</Latitude>
+  </GPSLocality>
+  <Author>Alain Bigou</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Pulsatilla alpina</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Pulsatilla Mill.</Genus>
+    <Species>Pulsatilla alpina Delarbre</Species>
+  </Taxon>
+  <VernacularNames>Alpine pasqueflower</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

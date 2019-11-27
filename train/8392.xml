@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8392.jpg</FileName>
+  <IndividualPlantId>3755</IndividualPlantId>
+  <Date>02/05/09</Date>
+  <Locality>France - Fort-Louis</Locality>
+  <GPSLocality>
+    <Longitude>8.056883</Longitude>
+    <Latitude>48.801300</Latitude>
+  </GPSLocality>
+  <Author>Claire Sutter</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Prunus avium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus avium (L.) L.</Species>
+  </Taxon>
+  <VernacularNames>Wild cherry</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

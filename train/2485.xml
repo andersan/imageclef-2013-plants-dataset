@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2485.jpg</FileName>
+  <IndividualPlantId>646</IndividualPlantId>
+  <Date>05/10/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Melia azedarach</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Meliaceae Juss.</Family>
+    <Genus>Melia L.</Genus>
+    <Species>Melia azedarach L.</Species>
+  </Taxon>
+  <VernacularNames>Persian lilac</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>86</IndividualPlantId2012>
+  <ImageID2012>5138.jpg</ImageID2012>
+</Image>
+

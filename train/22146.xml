@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22146.jpg</FileName>
+  <IndividualPlantId>4008</IndividualPlantId>
+  <Date>24/04/03</Date>
+  <Locality>France - Le Reposoir</Locality>
+  <GPSLocality>
+    <Longitude>6.534832</Longitude>
+    <Latitude>46.011025</Latitude>
+  </GPSLocality>
+  <Author>John De Vos</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Soldanella alpina</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Primulaceae Batsch ex Borkh.</Family>
+    <Genus>Soldanella L.</Genus>
+    <Species>Soldanella alpina L.</Species>
+  </Taxon>
+  <VernacularNames>Alpine snowbell</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

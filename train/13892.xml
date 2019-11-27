@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13892.jpg</FileName>
+  <IndividualPlantId>5017</IndividualPlantId>
+  <Date>20/04/11</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Fraxinus excelsior</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus excelsior L.</Species>
+  </Taxon>
+  <VernacularNames>European ash</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

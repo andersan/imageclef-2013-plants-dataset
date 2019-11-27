@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>33061.jpg</FileName>
+  <IndividualPlantId>3386</IndividualPlantId>
+  <Date>01/05/12</Date>
+  <Locality>Morocco - Boumia</Locality>
+  <GPSLocality>
+    <Longitude>-5.099716</Longitude>
+    <Latitude>32.718410</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Ruta montana</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Rutaceae Juss.</Family>
+    <Genus>Ruta L.</Genus>
+    <Species>Ruta montana (L.) L.</Species>
+  </Taxon>
+  <VernacularNames>Mountain rue</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

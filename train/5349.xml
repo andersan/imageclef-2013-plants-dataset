@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5349.jpg</FileName>
+  <IndividualPlantId>3774</IndividualPlantId>
+  <Date>07/05/12</Date>
+  <Locality>France - Comigne</Locality>
+  <GPSLocality>
+    <Longitude>2.579931</Longitude>
+    <Latitude>43.170207</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Prunus mahaleb</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Cerasus Mill</Genus>
+    <Species>Cerasus mahaleb (L.) Mill.</Species>
+  </Taxon>
+  <VernacularNames>St lucie cherry</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

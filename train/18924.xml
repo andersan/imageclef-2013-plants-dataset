@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18924.jpg</FileName>
+  <IndividualPlantId>5461</IndividualPlantId>
+  <Date>17/04/12</Date>
+  <Locality>France - Homps</Locality>
+  <GPSLocality>
+    <Longitude>1.881442</Longitude>
+    <Latitude>43.966574</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Fraxinus ornus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus ornus L.</Species>
+  </Taxon>
+  <VernacularNames>Manna ash</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

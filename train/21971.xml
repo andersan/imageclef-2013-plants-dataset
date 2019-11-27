@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21971.jpg</FileName>
+  <IndividualPlantId>4921</IndividualPlantId>
+  <Date>01/05/12</Date>
+  <Locality>France - Couchey</Locality>
+  <GPSLocality>
+    <Longitude>4.979330</Longitude>
+    <Latitude>47.260931</Latitude>
+  </GPSLocality>
+  <Author>Gerard Calberac</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Helianthemum apenninum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Cistaceae Juss.</Family>
+    <Genus>Helianthemum Mill.</Genus>
+    <Species>Helianthemum apenninum (L.) Mill.</Species>
+  </Taxon>
+  <VernacularNames>White rock-rose</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

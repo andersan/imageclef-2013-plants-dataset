@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>35792.jpg</FileName>
+  <IndividualPlantId>6245</IndividualPlantId>
+  <Date>03/05/11</Date>
+  <Locality>France - Mas-De-Londres</Locality>
+  <GPSLocality>
+    <Longitude>3.752129</Longitude>
+    <Latitude>43.781528</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Linum campanulatum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Linaceae DC. ex Perleb</Family>
+    <Genus>Linum L.</Genus>
+    <Species>Linum campanulatum L.</Species>
+  </Taxon>
+  <VernacularNames>Flax</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

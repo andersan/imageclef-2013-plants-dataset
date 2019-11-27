@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23795.jpg</FileName>
+  <IndividualPlantId>3350</IndividualPlantId>
+  <Date>10/09/12</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Pinus halepensis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Pinidae Cronquist, Takht. &amp; W. Zimm.</Subclass>
+    <Superorder>Pinidae Cronquist, Takht. &amp; W. Zimm.</Superorder>
+    <Order>Pinales Gorozh.</Order>
+    <Family>Pinaceae Spreng. ex Rudolphi</Family>
+    <Genus>Pinus L.</Genus>
+    <Species>Pinus halepensis Mill.</Species>
+  </Taxon>
+  <VernacularNames>Aleppo pine</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

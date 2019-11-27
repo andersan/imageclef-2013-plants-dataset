@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6680.jpg</FileName>
+  <IndividualPlantId>4539</IndividualPlantId>
+  <Date>31/01/12</Date>
+  <Locality>France - Gémenos</Locality>
+  <GPSLocality>
+    <Longitude>5.628112</Longitude>
+    <Latitude>43.295388</Latitude>
+  </GPSLocality>
+  <Author>Georges Thomassier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Robinia pseudoacacia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Robinia L.</Genus>
+    <Species>Robinia pseudoacacia L.</Species>
+  </Taxon>
+  <VernacularNames>Black locust</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

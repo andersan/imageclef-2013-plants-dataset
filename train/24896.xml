@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24896.jpg</FileName>
+  <IndividualPlantId>142</IndividualPlantId>
+  <Date>09/11/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Crataegus azarolus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Crataegus L.</Genus>
+    <Species>Crataegus azarolus L.</Species>
+  </Taxon>
+  <VernacularNames>Azarole</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>160</IndividualPlantId2012>
+  <ImageID2012>7173.jpg</ImageID2012>
+</Image>
+

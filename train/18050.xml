@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18050.jpg</FileName>
+  <IndividualPlantId>718</IndividualPlantId>
+  <Date>14/06/09</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Gemnature</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Celtis australis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Cannabaceae Martinov</Family>
+    <Genus>Celtis L.</Genus>
+    <Species>Celtis australis L.</Species>
+  </Taxon>
+  <VernacularNames>European nettletree</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>635</IndividualPlantId2012>
+  <ImageID2012>6366.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18205.jpg</FileName>
+  <IndividualPlantId>295</IndividualPlantId>
+  <Date>13/08/10</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Tilia cordata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Malvaceae Juss.</Family>
+    <Genus>Tilia L.</Genus>
+    <Species>Tilia cordata Mill.</Species>
+  </Taxon>
+  <VernacularNames>Small leaved lime</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>330</IndividualPlantId2012>
+  <ImageID2012>6340.jpg</ImageID2012>
+</Image>
+

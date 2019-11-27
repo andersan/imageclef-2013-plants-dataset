@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14407.jpg</FileName>
+  <IndividualPlantId>4447</IndividualPlantId>
+  <Date>22/04/07</Date>
+  <Locality>France - Fontaine</Locality>
+  <GPSLocality>
+    <Longitude>-0.725914</Longitude>
+    <Latitude>48.904326</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Mespilus germanica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Mespilus L.</Genus>
+    <Species>Mespilus germanica L.</Species>
+  </Taxon>
+  <VernacularNames>Common medlar</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

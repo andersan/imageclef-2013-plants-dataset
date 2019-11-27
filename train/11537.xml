@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11537.jpg</FileName>
+  <IndividualPlantId>1551</IndividualPlantId>
+  <Date>20/10/11</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Photinia serrulata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Photinia Lindl.</Genus>
+    <Species>Photinia serrulata Lindl.</Species>
+  </Taxon>
+  <VernacularNames>Chinese photinia</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>628</IndividualPlantId2012>
+  <ImageID2012>11208.jpg</ImageID2012>
+</Image>
+

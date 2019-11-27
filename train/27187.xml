@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>27187.jpg</FileName>
+  <IndividualPlantId>1433</IndividualPlantId>
+  <Date>26/04/11</Date>
+  <Locality>France - Quissac</Locality>
+  <GPSLocality>
+    <Longitude>3.998719</Longitude>
+    <Latitude>43.910960</Latitude>
+  </GPSLocality>
+  <Author>Jpm</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Cornus sanguinea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Cornales Link</Order>
+    <Family>Cornaceae Bercht. ex J. Presl</Family>
+    <Genus>Cornus L.</Genus>
+    <Species>Cornus sanguinea L.</Species>
+  </Taxon>
+  <VernacularNames>Common dogwood</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

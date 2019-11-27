@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>34715.jpg</FileName>
+  <IndividualPlantId>604</IndividualPlantId>
+  <Date>02/05/12</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.350986</Longitude>
+    <Latitude>48.856667</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Cistus albidus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Cistaceae Juss.</Family>
+    <Genus>Cistus L.</Genus>
+    <Species>Cistus albidus L.</Species>
+  </Taxon>
+  <VernacularNames>White cistus</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

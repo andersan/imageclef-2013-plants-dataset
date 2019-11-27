@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15169.jpg</FileName>
+  <IndividualPlantId>2889</IndividualPlantId>
+  <Date>20/02/11</Date>
+  <Locality>France - Flaxlanden</Locality>
+  <GPSLocality>
+    <Longitude>7.314939</Longitude>
+    <Latitude>47.695610</Latitude>
+  </GPSLocality>
+  <Author>Pierre Walther</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Tussilago farfara</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Tussilago L.</Genus>
+    <Species>Tussilago farfara L.</Species>
+  </Taxon>
+  <VernacularNames>Coltsfoot</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

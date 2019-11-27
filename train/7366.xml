@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7366.jpg</FileName>
+  <IndividualPlantId>3304</IndividualPlantId>
+  <Date>20/03/11</Date>
+  <Locality>France - Villeneuve-Lès-Maguelone</Locality>
+  <GPSLocality>
+    <Longitude>3.862019</Longitude>
+    <Latitude>43.532977</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Himantoglossum robertianum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Himantoglossum Spreng.</Genus>
+    <Species>Himantoglossum robertianum P. Delforge</Species>
+  </Taxon>
+  <VernacularNames>Giant orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

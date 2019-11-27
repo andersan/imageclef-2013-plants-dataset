@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>34599.jpg</FileName>
+  <IndividualPlantId>1535</IndividualPlantId>
+  <Date>02/04/11</Date>
+  <Locality>France - Palavas-Les-Flots</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Malva sylvestris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class />
+    <Subclass />
+    <Superorder />
+    <Order />
+    <Family />
+    <Genus />
+    <Species />
+  </Taxon>
+  <VernacularNames>Common mallow</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

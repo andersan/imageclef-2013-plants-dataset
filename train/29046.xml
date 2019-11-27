@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>29046.jpg</FileName>
+  <IndividualPlantId>131</IndividualPlantId>
+  <Date>28/08/11</Date>
+  <Locality>France - Chessy</Locality>
+  <GPSLocality>
+    <Longitude>2.764560</Longitude>
+    <Latitude>48.879679</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Ailanthus altissima</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Simaroubaceae DC.</Family>
+    <Genus>Ailanthus Desf.</Genus>
+    <Species>Ailanthus altissima (Mill.) Swingle</Species>
+  </Taxon>
+  <VernacularNames>Tree of heaven</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

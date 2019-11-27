@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>27880.jpg</FileName>
+  <IndividualPlantId>163</IndividualPlantId>
+  <Date>11/10/11</Date>
+  <Locality>France - Puéchabon</Locality>
+  <GPSLocality>
+    <Longitude>3.617468</Longitude>
+    <Latitude>43.714103</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Capparis spinosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Brassicales Bromhead</Order>
+    <Family>Capparaceae Juss.</Family>
+    <Genus>Capparis L.</Genus>
+    <Species>Capparis spinosa L.</Species>
+  </Taxon>
+  <VernacularNames>Caper bush</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>340</IndividualPlantId2012>
+  <ImageID2012>9938.jpg</ImageID2012>
+</Image>
+

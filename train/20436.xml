@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20436.jpg</FileName>
+  <IndividualPlantId>1883</IndividualPlantId>
+  <Date>16/08/09</Date>
+  <Locality>France - Châteauneuf-De-Randon</Locality>
+  <GPSLocality>
+    <Longitude>3.675263</Longitude>
+    <Latitude>44.641705</Latitude>
+  </GPSLocality>
+  <Author>Gregoire Duche</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Epilobium angustifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Myrtales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Onagraceae Juss.</Family>
+    <Genus>Epilobium L.</Genus>
+    <Species>Epilobium angustifolium L.</Species>
+  </Taxon>
+  <VernacularNames>Fireweed</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

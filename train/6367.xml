@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6367.jpg</FileName>
+  <IndividualPlantId>2632</IndividualPlantId>
+  <Date>20/04/01</Date>
+  <Locality>France - Villemagne-L'argentière</Locality>
+  <GPSLocality>
+    <Longitude>3.120009</Longitude>
+    <Latitude>43.618049</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Fraxinus ornus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus ornus L.</Species>
+  </Taxon>
+  <VernacularNames>Manna ash</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

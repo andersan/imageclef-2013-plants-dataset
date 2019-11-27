@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3616.jpg</FileName>
+  <IndividualPlantId>2012</IndividualPlantId>
+  <Date>22/04/08</Date>
+  <Locality>France - Laborel</Locality>
+  <GPSLocality>
+    <Longitude>5.962798</Longitude>
+    <Latitude>44.440658</Latitude>
+  </GPSLocality>
+  <Author>Franck Jullin</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Anemone hepatica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Anemone L.</Genus>
+    <Species>Anemone hepatica L.</Species>
+  </Taxon>
+  <VernacularNames>Common hepatica</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

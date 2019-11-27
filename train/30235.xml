@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>30235.jpg</FileName>
+  <IndividualPlantId>337</IndividualPlantId>
+  <Date>07/07/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Olea europaea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Olea L.</Genus>
+    <Species>Olea europaea L.</Species>
+  </Taxon>
+  <VernacularNames>Olive tree</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>92</IndividualPlantId2012>
+  <ImageID2012>6904.jpg</ImageID2012>
+</Image>
+

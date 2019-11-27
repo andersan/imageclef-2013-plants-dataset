@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8174.jpg</FileName>
+  <IndividualPlantId>1702</IndividualPlantId>
+  <Date>24/11/11</Date>
+  <Locality>France - Jossigny</Locality>
+  <GPSLocality>
+    <Longitude>2.753350</Longitude>
+    <Latitude>48.837864</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Quercus petraea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus petraea (Matt.) Liebl.</Species>
+  </Taxon>
+  <VernacularNames>Durmast oak</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>463</IndividualPlantId2012>
+  <ImageID2012>3008.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>30796.jpg</FileName>
+  <IndividualPlantId>1360</IndividualPlantId>
+  <Date>16/02/11</Date>
+  <Locality>France - Marcoux</Locality>
+  <GPSLocality>
+    <Longitude>4.013247</Longitude>
+    <Latitude>45.710831</Latitude>
+  </GPSLocality>
+  <Author>Houdste</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Gagea bohemica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Liliales Perleb</Order>
+    <Family>Liliaceae Juss.</Family>
+    <Genus>Gagea Salisb.</Genus>
+    <Species>Gagea bohemica (Zauschn.) Schult. &amp; Schult.f.</Species>
+  </Taxon>
+  <VernacularNames>Early star-of-bethlehem</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

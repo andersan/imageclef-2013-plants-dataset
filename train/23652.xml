@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23652.jpg</FileName>
+  <IndividualPlantId>2283</IndividualPlantId>
+  <Date>16/05/08</Date>
+  <Locality>France - Lioux</Locality>
+  <GPSLocality>
+    <Longitude>5.301341</Longitude>
+    <Latitude>43.946532</Latitude>
+  </GPSLocality>
+  <Author>Franck Jullin</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Aristolochia pistolochia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Piperales Bercht. &amp; J. Presl</Order>
+    <Family>Aristolochiaceae Juss.</Family>
+    <Genus>Aristolochia L.</Genus>
+    <Species>Aristolochia pistolochia L.</Species>
+  </Taxon>
+  <VernacularNames>Spanish birthwort</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

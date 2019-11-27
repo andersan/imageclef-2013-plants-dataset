@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3198.jpg</FileName>
+  <IndividualPlantId>5443</IndividualPlantId>
+  <Date>01/08/12</Date>
+  <Locality>France - Allonnes</Locality>
+  <GPSLocality>
+    <Longitude>0.068044</Longitude>
+    <Latitude>48.339993</Latitude>
+  </GPSLocality>
+  <Author>Emmanuel Stratmains</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Agrimonia eupatoria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Agrimonia L.</Genus>
+    <Species>Agrimonia eupatoria L.</Species>
+  </Taxon>
+  <VernacularNames>Common agrimony</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

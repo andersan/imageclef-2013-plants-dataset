@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9629.jpg</FileName>
+  <IndividualPlantId>7673</IndividualPlantId>
+  <Date>20/05/09</Date>
+  <Locality>France - Tonnerre</Locality>
+  <GPSLocality>
+    <Longitude>3.971311</Longitude>
+    <Latitude>47.869256</Latitude>
+  </GPSLocality>
+  <Author>Houdste</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Orchis purpurea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Orchis L.</Genus>
+    <Species>Orchis purpurea Huds.</Species>
+  </Taxon>
+  <VernacularNames>Lady orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

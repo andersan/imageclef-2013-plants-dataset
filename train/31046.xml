@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>31046.jpg</FileName>
+  <IndividualPlantId>628</IndividualPlantId>
+  <Date>16/08/08</Date>
+  <Locality>France - Amélie-Les-Bains-Palalda</Locality>
+  <GPSLocality>
+    <Longitude>2.669719</Longitude>
+    <Latitude>42.472914</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Nerium oleander</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Gentianales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Apocynaceae Juss.</Family>
+    <Genus>Nerium L.</Genus>
+    <Species>Nerium oleander L.</Species>
+  </Taxon>
+  <VernacularNames>Oleander</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

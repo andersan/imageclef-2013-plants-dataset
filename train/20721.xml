@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20721.jpg</FileName>
+  <IndividualPlantId>2315</IndividualPlantId>
+  <Date>05/08/04</Date>
+  <Locality>France - Nîmes</Locality>
+  <GPSLocality>
+    <Longitude>4.360054</Longitude>
+    <Latitude>43.836699</Latitude>
+  </GPSLocality>
+  <Author>Jpm</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Olea europaea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Olea L.</Genus>
+    <Species>Olea europaea L.</Species>
+  </Taxon>
+  <VernacularNames>Olive tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

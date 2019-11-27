@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>28294.jpg</FileName>
+  <IndividualPlantId>1689</IndividualPlantId>
+  <Date>15/06/93</Date>
+  <Locality>France - Canaples</Locality>
+  <GPSLocality>
+    <Longitude>2.217418</Longitude>
+    <Latitude>50.055933</Latitude>
+  </GPSLocality>
+  <Author>Laurent Petit</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Rosa canina</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Rosa L.</Genus>
+    <Species>Rosa canina L.</Species>
+  </Taxon>
+  <VernacularNames>Dog rose</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

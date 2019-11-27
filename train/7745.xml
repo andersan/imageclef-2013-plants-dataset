@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7745.jpg</FileName>
+  <IndividualPlantId>2137</IndividualPlantId>
+  <Date>01/11/11</Date>
+  <Locality>France - Ozoir-La-Ferrière</Locality>
+  <GPSLocality>
+    <Longitude>2.671739</Longitude>
+    <Latitude>48.763827</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Viburnum opulus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Viburnum L.</Genus>
+    <Species>Viburnum opulus L.</Species>
+  </Taxon>
+  <VernacularNames>Guelder rose</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>655</IndividualPlantId2012>
+  <ImageID2012>10677.jpg</ImageID2012>
+</Image>
+

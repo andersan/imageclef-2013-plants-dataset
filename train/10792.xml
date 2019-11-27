@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10792.jpg</FileName>
+  <IndividualPlantId>7654</IndividualPlantId>
+  <Date>30/06/05</Date>
+  <Locality>France - Laruns</Locality>
+  <GPSLocality>
+    <Longitude>-0.426274</Longitude>
+    <Latitude>42.987644</Latitude>
+  </GPSLocality>
+  <Author>Alain Bigou</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Lilium martagon</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Liliales Perleb</Order>
+    <Family>Liliaceae Juss.</Family>
+    <Genus>Lilium L.</Genus>
+    <Species>Lilium martagon L.</Species>
+  </Taxon>
+  <VernacularNames>Turk's cap lily</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

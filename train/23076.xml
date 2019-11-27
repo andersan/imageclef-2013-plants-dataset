@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23076.jpg</FileName>
+  <IndividualPlantId>2929</IndividualPlantId>
+  <Date>15/07/07</Date>
+  <Locality>France - Avignon</Locality>
+  <GPSLocality>
+    <Longitude>4.805528</Longitude>
+    <Latitude>43.949317</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Malva sylvestris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class />
+    <Subclass />
+    <Superorder />
+    <Order />
+    <Family />
+    <Genus />
+    <Species />
+  </Taxon>
+  <VernacularNames>Common mallow</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

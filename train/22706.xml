@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22706.jpg</FileName>
+  <IndividualPlantId>1008</IndividualPlantId>
+  <Date>04/06/07</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Juniperus oxycedrus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Pinidae Cronquist, Takht. &amp; W. Zimm.</Subclass>
+    <Superorder>Pinidae Cronquist, Takht. &amp; W. Zimm.</Superorder>
+    <Order>Cupressales Link</Order>
+    <Family>Cupressaceae Gray</Family>
+    <Genus>Juniperus L.</Genus>
+    <Species>Juniperus oxycedrus L.</Species>
+  </Taxon>
+  <VernacularNames>Prickly juniper</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

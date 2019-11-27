@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>32016.jpg</FileName>
+  <IndividualPlantId>389</IndividualPlantId>
+  <Date>24/02/12</Date>
+  <Locality>France - Sainte-Geneviève-Des-Bois</Locality>
+  <GPSLocality>
+    <Longitude>2.326838</Longitude>
+    <Latitude>48.642943</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Hedera helix</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Araliaceae Juss.</Family>
+    <Genus>Hedera L.</Genus>
+    <Species>Hedera helix L.</Species>
+  </Taxon>
+  <VernacularNames>English ivy</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>1088</IndividualPlantId2012>
+  <ImageID2012>9337.jpg</ImageID2012>
+</Image>
+

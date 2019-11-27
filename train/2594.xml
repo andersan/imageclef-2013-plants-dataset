@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2594.jpg</FileName>
+  <IndividualPlantId>2736</IndividualPlantId>
+  <Date>27/10/11</Date>
+  <Locality>France - Bédoin</Locality>
+  <GPSLocality>
+    <Longitude>5.180374</Longitude>
+    <Latitude>44.124008</Latitude>
+  </GPSLocality>
+  <Author>Violette Roche</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Quercus pubescens</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus pubescens Willd.</Species>
+  </Taxon>
+  <VernacularNames>Pubescent oak</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>488</IndividualPlantId2012>
+  <ImageID2012>11412.jpg</ImageID2012>
+</Image>
+

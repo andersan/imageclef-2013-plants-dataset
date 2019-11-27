@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22145.jpg</FileName>
+  <IndividualPlantId>8622</IndividualPlantId>
+  <Date>14/05/11</Date>
+  <Locality>France - Marseille</Locality>
+  <GPSLocality>
+    <Longitude>5.369780</Longitude>
+    <Latitude>43.296482</Latitude>
+  </GPSLocality>
+  <Author>Bernard Ginesy</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Ophrys apifera</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Ophrys L.</Genus>
+    <Species>Ophrys apifera Huds.</Species>
+  </Taxon>
+  <VernacularNames>Bee orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

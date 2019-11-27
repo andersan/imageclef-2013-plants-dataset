@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20807.jpg</FileName>
+  <IndividualPlantId>160</IndividualPlantId>
+  <Date>03/04/11</Date>
+  <Locality>France - Ferrières-Les-Verreries</Locality>
+  <GPSLocality>
+    <Longitude>3.797375</Longitude>
+    <Latitude>43.877922</Latitude>
+  </GPSLocality>
+  <Author>Houdste</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Globularia bisnagarica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Plantaginaceae Juss.</Family>
+    <Genus>Globularia L.</Genus>
+    <Species>Globularia bisnagarica L.</Species>
+  </Taxon>
+  <VernacularNames>Common globularia</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

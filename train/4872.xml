@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4872.jpg</FileName>
+  <IndividualPlantId>3521</IndividualPlantId>
+  <Date>22/04/12</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Prunus dulcis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus dulcis (Mill.) D.A. Webb</Species>
+  </Taxon>
+  <VernacularNames>Almond</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>1052</IndividualPlantId2012>
+  <ImageID2012>4498.jpg</ImageID2012>
+</Image>
+

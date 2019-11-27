@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16576.jpg</FileName>
+  <IndividualPlantId>1125</IndividualPlantId>
+  <Date>05/11/10</Date>
+  <Locality>France - Palavas-Les-Flots</Locality>
+  <GPSLocality>
+    <Longitude>3.933493</Longitude>
+    <Latitude>43.528906</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Olea europaea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Olea L.</Genus>
+    <Species>Olea europaea L.</Species>
+  </Taxon>
+  <VernacularNames>Olive tree</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>39</IndividualPlantId2012>
+  <ImageID2012>7551.jpg</ImageID2012>
+</Image>
+

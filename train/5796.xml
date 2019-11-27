@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5796.jpg</FileName>
+  <IndividualPlantId>1614</IndividualPlantId>
+  <Date>08/10/11</Date>
+  <Locality>France - Puéchabon</Locality>
+  <GPSLocality>
+    <Longitude>3.617468</Longitude>
+    <Latitude>43.714103</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Juniperus oxycedrus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Pinidae Cronquist, Takht. &amp; W. Zimm.</Subclass>
+    <Superorder>Pinidae Cronquist, Takht. &amp; W. Zimm.</Superorder>
+    <Order>Cupressales Link</Order>
+    <Family>Cupressaceae Gray</Family>
+    <Genus>Juniperus L.</Genus>
+    <Species>Juniperus oxycedrus L.</Species>
+  </Taxon>
+  <VernacularNames>Prickly juniper</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>9</IndividualPlantId2012>
+  <ImageID2012>5034.jpg</ImageID2012>
+</Image>
+

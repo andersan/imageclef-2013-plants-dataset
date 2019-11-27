@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5517.jpg</FileName>
+  <IndividualPlantId>1812</IndividualPlantId>
+  <Date>07/07/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ginkgo biloba</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Ginkgoidae Engl.</Subclass>
+    <Superorder>Ginkgoidae Engl.</Superorder>
+    <Order>Ginkgoales Gorozh.</Order>
+    <Family>Ginkgoaceae Engl.</Family>
+    <Genus>Ginkgo L.</Genus>
+    <Species>Ginkgo biloba L.</Species>
+  </Taxon>
+  <VernacularNames>Ginkgo</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>337</IndividualPlantId2012>
+  <ImageID2012>7767.jpg</ImageID2012>
+</Image>
+

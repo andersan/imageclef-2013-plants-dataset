@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24815.jpg</FileName>
+  <IndividualPlantId>171</IndividualPlantId>
+  <Date>13/08/10</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Cerasus mahaleb</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Cerasus Mill</Genus>
+    <Species>Cerasus mahaleb (L.) Mill.</Species>
+  </Taxon>
+  <VernacularNames>St lucie cherry</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>75</IndividualPlantId2012>
+  <ImageID2012>6508.jpg</ImageID2012>
+</Image>
+

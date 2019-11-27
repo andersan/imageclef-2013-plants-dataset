@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5980.jpg</FileName>
+  <IndividualPlantId>102</IndividualPlantId>
+  <Date>19/04/12</Date>
+  <Locality>France - Beziers</Locality>
+  <GPSLocality>
+    <Longitude>-2.847453</Longitude>
+    <Latitude>48.510919</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Morus alba</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Moraceae Gaudich.</Family>
+    <Genus>Morus L.</Genus>
+    <Species>Morus alba L.</Species>
+  </Taxon>
+  <VernacularNames>White mulberry</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

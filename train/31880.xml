@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>31880.jpg</FileName>
+  <IndividualPlantId>438</IndividualPlantId>
+  <Date>05/07/10</Date>
+  <Locality>France - Valdeblore</Locality>
+  <GPSLocality>
+    <Longitude>7.171900</Longitude>
+    <Latitude>44.071900</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Campanula trachelium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Campanulaceae Juss.</Family>
+    <Genus>Campanula L.</Genus>
+    <Species>Campanula trachelium L.</Species>
+  </Taxon>
+  <VernacularNames>Nettle-leaved bellflower</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

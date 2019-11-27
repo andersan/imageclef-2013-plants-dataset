@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>576.jpg</FileName>
+  <IndividualPlantId>746</IndividualPlantId>
+  <Date>14/11/11</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Cornus mas</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Cornales Link</Order>
+    <Family>Cornaceae Bercht. ex J. Presl</Family>
+    <Genus>Cornus L.</Genus>
+    <Species>Cornus mas L.</Species>
+  </Taxon>
+  <VernacularNames>European cornel</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>1026</IndividualPlantId2012>
+  <ImageID2012>10743.jpg</ImageID2012>
+</Image>
+

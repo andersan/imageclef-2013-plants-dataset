@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10364.jpg</FileName>
+  <IndividualPlantId>4647</IndividualPlantId>
+  <Date>28/09/12</Date>
+  <Locality>France - Saintes</Locality>
+  <GPSLocality>
+    <Longitude>-0.633389</Longitude>
+    <Latitude>45.744175</Latitude>
+  </GPSLocality>
+  <Author>Biodiv01</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Prunus spinosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus spinosa L.</Species>
+  </Taxon>
+  <VernacularNames>Blackthorn</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

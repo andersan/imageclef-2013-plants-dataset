@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5088.jpg</FileName>
+  <IndividualPlantId>286</IndividualPlantId>
+  <Date>23/10/11</Date>
+  <Locality>France - Roissy-En-France</Locality>
+  <GPSLocality>
+    <Longitude>2.516978</Longitude>
+    <Latitude>49.003630</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Alnus cordata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Alnus Mill.</Genus>
+    <Species>Alnus cordata (Loisel.) Duby</Species>
+  </Taxon>
+  <VernacularNames>Italian alder</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>168</IndividualPlantId2012>
+  <ImageID2012>6138.jpg</ImageID2012>
+</Image>
+

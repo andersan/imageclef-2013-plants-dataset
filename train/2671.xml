@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2671.jpg</FileName>
+  <IndividualPlantId>3452</IndividualPlantId>
+  <Date>25/11/11</Date>
+  <Locality>France - Croissy-Beaubourg</Locality>
+  <GPSLocality>
+    <Longitude>2.659396</Longitude>
+    <Latitude>48.827918</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Quercus petraea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus petraea (Matt.) Liebl.</Species>
+  </Taxon>
+  <VernacularNames>Durmast oak</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>530</IndividualPlantId2012>
+  <ImageID2012>4990.jpg</ImageID2012>
+</Image>
+

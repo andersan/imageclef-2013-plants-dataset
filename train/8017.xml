@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8017.jpg</FileName>
+  <IndividualPlantId>1249</IndividualPlantId>
+  <Date>15/07/10</Date>
+  <Locality>France - Lattes</Locality>
+  <GPSLocality>
+    <Longitude>3.896473</Longitude>
+    <Latitude>43.567296</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ficus carica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Moraceae Gaudich.</Family>
+    <Genus>Ficus L.</Genus>
+    <Species>Ficus carica L.</Species>
+  </Taxon>
+  <VernacularNames>Common fig</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>613</IndividualPlantId2012>
+  <ImageID2012>9445.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3130.jpg</FileName>
+  <IndividualPlantId>1088</IndividualPlantId>
+  <Date>05/11/10</Date>
+  <Locality>France - Lattes</Locality>
+  <GPSLocality>
+    <Longitude>3.896473</Longitude>
+    <Latitude>43.567296</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Magnolia grandiflora</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Magnoliales Bromhead</Order>
+    <Family>Magnoliaceae Juss.</Family>
+    <Genus>Magnolia L.</Genus>
+    <Species>Magnolia grandiflora L.</Species>
+  </Taxon>
+  <VernacularNames>Southern magnolia</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>240</IndividualPlantId2012>
+  <ImageID2012>9876.jpg</ImageID2012>
+</Image>
+

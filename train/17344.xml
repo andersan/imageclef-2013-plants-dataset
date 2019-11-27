@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>17344.jpg</FileName>
+  <IndividualPlantId>1877</IndividualPlantId>
+  <Date>27/05/12</Date>
+  <Locality>France - Meyssiès</Locality>
+  <GPSLocality>
+    <Longitude>5.055576</Longitude>
+    <Latitude>45.468776</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Cotinus coggygria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Anacardiaceae R. Br.</Family>
+    <Genus>Cotinus Mill.</Genus>
+    <Species>Cotinus coggygria Scop.</Species>
+  </Taxon>
+  <VernacularNames>Eurasian smoketree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18958.jpg</FileName>
+  <IndividualPlantId>7828</IndividualPlantId>
+  <Date>26/05/11</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Maryline Laurans</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Viburnum tinus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Viburnum L.</Genus>
+    <Species>Viburnum tinus L.</Species>
+  </Taxon>
+  <VernacularNames>Laurestine</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>991</IndividualPlantId2012>
+  <ImageID2012>9162.jpg</ImageID2012>
+</Image>
+

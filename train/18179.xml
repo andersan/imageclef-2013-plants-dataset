@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18179.jpg</FileName>
+  <IndividualPlantId>3140</IndividualPlantId>
+  <Date>21/02/08</Date>
+  <Locality>France - Cazevieille</Locality>
+  <GPSLocality>
+    <Longitude>1.610466</Longitude>
+    <Latitude>43.883569</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Narcissus dubius</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Amaryllidaceae J. St.-Hil.</Family>
+    <Genus>Narcissus L.</Genus>
+    <Species>Narcissus dubius Gouan</Species>
+  </Taxon>
+  <VernacularNames>Dubious jonquil</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

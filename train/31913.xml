@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>31913.jpg</FileName>
+  <IndividualPlantId>4435</IndividualPlantId>
+  <Date>14/05/08</Date>
+  <Locality>France - Meysse</Locality>
+  <GPSLocality>
+    <Longitude>4.722337</Longitude>
+    <Latitude>44.608462</Latitude>
+  </GPSLocality>
+  <Author>Franck Jullin</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Populus nigra</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Populus L.</Genus>
+    <Species>Populus nigra L.</Species>
+  </Taxon>
+  <VernacularNames>Black poplar</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

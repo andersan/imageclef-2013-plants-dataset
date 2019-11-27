@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>32759.jpg</FileName>
+  <IndividualPlantId>3313</IndividualPlantId>
+  <Date>26/10/06</Date>
+  <Locality>France - La Grande-Motte</Locality>
+  <GPSLocality>
+    <Longitude>4.086072</Longitude>
+    <Latitude>43.560704</Latitude>
+  </GPSLocality>
+  <Author>John De Vos</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Cakile maritima</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Brassicales Bromhead</Order>
+    <Family>Brassicaceae Burnett</Family>
+    <Genus>Cakile Mill.</Genus>
+    <Species>Cakile maritima Scop.</Species>
+  </Taxon>
+  <VernacularNames>European searocket</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

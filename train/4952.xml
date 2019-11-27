@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4952.jpg</FileName>
+  <IndividualPlantId>2362</IndividualPlantId>
+  <Date>14/04/11</Date>
+  <Locality>France - Marsillargues</Locality>
+  <GPSLocality>
+    <Longitude>4.178997</Longitude>
+    <Latitude>43.665346</Latitude>
+  </GPSLocality>
+  <Author>Cecile G</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Pittosporum tobira</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Pittosporaceae R. Br.</Family>
+    <Genus>Pittosporum Banks ex Gaertn.</Genus>
+    <Species>Pittosporum tobira (Thunb.) W.T. Aiton</Species>
+  </Taxon>
+  <VernacularNames>Japanese mock-orange</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>281</IndividualPlantId2012>
+  <ImageID2012>11238.jpg</ImageID2012>
+</Image>
+

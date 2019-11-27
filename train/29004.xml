@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>29004.jpg</FileName>
+  <IndividualPlantId>472</IndividualPlantId>
+  <Date>18/09/12</Date>
+  <Locality>France - Marseille</Locality>
+  <GPSLocality>
+    <Longitude>5.369780</Longitude>
+    <Latitude>43.296482</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Ginkgo biloba</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Ginkgoidae Engl.</Subclass>
+    <Superorder>Ginkgoidae Engl.</Superorder>
+    <Order>Ginkgoales Gorozh.</Order>
+    <Family>Ginkgoaceae Engl.</Family>
+    <Genus>Ginkgo L.</Genus>
+    <Species>Ginkgo biloba L.</Species>
+  </Taxon>
+  <VernacularNames>Ginkgo</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

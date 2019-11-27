@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10733.jpg</FileName>
+  <IndividualPlantId>1930</IndividualPlantId>
+  <Date>22/04/12</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Laetitia Goeau</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Salix cinerea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Salix L.</Genus>
+    <Species>Salix cinerea L.</Species>
+  </Taxon>
+  <VernacularNames>Grey willow</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>33515.jpg</FileName>
+  <IndividualPlantId>952</IndividualPlantId>
+  <Date>30/04/12</Date>
+  <Locality>France - Vincennes</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Crataegus laevigata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Crataegus L.</Genus>
+    <Species>Crataegus laevigata (Poir.) DC.</Species>
+  </Taxon>
+  <VernacularNames>English hawthorn</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>871</IndividualPlantId2012>
+  <ImageID2012>581.jpg</ImageID2012>
+</Image>
+

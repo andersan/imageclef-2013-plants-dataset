@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16118.jpg</FileName>
+  <IndividualPlantId>133</IndividualPlantId>
+  <Date>23/10/11</Date>
+  <Locality>France - Roissy-En-Brie</Locality>
+  <GPSLocality>
+    <Longitude>2.654541</Longitude>
+    <Latitude>48.790685</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Prunus avium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus avium (L.) L.</Species>
+  </Taxon>
+  <VernacularNames>Wild cherry</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>119</IndividualPlantId2012>
+  <ImageID2012>5392.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19243.jpg</FileName>
+  <IndividualPlantId>1055</IndividualPlantId>
+  <Date>23/10/12</Date>
+  <Locality>France - Marseille</Locality>
+  <GPSLocality>
+    <Longitude>5.369780</Longitude>
+    <Latitude>43.296482</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Albizia julibrissin</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Albizia Durazz.</Genus>
+    <Species>Albizia julibrissin Durazz.</Species>
+  </Taxon>
+  <VernacularNames>Persian silk tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

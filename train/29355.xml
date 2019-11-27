@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>29355.jpg</FileName>
+  <IndividualPlantId>4052</IndividualPlantId>
+  <Date>13/11/12</Date>
+  <Locality>France - La Chapelle-Saint-Aubin</Locality>
+  <GPSLocality>
+    <Longitude>0.159039</Longitude>
+    <Latitude>48.032624</Latitude>
+  </GPSLocality>
+  <Author>Emmanuel Stratmains</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Agrimonia eupatoria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Agrimonia L.</Genus>
+    <Species>Agrimonia eupatoria L.</Species>
+  </Taxon>
+  <VernacularNames>Common agrimony</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

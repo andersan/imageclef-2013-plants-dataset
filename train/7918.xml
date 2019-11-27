@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7918.jpg</FileName>
+  <IndividualPlantId>9219</IndividualPlantId>
+  <Date>26/05/11</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Michael Belluau</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Celtis australis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Cannabaceae Martinov</Family>
+    <Genus>Celtis L.</Genus>
+    <Species>Celtis australis L.</Species>
+  </Taxon>
+  <VernacularNames>European nettletree</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>769</IndividualPlantId2012>
+  <ImageID2012>4075.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3715.jpg</FileName>
+  <IndividualPlantId>6676</IndividualPlantId>
+  <Date>30/05/04</Date>
+  <Locality>France - Rungis</Locality>
+  <GPSLocality>
+    <Longitude>2.353614</Longitude>
+    <Latitude>48.738127</Latitude>
+  </GPSLocality>
+  <Author>Jacques Taburel</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Convolvulus arvensis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Convolvulaceae Juss.</Family>
+    <Genus>Convolvulus L.</Genus>
+    <Species>Convolvulus arvensis L.</Species>
+  </Taxon>
+  <VernacularNames>Field bindweed</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6231.jpg</FileName>
+  <IndividualPlantId>2305</IndividualPlantId>
+  <Date>08/07/05</Date>
+  <Locality>France - Cambo-Les-Bains</Locality>
+  <GPSLocality>
+    <Longitude>-1.399376</Longitude>
+    <Latitude>43.361106</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Alnus glutinosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Alnus Mill.</Genus>
+    <Species>Alnus glutinosa (L.) Gaertn.</Species>
+  </Taxon>
+  <VernacularNames>Black alder</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>606</IndividualPlantId2012>
+  <ImageID2012>2719.jpg</ImageID2012>
+</Image>
+

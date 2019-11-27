@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22802.jpg</FileName>
+  <IndividualPlantId>222</IndividualPlantId>
+  <Date>02/05/12</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.350986</Longitude>
+    <Latitude>48.856667</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Mespilus germanica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Mespilus L.</Genus>
+    <Species>Mespilus germanica L.</Species>
+  </Taxon>
+  <VernacularNames>Common medlar</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>999</IndividualPlantId2012>
+  <ImageID2012>10859.jpg</ImageID2012>
+</Image>
+

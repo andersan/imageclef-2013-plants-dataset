@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10262.jpg</FileName>
+  <IndividualPlantId>4629</IndividualPlantId>
+  <Date>12/07/07</Date>
+  <Locality>France - Nohèdes</Locality>
+  <GPSLocality>
+    <Longitude>2.289051</Longitude>
+    <Latitude>42.622603</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Epilobium angustifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Myrtales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Onagraceae Juss.</Family>
+    <Genus>Epilobium L.</Genus>
+    <Species>Epilobium angustifolium L.</Species>
+  </Taxon>
+  <VernacularNames>Fireweed</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

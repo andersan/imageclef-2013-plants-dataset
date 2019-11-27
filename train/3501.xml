@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3501.jpg</FileName>
+  <IndividualPlantId>964</IndividualPlantId>
+  <Date>31/03/12</Date>
+  <Locality>France - Sainte-Geneviève-Des-Bois</Locality>
+  <GPSLocality>
+    <Longitude>2.326838</Longitude>
+    <Latitude>48.642943</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Carpinus betulus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Carpinus L.</Genus>
+    <Species>Carpinus betulus L.</Species>
+  </Taxon>
+  <VernacularNames>European hornbeam</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

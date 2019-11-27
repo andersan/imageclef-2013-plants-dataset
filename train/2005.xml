@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2005.jpg</FileName>
+  <IndividualPlantId>83</IndividualPlantId>
+  <Date>07/11/10</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.350986</Longitude>
+    <Latitude>48.856667</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ilex aquifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Aquifoliales Senft</Order>
+    <Family>Aquifoliaceae Bercht. &amp; J. Presl</Family>
+    <Genus>Ilex L.</Genus>
+    <Species>Ilex aquifolium L.</Species>
+  </Taxon>
+  <VernacularNames>European holly</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>557</IndividualPlantId2012>
+  <ImageID2012>7518.jpg</ImageID2012>
+</Image>
+

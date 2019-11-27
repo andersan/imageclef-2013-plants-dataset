@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>32045.jpg</FileName>
+  <IndividualPlantId>231</IndividualPlantId>
+  <Date>18/10/11</Date>
+  <Locality>France - Grabels</Locality>
+  <GPSLocality>
+    <Longitude>3.797119</Longitude>
+    <Latitude>43.647720</Latitude>
+  </GPSLocality>
+  <Author>Jean-Francois Molino</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Buddleja davidii</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Scrophulariaceae Juss.</Family>
+    <Genus>Buddleja L.</Genus>
+    <Species>Buddleja davidii Franch.</Species>
+  </Taxon>
+  <VernacularNames>Summer lilac</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>147</IndividualPlantId2012>
+  <ImageID2012>7064.jpg</ImageID2012>
+</Image>
+

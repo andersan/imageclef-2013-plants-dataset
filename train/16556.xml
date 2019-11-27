@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16556.jpg</FileName>
+  <IndividualPlantId>1909</IndividualPlantId>
+  <Date>30/10/11</Date>
+  <Locality>France - Reilhanette</Locality>
+  <GPSLocality>
+    <Longitude>5.420741</Longitude>
+    <Latitude>44.169476</Latitude>
+  </GPSLocality>
+  <Author>Joel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Prunus avium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus avium (L.) L.</Species>
+  </Taxon>
+  <VernacularNames>Wild cherry</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>465</IndividualPlantId2012>
+  <ImageID2012>2412.jpg</ImageID2012>
+</Image>
+

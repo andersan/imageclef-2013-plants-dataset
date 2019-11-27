@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7213.jpg</FileName>
+  <IndividualPlantId>2280</IndividualPlantId>
+  <Date>29/10/11</Date>
+  <Locality>France - Grabels</Locality>
+  <GPSLocality>
+    <Longitude>3.797119</Longitude>
+    <Latitude>43.647720</Latitude>
+  </GPSLocality>
+  <Author>Jean-Francois Molino</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ficus carica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Moraceae Gaudich.</Family>
+    <Genus>Ficus L.</Genus>
+    <Species>Ficus carica L.</Species>
+  </Taxon>
+  <VernacularNames>Common fig</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>180</IndividualPlantId2012>
+  <ImageID2012>3072.jpg</ImageID2012>
+</Image>
+

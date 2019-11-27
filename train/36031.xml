@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>36031.jpg</FileName>
+  <IndividualPlantId>1919</IndividualPlantId>
+  <Date>30/07/09</Date>
+  <Locality>France - Pontcarré</Locality>
+  <GPSLocality>
+    <Longitude>2.705341</Longitude>
+    <Latitude>48.797343</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Castanea sativa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Castanea Mill.</Genus>
+    <Species>Castanea sativa Mill.</Species>
+  </Taxon>
+  <VernacularNames>Sweet chestnut</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>475</IndividualPlantId2012>
+  <ImageID2012>3148.jpg</ImageID2012>
+</Image>
+

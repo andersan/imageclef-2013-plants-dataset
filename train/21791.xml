@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21791.jpg</FileName>
+  <IndividualPlantId>2658</IndividualPlantId>
+  <Date>29/12/09</Date>
+  <Locality>France - Septèmes-Les-Vallons</Locality>
+  <GPSLocality>
+    <Longitude>5.368408</Longitude>
+    <Latitude>43.398686</Latitude>
+  </GPSLocality>
+  <Author>Bertrand Bui</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Cichorium intybus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Cichorium L.</Genus>
+    <Species>Cichorium intybus L.</Species>
+  </Taxon>
+  <VernacularNames>Common chicory</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

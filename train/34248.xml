@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>34248.jpg</FileName>
+  <IndividualPlantId>6871</IndividualPlantId>
+  <Date>19/03/12</Date>
+  <Locality>France - Indre</Locality>
+  <GPSLocality>
+    <Longitude>1.448266</Longitude>
+    <Latitude>46.661397</Latitude>
+  </GPSLocality>
+  <Author>Martin Serre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Ranunculus ficaria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Ranunculus L.</Genus>
+    <Species>Ranunculus ficaria L.</Species>
+  </Taxon>
+  <VernacularNames>Lesser celandine</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

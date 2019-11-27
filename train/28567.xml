@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>28567.jpg</FileName>
+  <IndividualPlantId>1763</IndividualPlantId>
+  <Date>10/09/12</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Laurence Bourcier</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Liriodendron tulipifera</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Magnoliales Bromhead</Order>
+    <Family>Magnoliaceae Juss.</Family>
+    <Genus>Liriodendron L.</Genus>
+    <Species>Liriodendron tulipifera L.</Species>
+  </Taxon>
+  <VernacularNames>American tulip tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

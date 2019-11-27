@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6542.jpg</FileName>
+  <IndividualPlantId>649</IndividualPlantId>
+  <Date>25/09/11</Date>
+  <Locality>France - Vernouillet</Locality>
+  <GPSLocality>
+    <Longitude>1.983023</Longitude>
+    <Latitude>48.973699</Latitude>
+  </GPSLocality>
+  <Author>Vera Bakic</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Salix alba</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Salix L.</Genus>
+    <Species>Salix alba L.</Species>
+  </Taxon>
+  <VernacularNames>White willow</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

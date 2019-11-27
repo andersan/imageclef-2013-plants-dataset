@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22846.jpg</FileName>
+  <IndividualPlantId>4624</IndividualPlantId>
+  <Date>18/02/11</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Nerium oleander</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Gentianales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Apocynaceae Juss.</Family>
+    <Genus>Nerium L.</Genus>
+    <Species>Nerium oleander L.</Species>
+  </Taxon>
+  <VernacularNames>Oleander</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>272</IndividualPlantId2012>
+  <ImageID2012>8722.jpg</ImageID2012>
+</Image>
+

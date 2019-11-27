@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13277.jpg</FileName>
+  <IndividualPlantId>2912</IndividualPlantId>
+  <Date>27/10/11</Date>
+  <Locality>France - Bédoin</Locality>
+  <GPSLocality>
+    <Longitude>5.180374</Longitude>
+    <Latitude>44.124008</Latitude>
+  </GPSLocality>
+  <Author>Violette Roche</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Acer monspessulanum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer monspessulanum L.</Species>
+  </Taxon>
+  <VernacularNames>Montpellier maple</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>452</IndividualPlantId2012>
+  <ImageID2012>1317.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13076.jpg</FileName>
+  <IndividualPlantId>1660</IndividualPlantId>
+  <Date>08/06/09</Date>
+  <Locality>France - Les Vans</Locality>
+  <GPSLocality>
+    <Longitude>4.131917</Longitude>
+    <Latitude>44.404688</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Himantoglossum hircinum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Himantoglossum Spreng.</Genus>
+    <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  </Taxon>
+  <VernacularNames>Lizard orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

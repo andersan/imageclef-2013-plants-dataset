@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3958.jpg</FileName>
+  <IndividualPlantId>462</IndividualPlantId>
+  <Date>30/04/12</Date>
+  <Locality>France - Vincennes</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Laetitia Goeau</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Juglans regia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Juglandaceae DC. ex Perleb</Family>
+    <Genus>Juglans L.</Genus>
+    <Species>Juglans regia L.</Species>
+  </Taxon>
+  <VernacularNames>Common walnut</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <ImageID2012>11240.jpg</ImageID2012>
+</Image>
+

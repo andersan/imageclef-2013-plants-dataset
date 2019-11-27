@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>31347.jpg</FileName>
+  <IndividualPlantId>5846</IndividualPlantId>
+  <Date>09/07/06</Date>
+  <Locality>France - Pompignan</Locality>
+  <GPSLocality>
+    <Longitude>3.864918</Longitude>
+    <Latitude>43.899085</Latitude>
+  </GPSLocality>
+  <Author>Christophe Bernier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Linum campanulatum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Linaceae DC. ex Perleb</Family>
+    <Genus>Linum L.</Genus>
+    <Species>Linum campanulatum L.</Species>
+  </Taxon>
+  <VernacularNames>Flax</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

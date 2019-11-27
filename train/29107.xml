@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>29107.jpg</FileName>
+  <IndividualPlantId>6823</IndividualPlantId>
+  <Date>18/12/12</Date>
+  <Locality>France - Saint-Jean-Du-Gard</Locality>
+  <GPSLocality>
+    <Longitude>3.885144</Longitude>
+    <Latitude>44.105250</Latitude>
+  </GPSLocality>
+  <Author>Pablo Gazon</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Tilia cordata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Malvaceae Juss.</Family>
+    <Genus>Tilia L.</Genus>
+    <Species>Tilia cordata Mill.</Species>
+  </Taxon>
+  <VernacularNames>Small leaved lime</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

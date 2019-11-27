@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16637.jpg</FileName>
+  <IndividualPlantId>2561</IndividualPlantId>
+  <Date>17/04/12</Date>
+  <Locality>France - Puicheric</Locality>
+  <GPSLocality>
+    <Longitude>2.618026</Longitude>
+    <Latitude>43.221473</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Cercis siliquastrum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Cercis L.</Genus>
+    <Species>Cercis siliquastrum L.</Species>
+  </Taxon>
+  <VernacularNames>Judas tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

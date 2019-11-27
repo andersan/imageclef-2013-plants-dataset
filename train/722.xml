@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>722.jpg</FileName>
+  <IndividualPlantId>3644</IndividualPlantId>
+  <Date>22/02/12</Date>
+  <Locality>France - Saint-Jean-De-Védas</Locality>
+  <GPSLocality>
+    <Longitude>3.826215</Longitude>
+    <Latitude>43.575267</Latitude>
+  </GPSLocality>
+  <Author>Jean Rene Garcia</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Gagea granatelli</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Liliales Perleb</Order>
+    <Family>Liliaceae Juss.</Family>
+    <Genus>Gagea Salisb.</Genus>
+    <Species>Gagea granatelli Parl.</Species>
+  </Taxon>
+  <VernacularNames>Mediterranean Gagea</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

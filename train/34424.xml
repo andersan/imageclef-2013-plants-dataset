@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>34424.jpg</FileName>
+  <IndividualPlantId>1191</IndividualPlantId>
+  <Date>26/02/05</Date>
+  <Locality>France - Favieres</Locality>
+  <GPSLocality>
+    <Longitude>2.774784</Longitude>
+    <Latitude>48.764022</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Mespilus germanica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Mespilus L.</Genus>
+    <Species>Mespilus germanica L.</Species>
+  </Taxon>
+  <VernacularNames>Common medlar</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

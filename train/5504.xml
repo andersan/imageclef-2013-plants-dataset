@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5504.jpg</FileName>
+  <IndividualPlantId>10194</IndividualPlantId>
+  <Date>26/05/11</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Samuel Dufour</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Aesculus hippocastanum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Aesculus L.</Genus>
+    <Species>Aesculus hippocastanum L.</Species>
+  </Taxon>
+  <VernacularNames>Horse chestnut</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>949</IndividualPlantId2012>
+  <ImageID2012>4805.jpg</ImageID2012>
+</Image>
+

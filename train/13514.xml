@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13514.jpg</FileName>
+  <IndividualPlantId>3737</IndividualPlantId>
+  <Date>12/05/11</Date>
+  <Locality>France - Saint-Guilhem-Le-Desert</Locality>
+  <GPSLocality>
+    <Longitude>3.549015</Longitude>
+    <Latitude>43.734434</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Melia azedarach</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Meliaceae Juss.</Family>
+    <Genus>Melia L.</Genus>
+    <Species>Melia azedarach L.</Species>
+  </Taxon>
+  <VernacularNames>Persian lilac</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

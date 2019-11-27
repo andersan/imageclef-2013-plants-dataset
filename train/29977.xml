@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>29977.jpg</FileName>
+  <IndividualPlantId>1813</IndividualPlantId>
+  <Date>01/11/11</Date>
+  <Locality>France - Ozoir-La-Ferrière</Locality>
+  <GPSLocality>
+    <Longitude>2.671739</Longitude>
+    <Latitude>48.763827</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Cotinus coggygria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Anacardiaceae R. Br.</Family>
+    <Genus>Cotinus Mill.</Genus>
+    <Species>Cotinus coggygria Scop.</Species>
+  </Taxon>
+  <VernacularNames>Eurasian smoketree</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>1040</IndividualPlantId2012>
+  <ImageID2012>11039.jpg</ImageID2012>
+</Image>
+

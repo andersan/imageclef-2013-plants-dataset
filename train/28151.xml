@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>28151.jpg</FileName>
+  <IndividualPlantId>3701</IndividualPlantId>
+  <Date>22/07/07</Date>
+  <Locality>France - Narbonne</Locality>
+  <GPSLocality>
+    <Longitude>3.003078</Longitude>
+    <Latitude>43.184277</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Vitex agnus-castus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Lamiaceae Martinov</Family>
+    <Genus>Vitex L.</Genus>
+    <Species>Vitex agnus-castus L.</Species>
+  </Taxon>
+  <VernacularNames>Chaste tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

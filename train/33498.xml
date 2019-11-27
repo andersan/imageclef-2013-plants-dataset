@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>33498.jpg</FileName>
+  <IndividualPlantId>1944</IndividualPlantId>
+  <Date>21/06/12</Date>
+  <Locality>France - Jujols</Locality>
+  <GPSLocality>
+    <Longitude>2.295411</Longitude>
+    <Latitude>42.570408</Latitude>
+  </GPSLocality>
+  <Author>Alain Bigou</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Rosa canina</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Rosa L.</Genus>
+    <Species>Rosa canina L.</Species>
+  </Taxon>
+  <VernacularNames>Dog rose</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

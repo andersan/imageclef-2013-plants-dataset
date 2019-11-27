@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>28864.jpg</FileName>
+  <IndividualPlantId>3533</IndividualPlantId>
+  <Date>02/09/12</Date>
+  <Locality>France - Balbronn</Locality>
+  <GPSLocality>
+    <Longitude>7.436366</Longitude>
+    <Latitude>48.583563</Latitude>
+  </GPSLocality>
+  <Author>Daniel Cahen</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Rhamnus cathartica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rhamnaceae Juss.</Family>
+    <Genus>Rhamnus L.</Genus>
+    <Species>Rhamnus cathartica L.</Species>
+  </Taxon>
+  <VernacularNames>Purging buckthorn</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

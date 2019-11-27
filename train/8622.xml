@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8622.jpg</FileName>
+  <IndividualPlantId>3791</IndividualPlantId>
+  <Date>30/09/11</Date>
+  <Locality>France - Ozoir-La-Ferrière</Locality>
+  <GPSLocality>
+    <Longitude>2.671739</Longitude>
+    <Latitude>48.763827</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Castanea sativa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Castanea Mill.</Genus>
+    <Species>Castanea sativa Mill.</Species>
+  </Taxon>
+  <VernacularNames>Sweet chestnut</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

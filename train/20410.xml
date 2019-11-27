@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20410.jpg</FileName>
+  <IndividualPlantId>4275</IndividualPlantId>
+  <Date>15/09/03</Date>
+  <Locality>France - Blainville-Sur-Mer</Locality>
+  <GPSLocality>
+    <Longitude>-1.584458</Longitude>
+    <Latitude>49.066009</Latitude>
+  </GPSLocality>
+  <Author>Augustin Roche</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Crithmum maritimum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Apiaceae Lindl.</Family>
+    <Genus>Crithmum L.</Genus>
+    <Species>Crithmum maritimum L.</Species>
+  </Taxon>
+  <VernacularNames>Rock samphire</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

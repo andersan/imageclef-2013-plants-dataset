@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16971.jpg</FileName>
+  <IndividualPlantId>5414</IndividualPlantId>
+  <Date>09/07/11</Date>
+  <Locality>France - Frontignan</Locality>
+  <GPSLocality>
+    <Longitude>3.755999</Longitude>
+    <Latitude>43.444815</Latitude>
+  </GPSLocality>
+  <Author>John De Vos</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Echinophora spinosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Apiaceae Lindl.</Family>
+    <Genus>Echinophora L.</Genus>
+    <Species>Echinophora spinosa L.</Species>
+  </Taxon>
+  <VernacularNames>Spiny echinophore</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

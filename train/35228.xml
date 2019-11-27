@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>35228.jpg</FileName>
+  <IndividualPlantId>5797</IndividualPlantId>
+  <Date>01/05/05</Date>
+  <Locality>France - Roissy-En-Brie</Locality>
+  <GPSLocality>
+    <Longitude>2.654541</Longitude>
+    <Latitude>48.790685</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Sorbus domestica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus domestica L.</Species>
+  </Taxon>
+  <VernacularNames>Service tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

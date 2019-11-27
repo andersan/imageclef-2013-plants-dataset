@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2554.jpg</FileName>
+  <IndividualPlantId>3640</IndividualPlantId>
+  <Date>02/05/12</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Sambucus nigra</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Sambucus L.</Genus>
+    <Species>Sambucus nigra L.</Species>
+  </Taxon>
+  <VernacularNames>Black elder</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>1059</IndividualPlantId2012>
+  <ImageID2012>2307.jpg</ImageID2012>
+</Image>
+

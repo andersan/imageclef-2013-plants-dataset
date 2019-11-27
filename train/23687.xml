@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23687.jpg</FileName>
+  <IndividualPlantId>1440</IndividualPlantId>
+  <Date>23/10/11</Date>
+  <Locality>France - Roissy-En-Brie</Locality>
+  <GPSLocality>
+    <Longitude>2.654541</Longitude>
+    <Latitude>48.790685</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Liriodendron tulipifera</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Magnoliales Bromhead</Order>
+    <Family>Magnoliaceae Juss.</Family>
+    <Genus>Liriodendron L.</Genus>
+    <Species>Liriodendron tulipifera L.</Species>
+  </Taxon>
+  <VernacularNames>American tulip tree</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>985</IndividualPlantId2012>
+  <ImageID2012>10512.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20207.jpg</FileName>
+  <IndividualPlantId>2780</IndividualPlantId>
+  <Date>28/08/12</Date>
+  <Locality>France - Vert-Le-Petit</Locality>
+  <GPSLocality>
+    <Longitude>2.366759</Longitude>
+    <Latitude>48.550836</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Alnus glutinosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Alnus Mill.</Genus>
+    <Species>Alnus glutinosa (L.) Gaertn.</Species>
+  </Taxon>
+  <VernacularNames>Black alder</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

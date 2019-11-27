@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>32375.jpg</FileName>
+  <IndividualPlantId>6669</IndividualPlantId>
+  <Date>17/06/12</Date>
+  <Locality>France - Plougonvelin</Locality>
+  <GPSLocality>
+    <Longitude>-4.718711</Longitude>
+    <Latitude>48.341425</Latitude>
+  </GPSLocality>
+  <Author>Robin Guidez</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Ophrys apifera</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Ophrys L.</Genus>
+    <Species>Ophrys apifera Huds.</Species>
+  </Taxon>
+  <VernacularNames>Bee orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

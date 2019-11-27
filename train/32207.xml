@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>32207.jpg</FileName>
+  <IndividualPlantId>639</IndividualPlantId>
+  <Date>14/04/12</Date>
+  <Locality>France - Maisons-Laffitte</Locality>
+  <GPSLocality>
+    <Longitude>2.142390</Longitude>
+    <Latitude>48.947545</Latitude>
+  </GPSLocality>
+  <Author>Vera Bakic</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Acer pseudoplatanus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer pseudoplatanus L.</Species>
+  </Taxon>
+  <VernacularNames>Sycamore maple</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

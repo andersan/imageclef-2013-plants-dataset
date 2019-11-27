@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8598.jpg</FileName>
+  <IndividualPlantId>4139</IndividualPlantId>
+  <Date>29/04/08</Date>
+  <Locality>France - Prades-Le-Lez</Locality>
+  <GPSLocality>
+    <Longitude>3.862765</Longitude>
+    <Latitude>43.697980</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Lithodora fruticosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Boraginales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Boraginaceae Juss.</Family>
+    <Genus>Lithodora Griseb.</Genus>
+    <Species>Lithodora fruticosa (L.) Griseb.</Species>
+  </Taxon>
+  <VernacularNames>Carrasquilla arbustiva</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

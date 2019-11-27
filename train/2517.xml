@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2517.jpg</FileName>
+  <IndividualPlantId>1046</IndividualPlantId>
+  <Date>06/11/11</Date>
+  <Locality>France - Clapiers</Locality>
+  <GPSLocality>
+    <Longitude>1.796815</Longitude>
+    <Latitude>43.927384</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ligustrum vulgare</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Ligustrum L.</Genus>
+    <Species>Ligustrum vulgare L.</Species>
+  </Taxon>
+  <VernacularNames>European privet</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

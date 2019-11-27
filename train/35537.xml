@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>35537.jpg</FileName>
+  <IndividualPlantId>866</IndividualPlantId>
+  <Date>20/06/04</Date>
+  <Locality>France - Roquefixade</Locality>
+  <GPSLocality>
+    <Longitude>1.754747</Longitude>
+    <Latitude>42.935725</Latitude>
+  </GPSLocality>
+  <Author>Alain Bigou</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Verbascum lychnitis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Scrophulariaceae Juss.</Family>
+    <Genus>Verbascum L.</Genus>
+    <Species>Verbascum lychnitis L.</Species>
+  </Taxon>
+  <VernacularNames>White mullein</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

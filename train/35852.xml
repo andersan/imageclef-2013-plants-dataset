@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>35852.jpg</FileName>
+  <IndividualPlantId>2798</IndividualPlantId>
+  <Date>30/04/12</Date>
+  <Locality>France - Vincennes</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Cornus mas</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Cornales Link</Order>
+    <Family>Cornaceae Bercht. ex J. Presl</Family>
+    <Genus>Cornus L.</Genus>
+    <Species>Cornus mas L.</Species>
+  </Taxon>
+  <VernacularNames>European cornel</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

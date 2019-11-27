@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3919.jpg</FileName>
+  <IndividualPlantId>1720</IndividualPlantId>
+  <Date>20/08/03</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Augustin Roche</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Gentiana pneumonanthe</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Gentianales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Gentianaceae Juss.</Family>
+    <Genus>Gentiana L.</Genus>
+    <Species>Gentiana pneumonanthe L.</Species>
+  </Taxon>
+  <VernacularNames>Marsh gentian</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

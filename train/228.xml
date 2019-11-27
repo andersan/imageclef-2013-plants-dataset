@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>228.jpg</FileName>
+  <IndividualPlantId>31</IndividualPlantId>
+  <Date>21/07/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ilex aquifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Aquifoliales Senft</Order>
+    <Family>Aquifoliaceae Bercht. &amp; J. Presl</Family>
+    <Genus>Ilex L.</Genus>
+    <Species>Ilex aquifolium L.</Species>
+  </Taxon>
+  <VernacularNames>European holly</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>45</IndividualPlantId2012>
+  <ImageID2012>8454.jpg</ImageID2012>
+</Image>
+

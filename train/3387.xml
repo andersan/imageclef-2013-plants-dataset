@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3387.jpg</FileName>
+  <IndividualPlantId>3422</IndividualPlantId>
+  <Date>22/04/07</Date>
+  <Locality>France - Opoul-Périllos</Locality>
+  <GPSLocality>
+    <Longitude>2.872769</Longitude>
+    <Latitude>42.867998</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Ophrys lutea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Ophrys L.</Genus>
+    <Species>Ophrys lutea Cav.</Species>
+  </Taxon>
+  <VernacularNames>Yellow ophrys</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

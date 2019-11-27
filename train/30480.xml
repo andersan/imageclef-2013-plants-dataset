@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>30480.jpg</FileName>
+  <IndividualPlantId>794</IndividualPlantId>
+  <Date>16/10/11</Date>
+  <Locality>France - La Queue-En-Brie</Locality>
+  <GPSLocality>
+    <Longitude>2.575493</Longitude>
+    <Latitude>48.790857</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Quercus robur</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus robur L.</Species>
+  </Taxon>
+  <VernacularNames>Pedunculate oak</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>1071</IndividualPlantId2012>
+  <ImageID2012>3399.jpg</ImageID2012>
+</Image>
+

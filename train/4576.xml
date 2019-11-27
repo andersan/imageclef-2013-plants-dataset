@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4576.jpg</FileName>
+  <IndividualPlantId>334</IndividualPlantId>
+  <Date>13/06/08</Date>
+  <Locality>France - Chamonix-Mont-Blanc</Locality>
+  <GPSLocality>
+    <Longitude>6.869433</Longitude>
+    <Latitude>45.923697</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Thalictrum aquilegiifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Thalictrum L.</Genus>
+    <Species>Thalictrum aquilegiifolium L.</Species>
+  </Taxon>
+  <VernacularNames>Columbine meadow-rue</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

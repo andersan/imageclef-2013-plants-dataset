@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4940.jpg</FileName>
+  <IndividualPlantId>2560</IndividualPlantId>
+  <Date>28/06/08</Date>
+  <Locality>France - Mimizan</Locality>
+  <GPSLocality>
+    <Longitude>-1.228009</Longitude>
+    <Latitude>44.200417</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Euphorbia paralias</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Euphorbiaceae Juss.</Family>
+    <Genus>Euphorbia L.</Genus>
+    <Species>Euphorbia paralias L.</Species>
+  </Taxon>
+  <VernacularNames>Sea spurge</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

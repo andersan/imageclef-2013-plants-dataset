@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6993.jpg</FileName>
+  <IndividualPlantId>8587</IndividualPlantId>
+  <Date>11/09/09</Date>
+  <Locality>France - Rogliano</Locality>
+  <GPSLocality>
+    <Longitude>9.423500</Longitude>
+    <Latitude>42.967000</Latitude>
+  </GPSLocality>
+  <Author>Jpm</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Smilax aspera</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Liliales Perleb</Order>
+    <Family>Smilacaceae Vent.</Family>
+    <Genus>Smilax L.</Genus>
+    <Species>Smilax aspera L.</Species>
+  </Taxon>
+  <VernacularNames>Rough bindweed</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

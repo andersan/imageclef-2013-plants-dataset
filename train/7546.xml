@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7546.jpg</FileName>
+  <IndividualPlantId>3970</IndividualPlantId>
+  <Date>14/04/12</Date>
+  <Locality>France - Allemagne-En-Provence</Locality>
+  <GPSLocality>
+    <Longitude>6.007670</Longitude>
+    <Latitude>43.782158</Latitude>
+  </GPSLocality>
+  <Author>Emmanuel Stratmains</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Globularia bisnagarica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Plantaginaceae Juss.</Family>
+    <Genus>Globularia L.</Genus>
+    <Species>Globularia bisnagarica L.</Species>
+  </Taxon>
+  <VernacularNames>Common globularia</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>17510.jpg</FileName>
+  <IndividualPlantId>322</IndividualPlantId>
+  <Date>03/10/12</Date>
+  <Locality>France - Lyon</Locality>
+  <GPSLocality>
+    <Longitude>4.835659</Longitude>
+    <Latitude>45.764043</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Taxus baccata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class />
+    <Subclass />
+    <Superorder />
+    <Order />
+    <Family />
+    <Genus />
+    <Species />
+  </Taxon>
+  <VernacularNames>European yew</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

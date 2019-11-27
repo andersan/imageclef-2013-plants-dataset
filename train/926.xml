@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>926.jpg</FileName>
+  <IndividualPlantId>8577</IndividualPlantId>
+  <Date>25/04/11</Date>
+  <Locality>France - Arques</Locality>
+  <GPSLocality>
+    <Longitude>2.294800</Longitude>
+    <Latitude>50.733870</Latitude>
+  </GPSLocality>
+  <Author>Cecile G</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Corylus avellana</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Corylus L.</Genus>
+    <Species>Corylus avellana L.</Species>
+  </Taxon>
+  <VernacularNames>Common hazel</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>1115</IndividualPlantId2012>
+  <ImageID2012>11221.jpg</ImageID2012>
+</Image>
+

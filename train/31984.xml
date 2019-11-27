@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>31984.jpg</FileName>
+  <IndividualPlantId>4542</IndividualPlantId>
+  <Date>30/11/99</Date>
+  <Locality>France - Saint-Vallier-De-Thiey</Locality>
+  <GPSLocality>
+    <Longitude>6.931648</Longitude>
+    <Latitude>43.647808</Latitude>
+  </GPSLocality>
+  <Author>Franck Jullin</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Quercus cerris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus cerris L.</Species>
+  </Taxon>
+  <VernacularNames>Turkey oak</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5022.jpg</FileName>
+  <IndividualPlantId>186</IndividualPlantId>
+  <Date>13/06/10</Date>
+  <Locality>France - Toulon</Locality>
+  <GPSLocality>
+    <Longitude>5.931111</Longitude>
+    <Latitude>43.125160</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Pittosporum tobira</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Pittosporaceae R. Br.</Family>
+    <Genus>Pittosporum Banks ex Gaertn.</Genus>
+    <Species>Pittosporum tobira (Thunb.) W.T. Aiton</Species>
+  </Taxon>
+  <VernacularNames>Japanese mock-orange</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>260</IndividualPlantId2012>
+  <ImageID2012>132.jpg</ImageID2012>
+</Image>
+

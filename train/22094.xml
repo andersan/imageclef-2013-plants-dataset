@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22094.jpg</FileName>
+  <IndividualPlantId>4158</IndividualPlantId>
+  <Date>16/07/12</Date>
+  <Locality>France - Amné-En-Champagne</Locality>
+  <GPSLocality>
+    <Longitude>-0.049923</Longitude>
+    <Latitude>48.067559</Latitude>
+  </GPSLocality>
+  <Author>Emmanuel Stratmains</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Clinopodium vulgare</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Lamiaceae Martinov</Family>
+    <Genus>Clinopodium L.</Genus>
+    <Species>Clinopodium vulgare L.</Species>
+  </Taxon>
+  <VernacularNames>Wild basil</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

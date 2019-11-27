@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13254.jpg</FileName>
+  <IndividualPlantId>969</IndividualPlantId>
+  <Date>01/11/11</Date>
+  <Locality>France - Pontault-Combault</Locality>
+  <GPSLocality>
+    <Longitude>2.607598</Longitude>
+    <Latitude>48.801255</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Alnus cordata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Alnus Mill.</Genus>
+    <Species>Alnus cordata (Loisel.) Duby</Species>
+  </Taxon>
+  <VernacularNames>Italian alder</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>297</IndividualPlantId2012>
+  <ImageID2012>11125.jpg</ImageID2012>
+</Image>
+

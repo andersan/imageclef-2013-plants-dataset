@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20940.jpg</FileName>
+  <IndividualPlantId>2125</IndividualPlantId>
+  <Date>16/04/06</Date>
+  <Locality>France - Poulx</Locality>
+  <GPSLocality>
+    <Longitude>4.424057</Longitude>
+    <Latitude>43.910812</Latitude>
+  </GPSLocality>
+  <Author>Franck Jullin</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Helianthemum apenninum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Cistaceae Juss.</Family>
+    <Genus>Helianthemum Mill.</Genus>
+    <Species>Helianthemum apenninum (L.) Mill.</Species>
+  </Taxon>
+  <VernacularNames>White rock-rose</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

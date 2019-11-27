@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>35999.jpg</FileName>
+  <IndividualPlantId>2948</IndividualPlantId>
+  <Date>30/08/12</Date>
+  <Locality>France - La Ciotat</Locality>
+  <GPSLocality>
+    <Longitude>5.605155</Longitude>
+    <Latitude>43.173653</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Sorbus domestica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus domestica L.</Species>
+  </Taxon>
+  <VernacularNames>Service tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

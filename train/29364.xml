@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>29364.jpg</FileName>
+  <IndividualPlantId>3685</IndividualPlantId>
+  <Date>28/10/09</Date>
+  <Locality>France - Hyères</Locality>
+  <GPSLocality>
+    <Longitude>6.128639</Longitude>
+    <Latitude>43.120541</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Arbutus unedo</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Ericaceae Juss.</Family>
+    <Genus>Arbutus L.</Genus>
+    <Species>Arbutus unedo L.</Species>
+  </Taxon>
+  <VernacularNames>Strawberry tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

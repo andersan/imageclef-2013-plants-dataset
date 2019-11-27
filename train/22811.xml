@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22811.jpg</FileName>
+  <IndividualPlantId>2227</IndividualPlantId>
+  <Date>15/07/10</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Christine Heinz</Author>
+  <Organization>UM2</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Cercis siliquastrum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Cercis L.</Genus>
+    <Species>Cercis siliquastrum L.</Species>
+  </Taxon>
+  <VernacularNames>Judas tree</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>166</IndividualPlantId2012>
+  <ImageID2012>5760.jpg</ImageID2012>
+</Image>
+

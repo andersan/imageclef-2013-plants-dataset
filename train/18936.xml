@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18936.jpg</FileName>
+  <IndividualPlantId>2402</IndividualPlantId>
+  <Date>24/05/09</Date>
+  <Locality>France - Fontainebleau</Locality>
+  <GPSLocality>
+    <Longitude>2.701620</Longitude>
+    <Latitude>48.404676</Latitude>
+  </GPSLocality>
+  <Author>Augustin Roche</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Melittis melissophyllum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Lamiaceae Martinov</Family>
+    <Genus>Melittis L.</Genus>
+    <Species>Melittis melissophyllum L.</Species>
+  </Taxon>
+  <VernacularNames>Bastard balm</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

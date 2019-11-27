@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5994.jpg</FileName>
+  <IndividualPlantId>7339</IndividualPlantId>
+  <Date>23/05/10</Date>
+  <Locality>France - Malons-Et-Elze</Locality>
+  <GPSLocality>
+    <Longitude>4.023389</Longitude>
+    <Latitude>44.416215</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Anacamptis morio</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Anacamptis Rich.</Genus>
+    <Species>Anacamptis morio (L.) R.M. Bateman, Pridgeon &amp; M.W. Chase</Species>
+  </Taxon>
+  <VernacularNames>Green-winged orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

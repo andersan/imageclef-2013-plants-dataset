@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>29103.jpg</FileName>
+  <IndividualPlantId>5462</IndividualPlantId>
+  <Date>07/09/08</Date>
+  <Locality>France - Allevard</Locality>
+  <GPSLocality>
+    <Longitude>6.074352</Longitude>
+    <Latitude>45.393318</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Sorbus aucuparia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus aucuparia L.</Species>
+  </Taxon>
+  <VernacularNames>European rowan</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

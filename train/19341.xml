@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19341.jpg</FileName>
+  <IndividualPlantId>6653</IndividualPlantId>
+  <Date>27/10/06</Date>
+  <Locality>France - St Mesmin</Locality>
+  <GPSLocality>
+    <Longitude>-0.732569</Longitude>
+    <Latitude>46.793922</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Mespilus germanica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Mespilus L.</Genus>
+    <Species>Mespilus germanica L.</Species>
+  </Taxon>
+  <VernacularNames>Common medlar</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>36150.jpg</FileName>
+  <IndividualPlantId>4837</IndividualPlantId>
+  <Date>12/03/03</Date>
+  <Locality>France - Sète</Locality>
+  <GPSLocality>
+    <Longitude>3.696628</Longitude>
+    <Latitude>43.402190</Latitude>
+  </GPSLocality>
+  <Author>Christophe Girod</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Iris lutescens</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Iridaceae Juss.</Family>
+    <Genus>Iris L.</Genus>
+    <Species>Iris lutescens Lam.</Species>
+  </Taxon>
+  <VernacularNames>Crimean iris</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

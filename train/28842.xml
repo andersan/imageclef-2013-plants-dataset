@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>28842.jpg</FileName>
+  <IndividualPlantId>4509</IndividualPlantId>
+  <Date>30/04/12</Date>
+  <Locality>France - Vincennes</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Rhamnus cathartica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rhamnaceae Juss.</Family>
+    <Genus>Rhamnus L.</Genus>
+    <Species>Rhamnus cathartica L.</Species>
+  </Taxon>
+  <VernacularNames>Purging buckthorn</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

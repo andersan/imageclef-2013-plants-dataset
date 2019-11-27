@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>32633.jpg</FileName>
+  <IndividualPlantId>4147</IndividualPlantId>
+  <Date>01/07/12</Date>
+  <Locality>France - Vallorcine</Locality>
+  <GPSLocality>
+    <Longitude>6.931817</Longitude>
+    <Latitude>46.033505</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Rosa pendulina</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Rosa L.</Genus>
+    <Species>Rosa pendulina L.</Species>
+  </Taxon>
+  <VernacularNames>Mountain rose</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

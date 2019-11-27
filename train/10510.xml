@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10510.jpg</FileName>
+  <IndividualPlantId>9121</IndividualPlantId>
+  <Date>27/04/11</Date>
+  <Locality>France - Fressac</Locality>
+  <GPSLocality>
+    <Longitude>3.924492</Longitude>
+    <Latitude>43.996962</Latitude>
+  </GPSLocality>
+  <Author>Andrine Faure</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Aristolochia clematitis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Piperales Bercht. &amp; J. Presl</Order>
+    <Family>Aristolochiaceae Juss.</Family>
+    <Genus>Aristolochia L.</Genus>
+    <Species>Aristolochia clematitis L.</Species>
+  </Taxon>
+  <VernacularNames>European birthwort</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

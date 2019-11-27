@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15628.jpg</FileName>
+  <IndividualPlantId>6113</IndividualPlantId>
+  <Date>16/07/10</Date>
+  <Locality>France - Châtel</Locality>
+  <GPSLocality>
+    <Longitude>6.841152</Longitude>
+    <Latitude>46.267395</Latitude>
+  </GPSLocality>
+  <Author>Hugues Tinguy</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Saxifraga paniculata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Myrothamnanae Takht.</Superorder>
+    <Order>Saxifragales Bercht. &amp; J. Presl</Order>
+    <Family>Saxifragaceae Juss.</Family>
+    <Genus>Saxifraga L.</Genus>
+    <Species>Saxifraga paniculata Mill.</Species>
+  </Taxon>
+  <VernacularNames>White mountain saxifrage</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

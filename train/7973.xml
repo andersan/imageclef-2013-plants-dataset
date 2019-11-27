@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7973.jpg</FileName>
+  <IndividualPlantId>468</IndividualPlantId>
+  <Date>23/10/11</Date>
+  <Locality>France - Roissy-En-France</Locality>
+  <GPSLocality>
+    <Longitude>2.516978</Longitude>
+    <Latitude>49.003630</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Rhamnus cathartica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rhamnaceae Juss.</Family>
+    <Genus>Rhamnus L.</Genus>
+    <Species>Rhamnus cathartica L.</Species>
+  </Taxon>
+  <VernacularNames>Purging buckthorn</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>1074</IndividualPlantId2012>
+  <ImageID2012>71.jpg</ImageID2012>
+</Image>
+

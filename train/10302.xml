@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10302.jpg</FileName>
+  <IndividualPlantId>90</IndividualPlantId>
+  <Date>08/10/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Rhus typhina</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Anacardiaceae R. Br.</Family>
+    <Genus>Rhus L.</Genus>
+    <Species>Rhus typhina L.</Species>
+  </Taxon>
+  <VernacularNames>Staghorn sumac</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>8</IndividualPlantId2012>
+  <ImageID2012>10226.jpg</ImageID2012>
+</Image>
+

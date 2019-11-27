@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>33554.jpg</FileName>
+  <IndividualPlantId>290</IndividualPlantId>
+  <Date>05/06/10</Date>
+  <Locality>France - Grabels</Locality>
+  <GPSLocality>
+    <Longitude>3.797119</Longitude>
+    <Latitude>43.647720</Latitude>
+  </GPSLocality>
+  <Author>Jean-Francois Molino</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Cercis siliquastrum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Cercis L.</Genus>
+    <Species>Cercis siliquastrum L.</Species>
+  </Taxon>
+  <VernacularNames>Judas tree</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>57</IndividualPlantId2012>
+  <ImageID2012>4713.jpg</ImageID2012>
+</Image>
+

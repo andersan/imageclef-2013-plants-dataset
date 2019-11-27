@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4403.jpg</FileName>
+  <IndividualPlantId>795</IndividualPlantId>
+  <Date>04/11/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Laurus nobilis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Laurales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Lauraceae Juss.</Family>
+    <Genus>Laurus L.</Genus>
+    <Species>Laurus nobilis L.</Species>
+  </Taxon>
+  <VernacularNames>Laurel tree</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>376</IndividualPlantId2012>
+  <ImageID2012>1984.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10520.jpg</FileName>
+  <IndividualPlantId>1155</IndividualPlantId>
+  <Date>17/04/11</Date>
+  <Locality>France - Vienne</Locality>
+  <GPSLocality>
+    <Longitude>4.874339</Longitude>
+    <Latitude>45.525587</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Prunus laurocerasus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus laurocerasus L.</Species>
+  </Taxon>
+  <VernacularNames>Cherry laurel</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

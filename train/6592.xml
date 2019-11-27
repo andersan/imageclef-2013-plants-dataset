@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6592.jpg</FileName>
+  <IndividualPlantId>6701</IndividualPlantId>
+  <Date>12/06/05</Date>
+  <Locality>France - Eyne</Locality>
+  <GPSLocality>
+    <Longitude>2.040680</Longitude>
+    <Latitude>42.459596</Latitude>
+  </GPSLocality>
+  <Author>Alain Bigou</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Gentiana verna</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Gentianales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Gentianaceae Juss.</Family>
+    <Genus>Gentiana L.</Genus>
+    <Species>Gentiana verna L.</Species>
+  </Taxon>
+  <VernacularNames>Spring gentian</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

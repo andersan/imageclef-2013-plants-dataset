@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16074.jpg</FileName>
+  <IndividualPlantId>2357</IndividualPlantId>
+  <Date>02/04/11</Date>
+  <Locality>France - Lattes</Locality>
+  <GPSLocality>
+    <Longitude>3.896473</Longitude>
+    <Latitude>43.567296</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Laurus nobilis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Laurales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Lauraceae Juss.</Family>
+    <Genus>Laurus L.</Genus>
+    <Species>Laurus nobilis L.</Species>
+  </Taxon>
+  <VernacularNames>Laurel tree</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>945</IndividualPlantId2012>
+  <ImageID2012>11194.jpg</ImageID2012>
+</Image>
+

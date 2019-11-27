@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4221.jpg</FileName>
+  <IndividualPlantId>6991</IndividualPlantId>
+  <Date>15/04/11</Date>
+  <Locality>France - Castelnau-Le-Lez</Locality>
+  <GPSLocality>
+    <Longitude>3.897398</Longitude>
+    <Latitude>43.634144</Latitude>
+  </GPSLocality>
+  <Author>Cecile G</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Laurus nobilis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Laurales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Lauraceae Juss.</Family>
+    <Genus>Laurus L.</Genus>
+    <Species>Laurus nobilis L.</Species>
+  </Taxon>
+  <VernacularNames>Laurel tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

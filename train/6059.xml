@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6059.jpg</FileName>
+  <IndividualPlantId>1489</IndividualPlantId>
+  <Date>25/06/12</Date>
+  <Locality>France - Yzeron</Locality>
+  <GPSLocality>
+    <Longitude>4.633281</Longitude>
+    <Latitude>45.723372</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Malva moschata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Malvaceae Juss.</Family>
+    <Genus>Malva L.</Genus>
+    <Species>Malva moschata L.</Species>
+  </Taxon>
+  <VernacularNames>Musk-mallow</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

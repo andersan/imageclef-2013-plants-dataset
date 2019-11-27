@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14518.jpg</FileName>
+  <IndividualPlantId>641</IndividualPlantId>
+  <Date>30/08/12</Date>
+  <Locality>France - Ceyreste</Locality>
+  <GPSLocality>
+    <Longitude>5.634811</Longitude>
+    <Latitude>43.221502</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Quercus pubescens</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus pubescens Willd.</Species>
+  </Taxon>
+  <VernacularNames>Pubescent oak</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

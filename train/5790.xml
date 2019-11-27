@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5790.jpg</FileName>
+  <IndividualPlantId>2949</IndividualPlantId>
+  <Date>04/07/10</Date>
+  <Locality>France - Eyne</Locality>
+  <GPSLocality>
+    <Longitude>2.040680</Longitude>
+    <Latitude>42.459596</Latitude>
+  </GPSLocality>
+  <Author>Alain Bigou</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Caltha palustris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Caltha Mill.</Genus>
+    <Species>Caltha palustris L.</Species>
+  </Taxon>
+  <VernacularNames>Kingcup</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

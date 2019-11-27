@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19433.jpg</FileName>
+  <IndividualPlantId>5427</IndividualPlantId>
+  <Date>17/05/12</Date>
+  <Locality>France - Pégairolles-De-Buèges</Locality>
+  <GPSLocality>
+    <Longitude>3.587405</Longitude>
+    <Latitude>43.805928</Latitude>
+  </GPSLocality>
+  <Author>Jean-Jacques Houdre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Crataegus monogyna</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Crataegus L.</Genus>
+    <Species>Crataegus monogyna Jacq.</Species>
+  </Taxon>
+  <VernacularNames>Common hawthorn</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

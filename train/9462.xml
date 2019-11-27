@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9462.jpg</FileName>
+  <IndividualPlantId>796</IndividualPlantId>
+  <Date>03/11/10</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Eriobotrya japonica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Eriobotrya Lindl.</Genus>
+    <Species>Eriobotrya japonica (Thunb.) Lindl.</Species>
+  </Taxon>
+  <VernacularNames>Japanese medlar</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>194</IndividualPlantId2012>
+  <ImageID2012>8789.jpg</ImageID2012>
+</Image>
+
