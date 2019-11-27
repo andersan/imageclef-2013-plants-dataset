@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1770</runid>
+<owner>Vicomtech</owner>
+<submissiondate>2013-04-30</submissiondate>
+<primaryrun>true</primaryrun>
+<methoddescription>Trace Transform, Color segmentation and shape relationships applied in the </methoddescription>
+<otherinformation>Not preciselly measured but, the feature extraction is under the second per asset and the training under the minute per &quot;Content&quot;.</otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1367338673606__outputCLEFTestMean.txt</runfilename>
+<language>English</language>
+<retrieval-type>Mixed (texual + visual)</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>iolaizola@vicomtech.org</owner-email>
+</run>

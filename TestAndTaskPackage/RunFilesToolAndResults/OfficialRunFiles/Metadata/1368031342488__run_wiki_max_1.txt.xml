@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1858</runid>
+<owner>UAIC2012</owner>
+<submissiondate>2013-05-08</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>We perform image retrieval using an extended collection of images obtained from training collection and an extracted collection from http://commons.wikimedia.org. For final score of a classId we consider the max of partial results obtained after retrieval.</methoddescription>
+<otherinformation>scrapping 2 hours
+indexing 5 hours
+searching 2 hours
+obtaining final results 2 minutes</otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1368031342488__run_wiki_max_1.txt</runfilename>
+<language>Not applicable</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>adiftene@infoiasi.ro</owner-email>
+</run>

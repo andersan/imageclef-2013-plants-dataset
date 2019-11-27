@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1836</runid>
+<owner>LAPI</owner>
+<submissiondate>2013-05-03</submissiondate>
+<primaryrun>true</primaryrun>
+<methoddescription>Linear classification with image vectors, whose features are histograms of parameters:
+- Feature extraction consists of contour extraction, partitioning and geometric description (similar as described in IJCV, Rasche 2010). Parameters for an image are then transformed into simple histograms and a single image vector is formed (several hundreds of dimensions).
+- Classification is done with a simple LDA with the above described image vectors.
+</methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1367592085169__LAPI_run1.run</runfilename>
+<language>German</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>rasche15@gmail.com</owner-email>
+</run>

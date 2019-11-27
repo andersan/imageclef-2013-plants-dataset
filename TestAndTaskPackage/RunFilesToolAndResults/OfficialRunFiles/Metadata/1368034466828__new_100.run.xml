@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1861</runid>
+<owner>I3S</owner>
+<submissiondate>2013-05-08</submissiondate>
+<primaryrun>true</primaryrun>
+<methoddescription>SVM using SIFT and Brute Force. For each content/type, 250 SVM have been computed. Each test image have been tested using the corresponding 250 SVM at most.</methoddescription>
+<otherinformation></otherinformation>
+<additionalresources>coffee</additionalresources>
+<runfilename>1368034466828__new_100.run</runfilename>
+<language>English and French</language>
+<retrieval-type>Mixed (texual + visual)</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>precioso@i3s.unice.fr</owner-email>
+</run>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1857</runid>
+<owner>UAIC2012</owner>
+<submissiondate>2013-05-08</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>For each image, nearest neighbors (from the training set) are computed based on image content. Nearest neighboors are replaced by their classId that further become new attributes attached to the image. NaiveBayes is then used as classifier and the posterior probabilities are used to obtain the final ranking.</methoddescription>
+<otherinformation>indexing 5 hours
+search 2 hours
+training the classifier 1 hour
+predicting with NaiveBayes 10 minutes</otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1368030994722__run_lire_naivebayes.txt</runfilename>
+<language>Not applicable</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>adiftene@infoiasi.ro</owner-email>
+</run>

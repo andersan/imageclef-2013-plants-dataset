@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1846</runid>
+<owner>INRIA IMEDIA</owner>
+<submissiondate>2013-05-07</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>NaturalBackground:
+
+fishervectors on Descriptors Surf, Fourier, EOH, LBP (rotation invariant), ProbRGB,
+
+Histogram HSV on a subset of harris points (simple segmentation is
+
+applied to estimate foreground objects and only the points that fall
+
+within foreground regions are accepted); +SVM classifiers
+
+
+
+SheetAsBackground:
+
+combination sp2_50 and TOA
+
+sp2_50 : extended shape context in order to represent spatial relations between salient points (Here 50 harris points) and the leaf margin.</methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1368049985079__plantnet_inria_run4.dat</runfilename>
+<language>Not applicable</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>alexis.joly@inria.fr</owner-email>
+</run>

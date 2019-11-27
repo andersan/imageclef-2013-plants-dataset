@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1853</runid>
+<owner>AgSPPR</owner>
+<submissiondate>2013-05-08</submissiondate>
+<primaryrun>true</primaryrun>
+<methoddescription>There are three descreptors(about axial length and area of leaf) for every img.
+And we use SVM to be classifier.
+Because the limited ability,we only deal with the &apos;SheetAsBackground&apos; type.</methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1368002237443__AgSPPR_run1.txt</runfilename>
+<language>Not applicable</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>cheney.chengcai@gmail.com</owner-email>
+</run>

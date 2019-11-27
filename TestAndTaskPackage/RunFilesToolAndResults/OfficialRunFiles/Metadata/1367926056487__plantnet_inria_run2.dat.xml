@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1844</runid>
+<owner>INRIA IMEDIA</owner>
+<submissiondate>2013-05-07</submissiondate>
+<primaryrun>true</primaryrun>
+<methoddescription>NaturalBackground:
+Descriptors Surf, Fourier, EOH, LBP (rotation invariant), ProbRGB,
+Histogram HSV on harris points (concentrated towards the center of the
+image); for leaf no color is used, for other organs EOH is not used;
+each descriptor&apos;s response obtained separately, then all merged using
+weighting based on the maximal returned class probability. For flower
+database, filtering by date of photograph is applied with a +/- 3
+weeks tolerance; dates from train database were used to construct the
+flowering periods. All individual image responses for an individual
+plant are merged first by organ (using simple argmax for each class),
+then by using weigthing based on the maximal organ class probability.
+
+SheetAsBackground:
+A multiscale triangulat shape descriptor (Triangle Side Lenghts and an Angle).
+400 contour points
+5 contour points is the distance betwwen two successive triangles
+50 I consider 50 points on each side relative to the central point. (50/5 = 10 scales)
+Multi Observations
+</methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1367926056487__plantnet_inria_run2.dat</runfilename>
+<language>Not applicable</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>alexis.joly@inria.fr</owner-email>
+</run>

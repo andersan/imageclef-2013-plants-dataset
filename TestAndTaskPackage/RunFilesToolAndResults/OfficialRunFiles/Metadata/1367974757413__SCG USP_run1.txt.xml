@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1851</runid>
+<owner>SCG USP</owner>
+<submissiondate>2013-05-08</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>Fully automatic method. Segmentation of NaturalBackground by graphcut. Features Gabor,  LBP, fractal, geometrical, GPS. Classifier LDA.</methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1367974757413__SCG USP_run1.txt</runfilename>
+<language>English</language>
+<retrieval-type>Textual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>jbflorindo@ursa.ifsc.usp.br</owner-email>
+</run>

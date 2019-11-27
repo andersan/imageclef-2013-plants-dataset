@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1704</runid>
+<owner>mica</owner>
+<submissiondate>2013-04-26</submissiondate>
+<primaryrun>true</primaryrun>
+<methoddescription>In our method, with flower type, we propose to use HSV color histogram, color moment and texture (co-occurrence matrix). With the other types (leaf, entire, stem and fruit), we apply GIST desciptor and kNN classifier. The chosen value of k is 32.</methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1366971577662__MICA-run2.txt</runfilename>
+<language>English</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>lanltbk@gmail.com</owner-email>
+</run>

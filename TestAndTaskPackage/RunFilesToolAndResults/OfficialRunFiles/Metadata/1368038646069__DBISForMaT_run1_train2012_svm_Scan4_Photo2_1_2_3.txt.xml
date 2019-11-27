@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1862</runid>
+<owner>DBISForMaT</owner>
+<submissiondate>2013-05-08</submissiondate>
+<primaryrun>true</primaryrun>
+<methoddescription>SVM Multi-Class classification based six models, one for each category (Leaf, Stem, Entire, Fruit etc.).
+
+Different model was learned on a special combination of multiple visual features like (based on color, edges or textures). We use a straight assignment to each test image to a predicted class.
+</methoddescription>
+<otherinformation>run1
+- based on computations on the 2012 training+test data using the score computation of ImageCLEF2012
+- using the best results
+
+- data for SheetAsBackground_Leaf:
+# RunFileName;Scan _OfficialScore_InverseRank;pseudoscan _OfficialScore_InverseRank;photograph _OfficialScore_InverseRank;
+# results2012/Photo2012deterministic2/Photo4_1_2_1_0_3_0.02_0_1_0.0175_0.1_0.000000001.scaled01.txt ? ? 0.1865553 
+# computed with epsilon_termination_criterion=0.001 instead of 0.000000001
+# nu adapted to new data set (as large as possible)
+-- best score result for pictures
+
+- data for rest (NaturalBackground*):
+# RunFileName Scan _OfficialScore_InverseRank pseudoscan _OfficialScore_InverseRank photograph _OfficialScore_InverseRank 	sum(scan, scan-like)
+# results2012/Scan2012deterministic2/Scan2_1_2_1_0_3_0.05_0_1_0.007_0.1_0,000000001.scaled01.txt 0.2433687 0.1693305 ? 	0.41269920
+# computed with epsilon_termination_criterion=0.001 instead of 0.000000001
+# nu adapted to new data set (as large as possible)
+-- similar to
+# results2012/Scan2012deterministic2/Scan2_0_2_1_0_3_0,05_0_5_0,5_0,1_0,000000001,scaled01,txt 0,2476011 0,1715274 ? 	0,41912850
+--- best score results for scan (0.2476011) and best avg. score for scan-pseudoscan (sum=0.41912850)
+--- but: cost=5, could lead to overfitting -&gt; take other run with cost=1 and good avg. score (scan+scan-like)
+</otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1368038646069__DBISForMaT_run1_train2012_svm_Scan4_Photo2_1_2_3.txt</runfilename>
+<language>English</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>tboettcher@tu-cottbus.de</owner-email>
+</run>

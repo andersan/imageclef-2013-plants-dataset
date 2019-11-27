@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1859</runid>
+<owner>NlabUTokyo</owner>
+<submissiondate>2013-05-08</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>Classifiers are trained on whole 250 categories without distinguishing contents. SIFT, C-SIFT, Opponent-SIFT, HSV-SIFT descriptors are used with polynomial embedding method (ICME&apos;13). We used Fisher vector with three spatial bins. </methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1368032808839__all_siftcopphsv_cca.txt</runfilename>
+<language>Not applicable</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>nakayama@ci.i.u-tokyo.ac.jp</owner-email>
+</run>

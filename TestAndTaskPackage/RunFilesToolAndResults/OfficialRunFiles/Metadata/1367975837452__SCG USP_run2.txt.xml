@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1852</runid>
+<owner>SCG USP</owner>
+<submissiondate>2013-05-08</submissiondate>
+<primaryrun>true</primaryrun>
+<methoddescription>Human assisted method. Manual segmentation of NaturalBackground test images and using Graphcut for train images. Features Gabor,  LBP, fractal, geometrical, GPS. Classifier LDA.</methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1367975837452__SCG USP_run2.txt</runfilename>
+<language>English</language>
+<retrieval-type>Textual</retrieval-type>
+<run-type>Feedback or/and human assistance</run-type>
+<owner-email>jbflorindo@ursa.ifsc.usp.br</owner-email>
+</run>

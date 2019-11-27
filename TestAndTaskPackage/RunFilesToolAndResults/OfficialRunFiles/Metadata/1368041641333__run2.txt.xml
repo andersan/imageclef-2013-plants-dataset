@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1865</runid>
+<owner>NlabUTokyo</owner>
+<submissiondate>2013-05-08</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>Two classifiers are independently trained for SheetAsBackground and NaturalBackground, respectively. For the former, we used SIFT with Fisher vector encoding. For the latter, we combined four Fisher vectors with C-SIFT, Opponent-SIFT, HSV-SIFT, and self similarity descriptors. </methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1368041641333__run2.txt</runfilename>
+<language>Not applicable</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>nakayama@ci.i.u-tokyo.ac.jp</owner-email>
+</run>

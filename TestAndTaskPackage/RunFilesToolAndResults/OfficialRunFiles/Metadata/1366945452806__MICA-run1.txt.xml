@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1703</runid>
+<owner>mica</owner>
+<submissiondate>2013-04-26</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>Our method use GIST descriptor and kNN classifier. A vector of 512 elements of GIST is extracted from all images in the database. GIST descriptors are trained by using kNN. For each test image, we calculate GIST descriptor for this image and predict its class.  The chosen value of k for kNN is 32. </methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1366945452806__MICA-run1.txt</runfilename>
+<language>English</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>lanltbk@gmail.com</owner-email>
+</run>

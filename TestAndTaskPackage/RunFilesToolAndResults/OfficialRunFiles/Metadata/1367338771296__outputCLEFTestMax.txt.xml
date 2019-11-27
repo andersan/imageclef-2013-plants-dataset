@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1771</runid>
+<owner>Vicomtech</owner>
+<submissiondate>2013-04-30</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>The feature extraction process and training are similar to the primary run, but in this case the ranking criteria is different. Max instead of mean.</methoddescription>
+<otherinformation>Sam conditions as the primary run</otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1367338771296__outputCLEFTestMax.txt</runfilename>
+<language>English</language>
+<retrieval-type>Mixed (texual + visual)</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>iolaizola@vicomtech.org</owner-email>
+</run>

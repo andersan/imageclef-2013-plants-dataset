@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1876</runid>
+<owner>I3S</owner>
+<submissiondate>2013-05-10</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>SVM using SIFT and BruteForce.More keypoints than previous run.</methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1368165605197__new2_100.run</runfilename>
+<language>English and French</language>
+<retrieval-type>Mixed (texual + visual)</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>precioso@i3s.unice.fr</owner-email>
+</run>

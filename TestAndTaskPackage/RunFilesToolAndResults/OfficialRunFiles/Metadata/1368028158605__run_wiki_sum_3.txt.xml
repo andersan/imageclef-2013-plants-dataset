@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1855</runid>
+<owner>UAIC2012</owner>
+<submissiondate>2013-05-08</submissiondate>
+<primaryrun>true</primaryrun>
+<methoddescription>We perform image retrieval using an extended collection of images obtained from training collection and an extracted collection from Wikipedia. For final score of a classId we consider the sum of partial results obtained after retrieval.  </methoddescription>
+<otherinformation>scrapping 
+indexing 5 hours
+search 2 hours
+obtaining of final results 1 minute</otherinformation>
+<additionalresources>Wikipedia</additionalresources>
+<runfilename>1368028158605__run_wiki_sum_3.txt</runfilename>
+<language>Not applicable</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>adiftene@infoiasi.ro</owner-email>
+</run>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1866</runid>
+<owner>NlabUTokyo</owner>
+<submissiondate>2013-05-08</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>Classification systems are trained independently for each category. Namely, Scan+Scanlike, Lear, Flower, Fruit, Stem, and Entire. We employed Fisher vectors using multiple descriptors, together with polynomial embedding method.  </methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1368041861286__run3.txt</runfilename>
+<language>Not applicable</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Not applicable</run-type>
+<owner-email>nakayama@ci.i.u-tokyo.ac.jp</owner-email>
+</run>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1874</runid>
+<owner>mica</owner>
+<submissiondate>2013-05-09</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>For leaf images, we apply SURF, BOW and SVM. For the other types, we use GIST with kNN</methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1368093262111__Run3.txt</runfilename>
+<language>English</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>lanltbk@gmail.com</owner-email>
+</run>

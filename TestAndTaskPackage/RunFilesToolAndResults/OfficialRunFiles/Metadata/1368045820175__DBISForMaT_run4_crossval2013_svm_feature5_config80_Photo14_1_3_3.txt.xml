@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1868</runid>
+<owner>DBISForMaT</owner>
+<submissiondate>2013-05-08</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>SVM Multi-Class classification based six models, one for each category (Leaf, Stem, Entire, Fruit etc.).
+
+Different model was learned on a special combination of multiple visual features like (based on color, edges or textures). We use a straight assignment to each test image to a predicted class.
+</methoddescription>
+<otherinformation>- based on five-fold cross validation of the 2013 training data, using libsvm
+
+technical details, libsvm paramters:
+svm_type=1
+kernel_type=3
+shrinking=1
+probability=0
+degree=3
+gamma=0.01
+cost=1
+epsilon_loss_function=0.1
+epsilon_termination_criterion=0.0001
+class &quot;Fruit&quot;: coef=-0.2
+class &quot;Entire&quot;: coef=-0.5
+else: coef=-1
+</otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1368045820175__DBISForMaT_run4_crossval2013_svm_feature5_config80_Photo14_1_3_3.txt</runfilename>
+<language>English</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>tboettcher@tu-cottbus.de</owner-email>
+</run>

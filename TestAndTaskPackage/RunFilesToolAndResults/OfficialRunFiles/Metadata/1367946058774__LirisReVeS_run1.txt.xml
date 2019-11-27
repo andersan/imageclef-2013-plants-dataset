@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1849</runid>
+<owner>LirisReVeS</owner>
+<submissiondate>2013-05-07</submissiondate>
+<primaryrun>true</primaryrun>
+<methoddescription>- Color based segmentation of macro images
+- Some user interaction on natural background images
+- Morphological Descriptors on leaves
+- Color+Texture features on fruits, flowers and barks
+- Entire plants and non-macro images untreated
+- Naive classification
+- Individual-based fusion</methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1367946058774__LirisReVeS_run1.txt</runfilename>
+<language>English</language>
+<retrieval-type>Mixed (texual + visual)</retrieval-type>
+<run-type>Feedback or/and human assistance</run-type>
+<owner-email>laure.tougne@liris.cnrs.fr</owner-email>
+</run>

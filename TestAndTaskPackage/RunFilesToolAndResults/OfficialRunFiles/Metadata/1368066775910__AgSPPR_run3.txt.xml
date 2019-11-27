@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1871</runid>
+<owner>AgSPPR</owner>
+<submissiondate>2013-05-09</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>matching-based method using CENTRIST algorithm and SVM classifier </methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1368066775910__AgSPPR_run3.txt</runfilename>
+<language>Not applicable</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>cheney.chengcai@gmail.com</owner-email>
+</run>

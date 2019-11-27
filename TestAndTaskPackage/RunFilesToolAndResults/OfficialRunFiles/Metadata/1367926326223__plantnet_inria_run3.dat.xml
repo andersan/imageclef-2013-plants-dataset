@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run>
+<runid>1845</runid>
+<owner>INRIA IMEDIA</owner>
+<submissiondate>2013-05-07</submissiondate>
+<primaryrun>false</primaryrun>
+<methoddescription>NaturalBackground:
+Descriptors Surf, Fourier, EOH, LBP (rotation invariant), ProbRGB,
+Histogram HSV on a subset of harris points (simple segmentation is
+applied to estimate foreground objects and only the points that fall
+within foreground regions are accepted); for leaf no color is used,
+for other organs EOH is not used; each descriptor&apos;s response obtained
+separately, then all merged using weighting based on the maximal
+returned class probability. Response for each image is presented.
+
+SheetAsBackground:
+Combination TSLA+DFH+shapes descriptors (Multi Observations)</methoddescription>
+<otherinformation></otherinformation>
+<additionalresources></additionalresources>
+<runfilename>1367926326223__plantnet_inria_run3.dat</runfilename>
+<language>Not applicable</language>
+<retrieval-type>Visual</retrieval-type>
+<run-type>Automatic</run-type>
+<owner-email>alexis.joly@inria.fr</owner-email>
+</run>

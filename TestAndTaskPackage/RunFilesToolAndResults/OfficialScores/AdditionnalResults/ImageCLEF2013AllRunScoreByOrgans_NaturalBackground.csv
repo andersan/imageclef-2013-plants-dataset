@@ -1,0 +1,40 @@
+"Organs";"Entire";"Flower";"Fruit";"Leaf";"Stem"
+"PictureNumberTrain";1455;3522;1387;3503;1337
+"IndividualPlantNumberTrain";955;1328;512;1046;629
+"PictureNumberTest";694;1233;520;790;605
+"IndividualPlantNumberTest";567;970;302;420;408
+"PictureNumberAll";2149;4755;1907;4293;1942
+"IndividualPlantNumberAll";1522;2298;814;1466;1037
+"1366945452806__MICA-run1_OfficialScore_InverseRank";0,016;0,013;0,048;0,014;0,014
+"1366971577662__MICA-run2_OfficialScore_InverseRank";0,016;0,086;0,048;0,014;0,014
+"1367338673606__outputCLEFTestMean_OfficialScore_InverseRank";0,095;0,117;0;0;0,1
+"1367338771296__outputCLEFTestMax_OfficialScore_InverseRank";0,091;0,116;0;0;0,094
+"1367592085169__LAPI_run1_OfficialScore_InverseRank";0,026;0,073;0,025;0,084;0,043
+"1367925811122__plantnet_inria_run1_OfficialScore_InverseRank";0,254;0,437;0,249;0,24;0,211
+"1367926056487__plantnet_inria_run2_OfficialScore_InverseRank";0,274;0,494;0,26;0,272;0,24
+"1367926326223__plantnet_inria_run3_OfficialScore_InverseRank";0,216;0,421;0,238;0,195;0,176
+"1367946058774__LirisReVeS_run1_OfficialScore_InverseRank";0,021;0,098;0,081;0,151;0,153
+"1367946215062__LirisReVeS_run2_OfficialScore_InverseRank";0,026;0,102;0,082;0,161;0,166
+"1367974757413__SCG USP_run1_OfficialScore_InverseRank";0,02;0,026;0,027;0,02;0,037
+"1367975837452__SCG USP_run2_OfficialScore_InverseRank";0,027;0,029;0,02;0,018;0,019
+"1368002237443__AgSPPR_run1_OfficialScore_InverseRank";0;0;0;0;0
+"1368028158605__run_wiki_sum_3_OfficialScore_InverseRank";0,089;0,109;0,132;0,093;0,104
+"1368030128394__run_author10_GSP10_lire80_OfficialScore_InverseRank";0,092;0,105;0,127;0,096;0,11
+"1368030994722__run_lire_naivebayes_OfficialScore_InverseRank";0,068;0,055;0,111;0,049;0,102
+"1368031342488__run_wiki_max_1_OfficialScore_InverseRank";0,09;0,136;0,12;0,08;0,128
+"1368032808839__all_siftcopphsv_cca_OfficialScore_InverseRank";0,236;0,423;0,209;0,269;0,276
+"1368033933190__SCG USP_run3_OfficialScore_InverseRank";0,017;0,025;0,042;0,047;0,054
+"1368034466828__new_100_OfficialScore_InverseRank";0,017;0,023;0,041;0,038;0,025
+"1368038646069__DBISForMaT_run1_train2012_svm_Scan4_Photo2_1_2_3_OfficialScore_InverseRank";0,067;0,168;0,1;0,052;0,103
+"1368038721036__DBISForMaT_run2_train2012_svm_Scan12_Photo4_-_1_4_OfficialScore_InverseRank";0,102;0,264;0,082;0,034;0,095
+"1368041641333__run2_OfficialScore_InverseRank";0,273;0,484;0,259;0,273;0,285
+"1368041861286__run3_OfficialScore_InverseRank";0,297;0,472;0,311;0,275;0,253
+"1368045672892__DBISForMaT_run3_crossval2013_svm_feature4_config60_1_2_3_OfficialScore_InverseRank";0,109;0,256;0,079;0,035;0,095
+"1368045820175__DBISForMaT_run4_crossval2013_svm_feature5_config80_Photo14_1_3_3_OfficialScore_InverseRank";0,152;0,206;0,104;0,027;0,042
+"1368049985079__plantnet_inria_run4_OfficialScore_InverseRank";0,15;0,327;0,137;0,165;0,171
+"1368050270540__SCG USP_run4_OfficialScore_InverseRank";0,019;0,014;0,022;0,031;0,021
+"1368063045390__AgSPPR_run2_OfficialScore_InverseRank";0;0;0;0;0
+"1368066775910__AgSPPR_run3_OfficialScore_InverseRank";0;0;0;0;0
+"1368093262111__Run3_OfficialScore_InverseRank";0,016;0,013;0,048;0,11;0,014
+"1368163545166__Sabanci-Okan-Run1_OfficialScore_InverseRank";0,174;0,223;0,194;0,049;0,106
+"1368165605197__new2_100_OfficialScore_InverseRank";0,017;0,023;0,041;0,038;0,025
