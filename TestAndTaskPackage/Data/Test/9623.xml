@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9623.jpg</FileName>
+  <IndividualPlantId>2525</IndividualPlantId>
+  <Date>14/03/12</Date>
+  <Locality>France - Montagnac</Locality>
+  <GPSLocality>
+    <Longitude>4.064037</Longitude>
+    <Latitude>45.385331</Latitude>
+  </GPSLocality>
+  <Author>Jean Rene Garcia</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

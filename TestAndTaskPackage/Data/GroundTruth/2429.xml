@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2429.jpg</FileName>
+  <IndividualPlantId>4178</IndividualPlantId>
+  <Date>19/06/09</Date>
+  <Locality>Portugal</Locality>
+  <GPSLocality>
+    <Longitude>-16.953278</Longitude>
+    <Latitude>32.791892</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Blechnum spicant</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Polypodiidae Cronquist, Takht. &amp; W. Zimm.</Subclass>
+    <Superorder>Polypodiidae Cronquist, Takht. &amp; W. Zimm.</Superorder>
+    <Order>Polypodiales Link</Order>
+    <Family>Blechnaceae Newman</Family>
+    <Genus>Blechnum L.</Genus>
+    <Species>Blechnum spicant (L.) Sm.</Species>
+  </Taxon>
+  <VernacularNames>Deer Fern</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8871.jpg</FileName>
+  <IndividualPlantId>2969</IndividualPlantId>
+  <Date>14/11/11</Date>
+  <Locality>France - Soultzeren</Locality>
+  <GPSLocality>
+    <Longitude>7.103927</Longitude>
+    <Latitude>48.055675</Latitude>
+  </GPSLocality>
+  <Author>Hugues Tinguy</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Silene dioica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Caryophyllanae Takht.</Superorder>
+    <Order>Caryophyllales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Caryophyllaceae Juss.</Family>
+    <Genus>Silene L.</Genus>
+    <Species>Silene dioica (L.) Clairv.</Species>
+  </Taxon>
+  <VernacularNames>Red campion</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

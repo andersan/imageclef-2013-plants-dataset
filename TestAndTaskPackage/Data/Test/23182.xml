@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23182.jpg</FileName>
+  <IndividualPlantId>1204</IndividualPlantId>
+  <Date>20/05/12</Date>
+  <Locality>France - Auby</Locality>
+  <GPSLocality>
+    <Longitude>3.061237</Longitude>
+    <Latitude>50.414319</Latitude>
+  </GPSLocality>
+  <Author>Emmanuel Stratmains</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

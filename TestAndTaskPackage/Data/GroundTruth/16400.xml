@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16400.jpg</FileName>
+  <IndividualPlantId>2003</IndividualPlantId>
+  <Date>30/11/99</Date>
+  <Locality>France - Athis-Mons</Locality>
+  <GPSLocality>
+    <Longitude>2.376120</Longitude>
+    <Latitude>48.700129</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Cornus sanguinea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Cornales Link</Order>
+    <Family>Cornaceae Bercht. ex J. Presl</Family>
+    <Genus>Cornus L.</Genus>
+    <Species>Cornus sanguinea L.</Species>
+  </Taxon>
+  <VernacularNames>Common dogwood</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13853.jpg</FileName>
+  <IndividualPlantId>3459</IndividualPlantId>
+  <Date>20/07/12</Date>
+  <Locality>France - Saint-Coulomb</Locality>
+  <GPSLocality>
+    <Longitude>1.476588</Longitude>
+    <Latitude>43.314361</Latitude>
+  </GPSLocality>
+  <Author>Claire Felloni</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Centaurea aspera</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Centaurea L.</Genus>
+    <Species>Centaurea aspera L.</Species>
+  </Taxon>
+  <VernacularNames>Rough star-thistle</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23247.jpg</FileName>
+  <IndividualPlantId>5850</IndividualPlantId>
+  <Date>06/07/06</Date>
+  <Locality>France - Olonne-Sur-Mer</Locality>
+  <GPSLocality>
+    <Longitude>-1.758532</Longitude>
+    <Latitude>46.489577</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10781.jpg</FileName>
+  <IndividualPlantId>5576</IndividualPlantId>
+  <Date>06/11/12</Date>
+  <Locality>France - Soufflenheim</Locality>
+  <GPSLocality>
+    <Longitude>7.963965</Longitude>
+    <Latitude>48.829742</Latitude>
+  </GPSLocality>
+  <Author>Claire Sutter</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ilex aquifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Aquifoliales Senft</Order>
+    <Family>Aquifoliaceae Bercht. &amp; J. Presl</Family>
+    <Genus>Ilex L.</Genus>
+    <Species>Ilex aquifolium L.</Species>
+  </Taxon>
+  <VernacularNames>European holly</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

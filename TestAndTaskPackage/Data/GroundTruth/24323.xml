@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24323.jpg</FileName>
+  <IndividualPlantId>3318</IndividualPlantId>
+  <Date>18/04/12</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ulmus minor</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Ulmaceae Mirb.</Family>
+    <Genus>Ulmus L.</Genus>
+    <Species>Ulmus minor Mill.</Species>
+  </Taxon>
+  <VernacularNames>Field elm</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

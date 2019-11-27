@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2206.jpg</FileName>
+  <IndividualPlantId>3448</IndividualPlantId>
+  <Date>20/02/07</Date>
+  <Locality>France - Sète</Locality>
+  <GPSLocality>
+    <Longitude>3.696629</Longitude>
+    <Latitude>43.402200</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9953.jpg</FileName>
+  <IndividualPlantId>5401</IndividualPlantId>
+  <Date>28/09/08</Date>
+  <Locality>France - Lioux</Locality>
+  <GPSLocality>
+    <Longitude>5.301341</Longitude>
+    <Latitude>43.946532</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Sorbus domestica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus domestica L.</Species>
+  </Taxon>
+  <VernacularNames>Service tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

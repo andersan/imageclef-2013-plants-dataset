@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3305.jpg</FileName>
+  <IndividualPlantId>5697</IndividualPlantId>
+  <Date>12/06/10</Date>
+  <Locality>France - La Grande-Motte</Locality>
+  <GPSLocality>
+    <Longitude>4.086072</Longitude>
+    <Latitude>43.560704</Latitude>
+  </GPSLocality>
+  <Author>John De Vos</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

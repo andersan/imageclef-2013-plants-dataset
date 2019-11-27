@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8447.jpg</FileName>
+  <IndividualPlantId>6170</IndividualPlantId>
+  <Date>18/08/12</Date>
+  <Locality>France - Les Houches</Locality>
+  <GPSLocality>
+    <Longitude>6.798735</Longitude>
+    <Latitude>45.890388</Latitude>
+  </GPSLocality>
+  <Author>Jean-Louis Cheype</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24000.jpg</FileName>
+  <IndividualPlantId>3265</IndividualPlantId>
+  <Date>02/05/09</Date>
+  <Locality>France - Fort-Louis</Locality>
+  <GPSLocality>
+    <Longitude>8.056883</Longitude>
+    <Latitude>48.801300</Latitude>
+  </GPSLocality>
+  <Author>Claire Sutter</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

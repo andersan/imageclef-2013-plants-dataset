@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11340.jpg</FileName>
+  <IndividualPlantId>1608</IndividualPlantId>
+  <Date>08/05/06</Date>
+  <Locality>France - Pompignan</Locality>
+  <GPSLocality>
+    <Longitude>3.864918</Longitude>
+    <Latitude>43.899085</Latitude>
+  </GPSLocality>
+  <Author>Christophe Bernier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25737.jpg</FileName>
+  <IndividualPlantId>3227</IndividualPlantId>
+  <Date>15/02/13</Date>
+  <Locality>France - Montferrier-Sur-Lez</Locality>
+  <GPSLocality>
+    <Longitude>3.859265</Longitude>
+    <Latitude>43.671824</Latitude>
+  </GPSLocality>
+  <Author>Remi Tournebize</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

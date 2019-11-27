@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5955.jpg</FileName>
+  <IndividualPlantId>6038</IndividualPlantId>
+  <Date>12/05/07</Date>
+  <Locality>France - Saint-Affrique</Locality>
+  <GPSLocality>
+    <Longitude>2.887126</Longitude>
+    <Latitude>43.958190</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Cyanus montanus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Cyanus Mill.</Genus>
+    <Species>Cyanus montanus (L.) Hill</Species>
+  </Taxon>
+  <VernacularNames>Mountain cornflower</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

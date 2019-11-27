@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7459.jpg</FileName>
+  <IndividualPlantId>138</IndividualPlantId>
+  <Date>05/09/11</Date>
+  <Locality>France - Lattes</Locality>
+  <GPSLocality>
+    <Longitude>3.896473</Longitude>
+    <Latitude>43.567296</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Acer platanoides</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer platanoides L.</Species>
+  </Taxon>
+  <VernacularNames>Norway maple</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

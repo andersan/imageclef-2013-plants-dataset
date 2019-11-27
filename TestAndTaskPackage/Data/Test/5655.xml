@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5655.jpg</FileName>
+  <IndividualPlantId>3037</IndividualPlantId>
+  <Date>10/09/11</Date>
+  <Locality>France - Les Pennes-Mirabeau</Locality>
+  <GPSLocality>
+    <Longitude>5.320103</Longitude>
+    <Latitude>43.409630</Latitude>
+  </GPSLocality>
+  <Author>Bertrand Bui</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

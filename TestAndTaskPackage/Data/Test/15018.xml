@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15018.jpg</FileName>
+  <IndividualPlantId>1411</IndividualPlantId>
+  <Date>28/04/10</Date>
+  <Locality>France - Puéchabon</Locality>
+  <GPSLocality>
+    <Longitude>3.617468</Longitude>
+    <Latitude>43.714103</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

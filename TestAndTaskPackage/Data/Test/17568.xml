@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>17568.jpg</FileName>
+  <IndividualPlantId>4638</IndividualPlantId>
+  <Date>09/03/13</Date>
+  <Locality>France - Émerainville</Locality>
+  <GPSLocality>
+    <Longitude>2.622037</Longitude>
+    <Latitude>48.811755</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

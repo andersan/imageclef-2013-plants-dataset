@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22358.jpg</FileName>
+  <IndividualPlantId>1426</IndividualPlantId>
+  <Date>18/07/12</Date>
+  <Locality>France - Neufchateau</Locality>
+  <GPSLocality>
+    <Longitude>5.694596</Longitude>
+    <Latitude>48.354965</Latitude>
+  </GPSLocality>
+  <Author>Jean Claude Estatico</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Verbascum lychnitis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Scrophulariaceae Juss.</Family>
+    <Genus>Verbascum L.</Genus>
+    <Species>Verbascum lychnitis L.</Species>
+  </Taxon>
+  <VernacularNames>White mullein</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

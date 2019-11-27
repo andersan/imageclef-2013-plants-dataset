@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20146.jpg</FileName>
+  <IndividualPlantId>2689</IndividualPlantId>
+  <Date>09/09/12</Date>
+  <Locality>France - Île-De-Batz</Locality>
+  <GPSLocality>
+    <Longitude>-4.009722</Longitude>
+    <Latitude>48.745278</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>447.jpg</FileName>
+  <IndividualPlantId>5578</IndividualPlantId>
+  <Date>20/06/08</Date>
+  <Locality>France - Vauvenargues</Locality>
+  <GPSLocality>
+    <Longitude>5.602142</Longitude>
+    <Latitude>43.555284</Latitude>
+  </GPSLocality>
+  <Author>Jean-Claude Ernewein</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

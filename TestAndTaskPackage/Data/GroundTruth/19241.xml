@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19241.jpg</FileName>
+  <IndividualPlantId>5673</IndividualPlantId>
+  <Date>11/05/11</Date>
+  <Locality>France - Saint-Étienne-Du-Grès</Locality>
+  <GPSLocality>
+    <Longitude>4.726170</Longitude>
+    <Latitude>43.780147</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Potentilla recta</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Potentilla Adans.</Genus>
+    <Species>Potentilla recta L.</Species>
+  </Taxon>
+  <VernacularNames>Rough-fruited cinquefoil</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

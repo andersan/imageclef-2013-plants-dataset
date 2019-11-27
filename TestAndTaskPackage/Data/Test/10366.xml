@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10366.jpg</FileName>
+  <IndividualPlantId>6109</IndividualPlantId>
+  <Date>26/05/11</Date>
+  <Locality>France - Tolla</Locality>
+  <GPSLocality>
+    <Longitude>8.972865</Longitude>
+    <Latitude>41.974745</Latitude>
+  </GPSLocality>
+  <Author>Pierre Lambert</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

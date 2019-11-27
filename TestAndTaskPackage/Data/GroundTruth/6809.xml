@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6809.jpg</FileName>
+  <IndividualPlantId>2115</IndividualPlantId>
+  <Date>19/03/11</Date>
+  <Locality>France - Teyran</Locality>
+  <GPSLocality>
+    <Longitude>3.925559</Longitude>
+    <Latitude>43.682702</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Helianthemum apenninum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Cistaceae Juss.</Family>
+    <Genus>Helianthemum Mill.</Genus>
+    <Species>Helianthemum apenninum (L.) Mill.</Species>
+  </Taxon>
+  <VernacularNames>White rock-rose</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

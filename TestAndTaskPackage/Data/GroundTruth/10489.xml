@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10489.jpg</FileName>
+  <IndividualPlantId>4044</IndividualPlantId>
+  <Date>11/06/05</Date>
+  <Locality>France - Plan-D'aups-Sainte-Baume</Locality>
+  <GPSLocality>
+    <Longitude>5.709460</Longitude>
+    <Latitude>43.326780</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Melittis melissophyllum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Lamiaceae Martinov</Family>
+    <Genus>Melittis L.</Genus>
+    <Species>Melittis melissophyllum L.</Species>
+  </Taxon>
+  <VernacularNames>Bastard balm</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

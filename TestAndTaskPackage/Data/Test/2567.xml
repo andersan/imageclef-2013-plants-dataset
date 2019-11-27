@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2567.jpg</FileName>
+  <IndividualPlantId>3026</IndividualPlantId>
+  <Date>21/04/12</Date>
+  <Locality>France - Cassis</Locality>
+  <GPSLocality>
+    <Longitude>5.53712</Longitude>
+    <Latitude>43.215134</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11809.jpg</FileName>
+  <IndividualPlantId>5873</IndividualPlantId>
+  <Date>02/09/11</Date>
+  <Locality>France - Estirac</Locality>
+  <GPSLocality>
+    <Longitude>2.877936</Longitude>
+    <Latitude>42.769323</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

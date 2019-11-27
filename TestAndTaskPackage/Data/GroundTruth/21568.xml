@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21568.jpg</FileName>
+  <IndividualPlantId>3672</IndividualPlantId>
+  <Date>02/05/12</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Punica granatum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Myrtales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Lythraceae J. St.-Hil.</Family>
+    <Genus>Punica L.</Genus>
+    <Species>Punica granatum L.</Species>
+  </Taxon>
+  <VernacularNames>Pomegranate</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

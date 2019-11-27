@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>65.jpg</FileName>
+  <IndividualPlantId>1459</IndividualPlantId>
+  <Date>07/08/07</Date>
+  <Locality>France - Loctudy</Locality>
+  <GPSLocality>
+    <Longitude>-4.168061</Longitude>
+    <Latitude>47.830440</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

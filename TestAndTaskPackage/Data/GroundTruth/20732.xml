@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20732.jpg</FileName>
+  <IndividualPlantId>1708</IndividualPlantId>
+  <Date>15/05/06</Date>
+  <Locality>France - Bazeilles-Sur-Othain</Locality>
+  <GPSLocality>
+    <Longitude>5.469409</Longitude>
+    <Latitude>49.540701</Latitude>
+  </GPSLocality>
+  <Author>Francois Meignant</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Asplenium scolopendrium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Polypodiidae Cronquist, Takht. &amp; W. Zimm.</Subclass>
+    <Superorder>Polypodiidae Cronquist, Takht. &amp; W. Zimm.</Superorder>
+    <Order>Polypodiales Link</Order>
+    <Family>Aspleniaceae Newman</Family>
+    <Genus>Asplenium L.</Genus>
+    <Species>Asplenium scolopendrium L.</Species>
+  </Taxon>
+  <VernacularNames>Hart's-tongue fern</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

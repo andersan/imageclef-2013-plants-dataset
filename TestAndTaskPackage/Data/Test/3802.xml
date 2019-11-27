@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3802.jpg</FileName>
+  <IndividualPlantId>4645</IndividualPlantId>
+  <Date>02/07/07</Date>
+  <Locality>France - Lavernose-Lacasse</Locality>
+  <GPSLocality>
+    <Longitude>1.261595</Longitude>
+    <Latitude>43.396206</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

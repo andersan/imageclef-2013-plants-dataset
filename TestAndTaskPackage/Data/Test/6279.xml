@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6279.jpg</FileName>
+  <IndividualPlantId>4897</IndividualPlantId>
+  <Date>14/02/13</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.3509860038757324</Longitude>
+    <Latitude>48.856666564941406</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

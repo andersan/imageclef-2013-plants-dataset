@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22674.jpg</FileName>
+  <IndividualPlantId>405</IndividualPlantId>
+  <Date>13/07/09</Date>
+  <Locality>France - Sauzon</Locality>
+  <GPSLocality>
+    <Longitude>-3.221835</Longitude>
+    <Latitude>47.371129</Latitude>
+  </GPSLocality>
+  <Author>Valerie Bruneau-Querey</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Matthiola sinuata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Brassicales Bromhead</Order>
+    <Family>Brassicaceae Burnett</Family>
+    <Genus>Matthiola W.T. Aiton</Genus>
+    <Species>Matthiola sinuata (L.) R.Br.</Species>
+  </Taxon>
+  <VernacularNames>Sea stock</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

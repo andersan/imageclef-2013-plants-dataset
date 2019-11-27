@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20339.jpg</FileName>
+  <IndividualPlantId>484</IndividualPlantId>
+  <Date>12/05/12</Date>
+  <Locality>France - Nans-Les-Pins</Locality>
+  <GPSLocality>
+    <Longitude>5.782809</Longitude>
+    <Latitude>43.370550</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

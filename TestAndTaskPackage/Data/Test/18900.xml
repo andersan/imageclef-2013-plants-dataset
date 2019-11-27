@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18900.jpg</FileName>
+  <IndividualPlantId>4873</IndividualPlantId>
+  <Date>30/08/11</Date>
+  <Locality>France - Sucy-En-Brie</Locality>
+  <GPSLocality>
+    <Longitude>2.520598</Longitude>
+    <Latitude>48.768866</Latitude>
+  </GPSLocality>
+  <Author>Bertrand Bui</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>17071.jpg</FileName>
+  <IndividualPlantId>111</IndividualPlantId>
+  <Date>19/04/06</Date>
+  <Locality>France - Champ-Sur-Drac</Locality>
+  <GPSLocality>
+    <Longitude>5.731518</Longitude>
+    <Latitude>45.069402</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

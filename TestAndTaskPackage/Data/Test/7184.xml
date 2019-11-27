@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7184.jpg</FileName>
+  <IndividualPlantId>3900</IndividualPlantId>
+  <Date>22/06/07</Date>
+  <Locality>France - Névache</Locality>
+  <GPSLocality>
+    <Longitude>6.604901</Longitude>
+    <Latitude>45.019215</Latitude>
+  </GPSLocality>
+  <Author>Jean-Claude Ernewein</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

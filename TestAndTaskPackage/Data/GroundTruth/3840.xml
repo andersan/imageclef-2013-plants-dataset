@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3840.jpg</FileName>
+  <IndividualPlantId>1253</IndividualPlantId>
+  <Date>25/05/07</Date>
+  <Locality>France - Vif</Locality>
+  <GPSLocality>
+    <Longitude>5.669120</Longitude>
+    <Latitude>45.056206</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Cotinus coggygria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Anacardiaceae R. Br.</Family>
+    <Genus>Cotinus Mill.</Genus>
+    <Species>Cotinus coggygria Scop.</Species>
+  </Taxon>
+  <VernacularNames>Eurasian smoketree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

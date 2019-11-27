@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20629.jpg</FileName>
+  <IndividualPlantId>5046</IndividualPlantId>
+  <Date>15/08/99</Date>
+  <Locality>France - Brévillers</Locality>
+  <GPSLocality>
+    <Longitude>2.015786</Longitude>
+    <Latitude>50.346281</Latitude>
+  </GPSLocality>
+  <Author>Laurent Petit</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

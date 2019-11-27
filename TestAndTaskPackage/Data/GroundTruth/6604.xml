@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6604.jpg</FileName>
+  <IndividualPlantId>919</IndividualPlantId>
+  <Date>28/06/08</Date>
+  <Locality>France - Passy</Locality>
+  <GPSLocality>
+    <Longitude>6.684919</Longitude>
+    <Latitude>45.923392</Latitude>
+  </GPSLocality>
+  <Author>Clemence Bes</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Dactylorhiza maculata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Dactylorhiza Neck. ex Nevski</Genus>
+    <Species>Dactylorhiza maculata (L.) Soó</Species>
+  </Taxon>
+  <VernacularNames>Heath spotted orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

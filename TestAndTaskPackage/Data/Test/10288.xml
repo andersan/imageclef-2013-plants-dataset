@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10288.jpg</FileName>
+  <IndividualPlantId>5543</IndividualPlantId>
+  <Date>16/05/09</Date>
+  <Locality>France - Saint-Martory</Locality>
+  <GPSLocality>
+    <Longitude>0.930699</Longitude>
+    <Latitude>43.143227</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

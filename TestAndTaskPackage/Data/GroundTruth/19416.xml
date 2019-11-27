@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19416.jpg</FileName>
+  <IndividualPlantId>326</IndividualPlantId>
+  <Date>23/06/07</Date>
+  <Locality>France - Auzat</Locality>
+  <GPSLocality>
+    <Longitude>1.479285</Longitude>
+    <Latitude>42.767129</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Geranium sylvaticum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Geraniales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Geraniaceae Juss.</Family>
+    <Genus>Geranium L.</Genus>
+    <Species>Geranium sylvaticum L.</Species>
+  </Taxon>
+  <VernacularNames>Woodland geranium</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

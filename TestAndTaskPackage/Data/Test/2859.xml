@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2859.jpg</FileName>
+  <IndividualPlantId>2006</IndividualPlantId>
+  <Date>14/05/11</Date>
+  <Locality>France - Tralonca</Locality>
+  <GPSLocality>
+    <Longitude>9.207567</Longitude>
+    <Latitude>42.343284</Latitude>
+  </GPSLocality>
+  <Author>Pierre Lambert</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

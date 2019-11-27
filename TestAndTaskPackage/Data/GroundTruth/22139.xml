@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22139.jpg</FileName>
+  <IndividualPlantId>3082</IndividualPlantId>
+  <Date>07/09/12</Date>
+  <Locality>France - Blois</Locality>
+  <GPSLocality>
+    <Longitude>1.336272</Longitude>
+    <Latitude>47.587952</Latitude>
+  </GPSLocality>
+  <Author>R Vallengelier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Cymbalaria muralis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Plantaginaceae Juss.</Family>
+    <Genus>Cymbalaria Hill</Genus>
+    <Species>Cymbalaria muralis P. Gaertn., B. Mey. &amp; Scherb.</Species>
+  </Taxon>
+  <VernacularNames>Ivy-leaved toadflax</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

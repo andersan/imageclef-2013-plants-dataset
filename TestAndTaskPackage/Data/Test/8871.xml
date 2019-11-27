@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8871.jpg</FileName>
+  <IndividualPlantId>2969</IndividualPlantId>
+  <Date>14/11/11</Date>
+  <Locality>France - Soultzeren</Locality>
+  <GPSLocality>
+    <Longitude>7.103927</Longitude>
+    <Latitude>48.055675</Latitude>
+  </GPSLocality>
+  <Author>Hugues Tinguy</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

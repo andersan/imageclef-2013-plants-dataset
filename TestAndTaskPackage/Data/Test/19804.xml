@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19804.jpg</FileName>
+  <IndividualPlantId>4254</IndividualPlantId>
+  <Date>04/02/13</Date>
+  <Locality>France - Lattes</Locality>
+  <GPSLocality>
+    <Longitude>3.896473</Longitude>
+    <Latitude>43.567296</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

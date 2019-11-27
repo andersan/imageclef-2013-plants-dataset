@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15092.jpg</FileName>
+  <IndividualPlantId>3444</IndividualPlantId>
+  <Date>14/10/12</Date>
+  <Locality>France - Fleury</Locality>
+  <GPSLocality>
+    <Longitude>-0.331316</Longitude>
+    <Latitude>49.201553</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Pinus halepensis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Pinidae Cronquist, Takht. &amp; W. Zimm.</Subclass>
+    <Superorder>Pinidae Cronquist, Takht. &amp; W. Zimm.</Superorder>
+    <Order>Pinales Gorozh.</Order>
+    <Family>Pinaceae Spreng. ex Rudolphi</Family>
+    <Genus>Pinus L.</Genus>
+    <Species>Pinus halepensis Mill.</Species>
+  </Taxon>
+  <VernacularNames>Aleppo pine</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

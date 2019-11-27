@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23877.jpg</FileName>
+  <IndividualPlantId>2884</IndividualPlantId>
+  <Date>21/09/12</Date>
+  <Locality>France - La Chapelle St Mesmin</Locality>
+  <GPSLocality>
+    <Longitude>1.840210</Longitude>
+    <Latitude>47.887274</Latitude>
+  </GPSLocality>
+  <Author>Jacques Marechal</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Solanum nigrum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Solanaceae Juss.</Family>
+    <Genus>Solanum L.</Genus>
+    <Species>Solanum nigrum L.</Species>
+  </Taxon>
+  <VernacularNames>European black nightshade</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

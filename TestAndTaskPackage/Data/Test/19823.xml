@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19823.jpg</FileName>
+  <IndividualPlantId>774</IndividualPlantId>
+  <Date>24/09/05</Date>
+  <Locality>France - Munchhausen</Locality>
+  <GPSLocality>
+    <Longitude>8.147462</Longitude>
+    <Latitude>48.920143</Latitude>
+  </GPSLocality>
+  <Author>Claire Sutter</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

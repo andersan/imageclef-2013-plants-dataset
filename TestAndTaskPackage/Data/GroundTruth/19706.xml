@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19706.jpg</FileName>
+  <IndividualPlantId>5465</IndividualPlantId>
+  <Date>05/03/11</Date>
+  <Locality>France - Draveil</Locality>
+  <GPSLocality>
+    <Longitude>2.408154</Longitude>
+    <Latitude>48.685388</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Tussilago farfara</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Tussilago L.</Genus>
+    <Species>Tussilago farfara L.</Species>
+  </Taxon>
+  <VernacularNames>Coltsfoot</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

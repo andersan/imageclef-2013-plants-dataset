@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19139.jpg</FileName>
+  <IndividualPlantId>972</IndividualPlantId>
+  <Date>21/05/08</Date>
+  <Locality>France - Peyreleau</Locality>
+  <GPSLocality>
+    <Longitude>3.208578</Longitude>
+    <Latitude>44.188258</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

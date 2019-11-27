@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13051.jpg</FileName>
+  <IndividualPlantId>3785</IndividualPlantId>
+  <Date>16/04/11</Date>
+  <Locality>France - Champcueil</Locality>
+  <GPSLocality>
+    <Longitude>2.445028</Longitude>
+    <Latitude>48.515058</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

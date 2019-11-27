@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2859.jpg</FileName>
+  <IndividualPlantId>2006</IndividualPlantId>
+  <Date>14/05/11</Date>
+  <Locality>France - Tralonca</Locality>
+  <GPSLocality>
+    <Longitude>9.207567</Longitude>
+    <Latitude>42.343284</Latitude>
+  </GPSLocality>
+  <Author>Pierre Lambert</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Anacamptis morio</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Anacamptis Rich.</Genus>
+    <Species>Anacamptis morio (L.) R.M. Bateman, Pridgeon &amp; M.W. Chase</Species>
+  </Taxon>
+  <VernacularNames>Green-winged orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

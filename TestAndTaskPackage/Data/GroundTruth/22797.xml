@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22797.jpg</FileName>
+  <IndividualPlantId>2072</IndividualPlantId>
+  <Date>12/03/12</Date>
+  <Locality>France - Villemomble</Locality>
+  <GPSLocality>
+    <Longitude>2.505069</Longitude>
+    <Latitude>48.886727</Latitude>
+  </GPSLocality>
+  <Author>Mfjncanioni</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ligustrum vulgare</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Ligustrum L.</Genus>
+    <Species>Ligustrum vulgare L.</Species>
+  </Taxon>
+  <VernacularNames>European privet</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

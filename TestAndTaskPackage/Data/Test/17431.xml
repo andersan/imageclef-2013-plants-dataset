@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>17431.jpg</FileName>
+  <IndividualPlantId>790</IndividualPlantId>
+  <Date>18/02/13</Date>
+  <Locality>France - Rignieux-le-Franc</Locality>
+  <GPSLocality>
+    <Longitude>5.188473</Longitude>
+    <Latitude>45.940263</Latitude>
+  </GPSLocality>
+  <Author>Remi Tournebize</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

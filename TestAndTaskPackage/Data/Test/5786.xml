@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5786.jpg</FileName>
+  <IndividualPlantId>3203</IndividualPlantId>
+  <Date>13/05/07</Date>
+  <Locality>France - Saint-Martin-De-L'arçon</Locality>
+  <GPSLocality>
+    <Longitude>2.983004</Longitude>
+    <Latitude>43.574820</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

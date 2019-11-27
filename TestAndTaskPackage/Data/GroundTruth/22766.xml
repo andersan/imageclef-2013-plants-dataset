@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22766.jpg</FileName>
+  <IndividualPlantId>3589</IndividualPlantId>
+  <Date>27/04/12</Date>
+  <Locality>France - Sainte-Geneviève-Des-Bois</Locality>
+  <GPSLocality>
+    <Longitude>2.326838</Longitude>
+    <Latitude>48.642943</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Castanea sativa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Castanea Mill.</Genus>
+    <Species>Castanea sativa Mill.</Species>
+  </Taxon>
+  <VernacularNames>Sweet chestnut</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

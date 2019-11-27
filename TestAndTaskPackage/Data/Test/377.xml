@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>377.jpg</FileName>
+  <IndividualPlantId>450</IndividualPlantId>
+  <Date>19/04/04</Date>
+  <Locality>France - Riboux</Locality>
+  <GPSLocality>
+    <Longitude>5.756299</Longitude>
+    <Latitude>43.302966</Latitude>
+  </GPSLocality>
+  <Author>Robert Leras</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

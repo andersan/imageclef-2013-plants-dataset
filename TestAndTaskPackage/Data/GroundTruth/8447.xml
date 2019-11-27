@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8447.jpg</FileName>
+  <IndividualPlantId>6170</IndividualPlantId>
+  <Date>18/08/12</Date>
+  <Locality>France - Les Houches</Locality>
+  <GPSLocality>
+    <Longitude>6.798735</Longitude>
+    <Latitude>45.890388</Latitude>
+  </GPSLocality>
+  <Author>Jean-Louis Cheype</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Sorbus aucuparia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus aucuparia L.</Species>
+  </Taxon>
+  <VernacularNames>European rowan</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

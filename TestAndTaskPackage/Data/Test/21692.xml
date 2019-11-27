@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21692.jpg</FileName>
+  <IndividualPlantId>3494</IndividualPlantId>
+  <Date>04/10/06</Date>
+  <Locality>France - Lathus-Saint-Rémy</Locality>
+  <GPSLocality>
+    <Longitude>0.959051</Longitude>
+    <Latitude>46.333355</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

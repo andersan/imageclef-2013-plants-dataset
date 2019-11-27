@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13243.jpg</FileName>
+  <IndividualPlantId>1270</IndividualPlantId>
+  <Date>22/03/05</Date>
+  <Locality>France - Le Pouliguen</Locality>
+  <GPSLocality>
+    <Longitude>-2.425372</Longitude>
+    <Latitude>47.269852</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>12924.jpg</FileName>
+  <IndividualPlantId>5970</IndividualPlantId>
+  <Date>04/07/10</Date>
+  <Locality>France - Athis-Mons</Locality>
+  <GPSLocality>
+    <Longitude>2.376120</Longitude>
+    <Latitude>48.700129</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Ligustrum vulgare</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Ligustrum L.</Genus>
+    <Species>Ligustrum vulgare L.</Species>
+  </Taxon>
+  <VernacularNames>European privet</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

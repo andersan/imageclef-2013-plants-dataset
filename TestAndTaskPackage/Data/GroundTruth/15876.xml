@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15876.jpg</FileName>
+  <IndividualPlantId>3401</IndividualPlantId>
+  <Date>13/06/10</Date>
+  <Locality>France - Moliets-Et-Maa</Locality>
+  <GPSLocality>
+    <Longitude>-1.358814</Longitude>
+    <Latitude>43.848670</Latitude>
+  </GPSLocality>
+  <Author>Jerome Segonds</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Matthiola sinuata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Brassicales Bromhead</Order>
+    <Family>Brassicaceae Burnett</Family>
+    <Genus>Matthiola W.T. Aiton</Genus>
+    <Species>Matthiola sinuata (L.) R.Br.</Species>
+  </Taxon>
+  <VernacularNames>Sea stock</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

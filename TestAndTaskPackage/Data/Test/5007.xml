@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5007.jpg</FileName>
+  <IndividualPlantId>2128</IndividualPlantId>
+  <Date>19/04/06</Date>
+  <Locality>France - Fontanès</Locality>
+  <GPSLocality>
+    <Longitude>4.096884</Longitude>
+    <Latitude>43.829514</Latitude>
+  </GPSLocality>
+  <Author>Franck Jullin</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

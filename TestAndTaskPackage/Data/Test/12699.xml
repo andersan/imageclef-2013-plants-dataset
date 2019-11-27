@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>12699.jpg</FileName>
+  <IndividualPlantId>3418</IndividualPlantId>
+  <Date>06/08/07</Date>
+  <Locality>France - Penmarch</Locality>
+  <GPSLocality>
+    <Longitude>-4.338469</Longitude>
+    <Latitude>47.811697</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19729.jpg</FileName>
+  <IndividualPlantId>1063</IndividualPlantId>
+  <Date>09/03/13</Date>
+  <Locality>France - Vienne</Locality>
+  <GPSLocality>
+    <Longitude>4.874339</Longitude>
+    <Latitude>45.525587</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

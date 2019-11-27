@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15749.jpg</FileName>
+  <IndividualPlantId>5974</IndividualPlantId>
+  <Date>14/04/07</Date>
+  <Locality>France - Giroussens</Locality>
+  <GPSLocality>
+    <Longitude>1.774298</Longitude>
+    <Latitude>43.763566</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Silene dioica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Caryophyllanae Takht.</Superorder>
+    <Order>Caryophyllales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Caryophyllaceae Juss.</Family>
+    <Genus>Silene L.</Genus>
+    <Species>Silene dioica (L.) Clairv.</Species>
+  </Taxon>
+  <VernacularNames>Red campion</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

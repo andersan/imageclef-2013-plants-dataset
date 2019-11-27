@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>217.jpg</FileName>
+  <IndividualPlantId>607</IndividualPlantId>
+  <Date>31/01/12</Date>
+  <Locality>France - Gémenos</Locality>
+  <GPSLocality>
+    <Longitude>5.628112</Longitude>
+    <Latitude>43.295388</Latitude>
+  </GPSLocality>
+  <Author>Georges Thomassier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

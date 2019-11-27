@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>12542.jpg</FileName>
+  <IndividualPlantId>2308</IndividualPlantId>
+  <Date>06/11/12</Date>
+  <Locality>France - Soufflenheim</Locality>
+  <GPSLocality>
+    <Longitude>7.963965</Longitude>
+    <Latitude>48.829742</Latitude>
+  </GPSLocality>
+  <Author>Claire Sutter</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

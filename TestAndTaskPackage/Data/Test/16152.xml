@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16152.jpg</FileName>
+  <IndividualPlantId>3777</IndividualPlantId>
+  <Date>24/07/10</Date>
+  <Locality>France - Seyne</Locality>
+  <GPSLocality>
+    <Longitude>6.354495</Longitude>
+    <Latitude>44.350285</Latitude>
+  </GPSLocality>
+  <Author>Hugues Tinguy</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25095.jpg</FileName>
+  <IndividualPlantId>5997</IndividualPlantId>
+  <Date>04/08/07</Date>
+  <Locality>France - Juillac</Locality>
+  <GPSLocality>
+    <Longitude>1.322400</Longitude>
+    <Latitude>45.317259</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Mespilus germanica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Mespilus L.</Genus>
+    <Species>Mespilus germanica L.</Species>
+  </Taxon>
+  <VernacularNames>Common medlar</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

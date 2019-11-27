@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7259.jpg</FileName>
+  <IndividualPlantId>5020</IndividualPlantId>
+  <Date>19/04/11</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Celtis australis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Cannabaceae Martinov</Family>
+    <Genus>Celtis L.</Genus>
+    <Species>Celtis australis L.</Species>
+  </Taxon>
+  <VernacularNames>European nettletree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

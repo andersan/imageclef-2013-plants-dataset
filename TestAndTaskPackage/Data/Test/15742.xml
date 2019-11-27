@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15742.jpg</FileName>
+  <IndividualPlantId>2710</IndividualPlantId>
+  <Date>08/05/11</Date>
+  <Locality>France - Vitrolles</Locality>
+  <GPSLocality>
+    <Longitude>5.249703</Longitude>
+    <Latitude>43.458598</Latitude>
+  </GPSLocality>
+  <Author>Bertrand Bui</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

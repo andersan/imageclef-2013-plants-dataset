@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7722.jpg</FileName>
+  <IndividualPlantId>4217</IndividualPlantId>
+  <Date>13/10/06</Date>
+  <Locality>France - Bonneuil-Matours</Locality>
+  <GPSLocality>
+    <Longitude>0.570476</Longitude>
+    <Latitude>46.679826</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

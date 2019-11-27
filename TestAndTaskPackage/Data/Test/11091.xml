@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11091.jpg</FileName>
+  <IndividualPlantId>905</IndividualPlantId>
+  <Date>26/08/12</Date>
+  <Locality>France - Roanne</Locality>
+  <GPSLocality>
+    <Longitude>4.056830</Longitude>
+    <Latitude>46.023470</Latitude>
+  </GPSLocality>
+  <Author>Vincent Jouhet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

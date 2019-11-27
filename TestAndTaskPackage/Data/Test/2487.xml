@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2487.jpg</FileName>
+  <IndividualPlantId>777</IndividualPlantId>
+  <Date>19/08/04</Date>
+  <Locality>France - Fontrabiouse</Locality>
+  <GPSLocality>
+    <Longitude>2.104170</Longitude>
+    <Latitude>42.615565</Latitude>
+  </GPSLocality>
+  <Author>Alain Bigou</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

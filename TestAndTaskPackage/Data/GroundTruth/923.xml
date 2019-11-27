@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>923.jpg</FileName>
+  <IndividualPlantId>1853</IndividualPlantId>
+  <Date>11/03/13</Date>
+  <Locality>France - Assas</Locality>
+  <GPSLocality>
+    <Longitude>3.899178</Longitude>
+    <Latitude>43.7019469</Latitude>
+  </GPSLocality>
+  <Author>Bertrand Moynier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Caltha palustris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Caltha Mill.</Genus>
+    <Species>Caltha palustris L.</Species>
+  </Taxon>
+  <VernacularNames>Kingcup</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

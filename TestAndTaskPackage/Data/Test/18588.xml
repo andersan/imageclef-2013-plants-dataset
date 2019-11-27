@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18588.jpg</FileName>
+  <IndividualPlantId>4223</IndividualPlantId>
+  <Date>22/08/06</Date>
+  <Locality>France - Saint-Gilles-Croix-De-Vie</Locality>
+  <GPSLocality>
+    <Longitude>-1.944529</Longitude>
+    <Latitude>46.697777</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

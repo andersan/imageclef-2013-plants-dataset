@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10027.jpg</FileName>
+  <IndividualPlantId>1306</IndividualPlantId>
+  <Date>15/07/10</Date>
+  <Locality>France - Draveil</Locality>
+  <GPSLocality>
+    <Longitude>2.408154</Longitude>
+    <Latitude>48.685388</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

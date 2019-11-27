@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5919.jpg</FileName>
+  <IndividualPlantId>5057</IndividualPlantId>
+  <Date>03/06/09</Date>
+  <Locality>France - Murat</Locality>
+  <GPSLocality>
+    <Longitude>2.869730</Longitude>
+    <Latitude>45.110654</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

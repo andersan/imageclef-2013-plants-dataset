@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3035.jpg</FileName>
+  <IndividualPlantId>194</IndividualPlantId>
+  <Date>01/04/11</Date>
+  <Locality>France - Pulversheim</Locality>
+  <GPSLocality>
+    <Longitude>7.301753</Longitude>
+    <Latitude>47.833855</Latitude>
+  </GPSLocality>
+  <Author>Hugues Tinguy</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Acer platanoides</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer platanoides L.</Species>
+  </Taxon>
+  <VernacularNames>Norway maple</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7184.jpg</FileName>
+  <IndividualPlantId>3900</IndividualPlantId>
+  <Date>22/06/07</Date>
+  <Locality>France - Névache</Locality>
+  <GPSLocality>
+    <Longitude>6.604901</Longitude>
+    <Latitude>45.019215</Latitude>
+  </GPSLocality>
+  <Author>Jean-Claude Ernewein</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Soldanella alpina</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Primulaceae Batsch ex Borkh.</Family>
+    <Genus>Soldanella L.</Genus>
+    <Species>Soldanella alpina L.</Species>
+  </Taxon>
+  <VernacularNames>Alpine snowbell</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

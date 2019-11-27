@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25724.jpg</FileName>
+  <IndividualPlantId>1168</IndividualPlantId>
+  <Date>03/06/11</Date>
+  <Locality>France - Les Assions</Locality>
+  <GPSLocality>
+    <Longitude>4.174045</Longitude>
+    <Latitude>44.421387</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Centaurea jacea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Centaurea L.</Genus>
+    <Species>Centaurea jacea L.</Species>
+  </Taxon>
+  <VernacularNames>Brown knapweed</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

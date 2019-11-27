@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>17327.jpg</FileName>
+  <IndividualPlantId>4224</IndividualPlantId>
+  <Date>17/05/12</Date>
+  <Locality>France - Saint-Maurice-Navacelles</Locality>
+  <GPSLocality>
+    <Longitude>3.511591</Longitude>
+    <Latitude>43.894120</Latitude>
+  </GPSLocality>
+  <Author>Jean-Jacques Houdre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

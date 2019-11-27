@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21130.jpg</FileName>
+  <IndividualPlantId>1998</IndividualPlantId>
+  <Date>12/10/11</Date>
+  <Locality>France - Saint Cyr Au Mont D'or</Locality>
+  <GPSLocality>
+    <Longitude>4.817729</Longitude>
+    <Latitude>45.815306</Latitude>
+  </GPSLocality>
+  <Author>Jb</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Cornus mas</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Cornales Link</Order>
+    <Family>Cornaceae Bercht. ex J. Presl</Family>
+    <Genus>Cornus L.</Genus>
+    <Species>Cornus mas L.</Species>
+  </Taxon>
+  <VernacularNames>European cornel</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

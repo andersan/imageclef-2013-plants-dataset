@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15071.jpg</FileName>
+  <IndividualPlantId>3026</IndividualPlantId>
+  <Date>21/04/12</Date>
+  <Locality>France - Cassis</Locality>
+  <GPSLocality>
+    <Longitude>5.53712</Longitude>
+    <Latitude>43.215134</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Pinus halepensis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Pinidae Cronquist, Takht. &amp; W. Zimm.</Subclass>
+    <Superorder>Pinidae Cronquist, Takht. &amp; W. Zimm.</Superorder>
+    <Order>Pinales Gorozh.</Order>
+    <Family>Pinaceae Spreng. ex Rudolphi</Family>
+    <Genus>Pinus L.</Genus>
+    <Species>Pinus halepensis Mill.</Species>
+  </Taxon>
+  <VernacularNames>Aleppo pine</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

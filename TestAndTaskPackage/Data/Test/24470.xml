@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24470.jpg</FileName>
+  <IndividualPlantId>2051</IndividualPlantId>
+  <Date>22/10/12</Date>
+  <Locality>France - Lyon</Locality>
+  <GPSLocality>
+    <Longitude>4.835659</Longitude>
+    <Latitude>45.764043</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

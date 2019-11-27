@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11585.jpg</FileName>
+  <IndividualPlantId>5470</IndividualPlantId>
+  <Date>24/02/08</Date>
+  <Locality>France - Avignon</Locality>
+  <GPSLocality>
+    <Longitude>4.805528</Longitude>
+    <Latitude>43.949317</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

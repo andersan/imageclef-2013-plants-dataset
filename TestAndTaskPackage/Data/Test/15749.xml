@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15749.jpg</FileName>
+  <IndividualPlantId>5974</IndividualPlantId>
+  <Date>14/04/07</Date>
+  <Locality>France - Giroussens</Locality>
+  <GPSLocality>
+    <Longitude>1.774298</Longitude>
+    <Latitude>43.763566</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

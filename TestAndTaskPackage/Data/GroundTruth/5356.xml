@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5356.jpg</FileName>
+  <IndividualPlantId>3232</IndividualPlantId>
+  <Date>30/11/99</Date>
+  <Locality>France - Saint-Jean-De-Védas</Locality>
+  <GPSLocality>
+    <Longitude>3.826215</Longitude>
+    <Latitude>43.575267</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Himantoglossum robertianum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Himantoglossum Spreng.</Genus>
+    <Species>Himantoglossum robertianum P. Delforge</Species>
+  </Taxon>
+  <VernacularNames>Giant orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

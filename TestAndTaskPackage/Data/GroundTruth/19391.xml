@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19391.jpg</FileName>
+  <IndividualPlantId>3577</IndividualPlantId>
+  <Date>09/05/12</Date>
+  <Locality>France - Vendres</Locality>
+  <GPSLocality>
+    <Longitude>3.225202</Longitude>
+    <Latitude>43.269435</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Echinophora spinosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Apiaceae Lindl.</Family>
+    <Genus>Echinophora L.</Genus>
+    <Species>Echinophora spinosa L.</Species>
+  </Taxon>
+  <VernacularNames>Spiny echinophore</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

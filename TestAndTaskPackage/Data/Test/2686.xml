@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2686.jpg</FileName>
+  <IndividualPlantId>5866</IndividualPlantId>
+  <Date>02/04/12</Date>
+  <Locality>France - La Roche-De-Rame</Locality>
+  <GPSLocality>
+    <Longitude>6.580236</Longitude>
+    <Latitude>44.750004</Latitude>
+  </GPSLocality>
+  <Author>Sylvie Carbonnet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

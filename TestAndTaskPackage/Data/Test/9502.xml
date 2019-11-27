@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9502.jpg</FileName>
+  <IndividualPlantId>5212</IndividualPlantId>
+  <Date>01/05/10</Date>
+  <Locality>France - Auvers-Saint-Georges</Locality>
+  <GPSLocality>
+    <Longitude>2.217642</Longitude>
+    <Latitude>48.492926</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

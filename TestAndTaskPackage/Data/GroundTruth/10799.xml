@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10799.jpg</FileName>
+  <IndividualPlantId>5558</IndividualPlantId>
+  <Date>14/08/11</Date>
+  <Locality>France - Montriond</Locality>
+  <GPSLocality>
+    <Longitude>6.694718</Longitude>
+    <Latitude>46.196976</Latitude>
+  </GPSLocality>
+  <Author>Laurent Petit</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Geranium sylvaticum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Geraniales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Geraniaceae Juss.</Family>
+    <Genus>Geranium L.</Genus>
+    <Species>Geranium sylvaticum L.</Species>
+  </Taxon>
+  <VernacularNames>Woodland geranium</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

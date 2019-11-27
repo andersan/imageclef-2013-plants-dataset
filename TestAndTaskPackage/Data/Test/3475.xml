@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3475.jpg</FileName>
+  <IndividualPlantId>2159</IndividualPlantId>
+  <Date>25/01/13</Date>
+  <Locality>France - Montferrier-Sur-Lez</Locality>
+  <GPSLocality>
+    <Longitude>3.859265</Longitude>
+    <Latitude>43.671824</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

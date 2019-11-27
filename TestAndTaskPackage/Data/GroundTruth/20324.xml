@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20324.jpg</FileName>
+  <IndividualPlantId>4899</IndividualPlantId>
+  <Date>15/07/10</Date>
+  <Locality>France - Draveil</Locality>
+  <GPSLocality>
+    <Longitude>2.408154</Longitude>
+    <Latitude>48.685388</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Lythrum salicaria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Myrtales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Lythraceae J. St.-Hil.</Family>
+    <Genus>Lythrum L.</Genus>
+    <Species>Lythrum salicaria L.</Species>
+  </Taxon>
+  <VernacularNames>Purple loosestrife</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

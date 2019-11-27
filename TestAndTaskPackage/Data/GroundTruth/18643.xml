@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18643.jpg</FileName>
+  <IndividualPlantId>4954</IndividualPlantId>
+  <Date>09/04/11</Date>
+  <Locality>France - Athis-Mons</Locality>
+  <GPSLocality>
+    <Longitude>2.376120</Longitude>
+    <Latitude>48.700129</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Salix alba</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Salix L.</Genus>
+    <Species>Salix alba L.</Species>
+  </Taxon>
+  <VernacularNames>White willow</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

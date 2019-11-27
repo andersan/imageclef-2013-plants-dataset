@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11271.jpg</FileName>
+  <IndividualPlantId>942</IndividualPlantId>
+  <Date>02/05/09</Date>
+  <Locality>Spain</Locality>
+  <GPSLocality>
+    <Longitude>-3.713379</Longitude>
+    <Latitude>40.847060</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

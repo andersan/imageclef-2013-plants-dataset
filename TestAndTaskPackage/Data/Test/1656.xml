@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1656.jpg</FileName>
+  <IndividualPlantId>5745</IndividualPlantId>
+  <Date>08/09/11</Date>
+  <Locality>France - Poulx</Locality>
+  <GPSLocality>
+    <Longitude>4.424057</Longitude>
+    <Latitude>43.910812</Latitude>
+  </GPSLocality>
+  <Author>Jame Lagarrigue</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

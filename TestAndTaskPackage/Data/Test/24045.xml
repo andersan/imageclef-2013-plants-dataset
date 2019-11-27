@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24045.jpg</FileName>
+  <IndividualPlantId>6102</IndividualPlantId>
+  <Date>23/06/12</Date>
+  <Locality>France - Roscoff</Locality>
+  <GPSLocality>
+    <Longitude>-3.761208</Longitude>
+    <Latitude>48.038147</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

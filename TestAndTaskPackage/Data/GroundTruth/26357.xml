@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>26357.jpg</FileName>
+  <IndividualPlantId>4399</IndividualPlantId>
+  <Date>04/03/12</Date>
+  <Locality>France - Étrelles-Sur-Aube</Locality>
+  <GPSLocality>
+    <Longitude>0.203760</Longitude>
+    <Latitude>49.704763</Latitude>
+  </GPSLocality>
+  <Author>Sonja Laubscher</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Ranunculus ficaria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Ranunculus L.</Genus>
+    <Species>Ranunculus ficaria L.</Species>
+  </Taxon>
+  <VernacularNames>Lesser celandine</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

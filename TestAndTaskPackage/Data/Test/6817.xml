@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6817.jpg</FileName>
+  <IndividualPlantId>8</IndividualPlantId>
+  <Date>16/06/12</Date>
+  <Locality>France - Saint-Chely-D'aubrac</Locality>
+  <GPSLocality>
+    <Longitude>2.921446</Longitude>
+    <Latitude>44.590311</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

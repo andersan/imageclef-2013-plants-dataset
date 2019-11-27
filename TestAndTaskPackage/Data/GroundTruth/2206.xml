@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2206.jpg</FileName>
+  <IndividualPlantId>3448</IndividualPlantId>
+  <Date>20/02/07</Date>
+  <Locality>France - Sète</Locality>
+  <GPSLocality>
+    <Longitude>3.696629</Longitude>
+    <Latitude>43.402200</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Narcissus dubius</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Amaryllidaceae J. St.-Hil.</Family>
+    <Genus>Narcissus L.</Genus>
+    <Species>Narcissus dubius Gouan</Species>
+  </Taxon>
+  <VernacularNames>Dubious jonquil</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

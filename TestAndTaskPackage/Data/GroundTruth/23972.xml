@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23972.jpg</FileName>
+  <IndividualPlantId>5249</IndividualPlantId>
+  <Date>20/06/12</Date>
+  <Locality>France - Domremy-La-Pucelle</Locality>
+  <GPSLocality>
+    <Longitude>5.675020</Longitude>
+    <Latitude>48.443114</Latitude>
+  </GPSLocality>
+  <Author>Estattico</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Monotropa hypopitys</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Ericaceae Juss.</Family>
+    <Genus>Monotropa L.</Genus>
+    <Species>Monotropa hypopitys L.</Species>
+  </Taxon>
+  <VernacularNames>Dutchman's pipe</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

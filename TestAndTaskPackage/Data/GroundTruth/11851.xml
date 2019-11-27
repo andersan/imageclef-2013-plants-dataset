@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11851.jpg</FileName>
+  <IndividualPlantId>4477</IndividualPlantId>
+  <Date>01/08/11</Date>
+  <Locality>France - Mont-Saxonnex</Locality>
+  <GPSLocality>
+    <Longitude>6.484514</Longitude>
+    <Latitude>46.054448</Latitude>
+  </GPSLocality>
+  <Author>John De Vos</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Epilobium angustifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Myrtales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Onagraceae Juss.</Family>
+    <Genus>Epilobium L.</Genus>
+    <Species>Epilobium angustifolium L.</Species>
+  </Taxon>
+  <VernacularNames>Fireweed</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

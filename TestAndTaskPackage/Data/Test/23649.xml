@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23649.jpg</FileName>
+  <IndividualPlantId>1854</IndividualPlantId>
+  <Date>30/04/11</Date>
+  <Locality>France - Les Assions</Locality>
+  <GPSLocality>
+    <Longitude>4.174045</Longitude>
+    <Latitude>44.421387</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7998.jpg</FileName>
+  <IndividualPlantId>2642</IndividualPlantId>
+  <Date>26/04/11</Date>
+  <Locality>France - Quissac</Locality>
+  <GPSLocality>
+    <Longitude>3.998719</Longitude>
+    <Latitude>43.910960</Latitude>
+  </GPSLocality>
+  <Author>Jpm</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

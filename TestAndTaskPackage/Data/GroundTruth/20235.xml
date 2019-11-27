@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20235.jpg</FileName>
+  <IndividualPlantId>5354</IndividualPlantId>
+  <Date>01/03/08</Date>
+  <Locality>France - Soueich</Locality>
+  <GPSLocality>
+    <Longitude>0.778652</Longitude>
+    <Latitude>43.047764</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Prunus spinosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus spinosa L.</Species>
+  </Taxon>
+  <VernacularNames>Blackthorn</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

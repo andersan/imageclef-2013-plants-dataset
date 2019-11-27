@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15075.jpg</FileName>
+  <IndividualPlantId>655</IndividualPlantId>
+  <Date>16/07/10</Date>
+  <Locality>France - Le Pla</Locality>
+  <GPSLocality>
+    <Longitude>2.080910</Longitude>
+    <Latitude>42.715647</Latitude>
+  </GPSLocality>
+  <Author>Catherine Mahyeux</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Aster alpinus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Aster L.</Genus>
+    <Species>Aster alpinus L.</Species>
+  </Taxon>
+  <VernacularNames>Alpine aster</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

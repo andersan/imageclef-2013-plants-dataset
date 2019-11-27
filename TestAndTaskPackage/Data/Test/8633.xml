@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8633.jpg</FileName>
+  <IndividualPlantId>2831</IndividualPlantId>
+  <Date>04/05/11</Date>
+  <Locality>France - Saint-Cyr-Sur-Mer</Locality>
+  <GPSLocality>
+    <Longitude>5.709571</Longitude>
+    <Latitude>43.182641</Latitude>
+  </GPSLocality>
+  <Author>Michel Demares</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

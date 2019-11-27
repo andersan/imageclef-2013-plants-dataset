@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2806.jpg</FileName>
+  <IndividualPlantId>4791</IndividualPlantId>
+  <Date>04/01/13</Date>
+  <Locality>France - Narbonne</Locality>
+  <GPSLocality>
+    <Longitude>3.003078</Longitude>
+    <Latitude>43.184277</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Hedera helix</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Araliaceae Juss.</Family>
+    <Genus>Hedera L.</Genus>
+    <Species>Hedera helix L.</Species>
+  </Taxon>
+  <VernacularNames>English ivy</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

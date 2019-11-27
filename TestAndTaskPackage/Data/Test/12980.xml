@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>12980.jpg</FileName>
+  <IndividualPlantId>5146</IndividualPlantId>
+  <Date>23/07/08</Date>
+  <Locality>France - Fouesnant</Locality>
+  <GPSLocality>
+    <Longitude>-4.011527</Longitude>
+    <Latitude>47.893746</Latitude>
+  </GPSLocality>
+  <Author>Valerie Bruneau-Querey</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

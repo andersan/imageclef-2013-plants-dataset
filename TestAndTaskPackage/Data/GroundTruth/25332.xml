@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25332.jpg</FileName>
+  <IndividualPlantId>3793</IndividualPlantId>
+  <Date>26/03/07</Date>
+  <Locality>France - Fabrègues</Locality>
+  <GPSLocality>
+    <Longitude>3.778935</Longitude>
+    <Latitude>43.549831</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Cistus albidus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Cistaceae Juss.</Family>
+    <Genus>Cistus L.</Genus>
+    <Species>Cistus albidus L.</Species>
+  </Taxon>
+  <VernacularNames>White cistus</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>26075.jpg</FileName>
+  <IndividualPlantId>4232</IndividualPlantId>
+  <Date>25/09/11</Date>
+  <Locality>France - Vaour</Locality>
+  <GPSLocality>
+    <Longitude>1.801892</Longitude>
+    <Latitude>44.072850</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Ulmus minor</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Ulmaceae Mirb.</Family>
+    <Genus>Ulmus L.</Genus>
+    <Species>Ulmus minor Mill.</Species>
+  </Taxon>
+  <VernacularNames>Field elm</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

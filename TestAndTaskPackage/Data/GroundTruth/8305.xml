@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8305.jpg</FileName>
+  <IndividualPlantId>2917</IndividualPlantId>
+  <Date>11/03/13</Date>
+  <Locality>France - Mont-Saint-Aignan</Locality>
+  <GPSLocality>
+    <Longitude>1.079798</Longitude>
+    <Latitude>49.459778</Latitude>
+  </GPSLocality>
+  <Author>Cecile G</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Platanus x hispanica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Proteanae Takht.</Superorder>
+    <Order>Proteales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Platanaceae T. Lestib.</Family>
+    <Genus>Platanus L.</Genus>
+    <Species>Platanus x hispanica Mill. ex MŸnchh.</Species>
+  </Taxon>
+  <VernacularNames>Hybrid plane</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

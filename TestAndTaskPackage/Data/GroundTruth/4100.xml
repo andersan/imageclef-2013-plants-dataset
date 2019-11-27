@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4100.jpg</FileName>
+  <IndividualPlantId>1629</IndividualPlantId>
+  <Date>20/06/08</Date>
+  <Locality>France - Castelnau-D'estrétefonds</Locality>
+  <GPSLocality>
+    <Longitude>1.357670</Longitude>
+    <Latitude>43.783897</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Agrimonia eupatoria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Agrimonia L.</Genus>
+    <Species>Agrimonia eupatoria L.</Species>
+  </Taxon>
+  <VernacularNames>Common agrimony</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

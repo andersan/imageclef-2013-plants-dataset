@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1950.jpg</FileName>
+  <IndividualPlantId>2746</IndividualPlantId>
+  <Date>06/09/10</Date>
+  <Locality>France - Nages</Locality>
+  <GPSLocality>
+    <Longitude>2.779604</Longitude>
+    <Latitude>43.675299</Latitude>
+  </GPSLocality>
+  <Author>Jean Rene Garcia</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11088.jpg</FileName>
+  <IndividualPlantId>6131</IndividualPlantId>
+  <Date>05/07/11</Date>
+  <Locality>France - Saint-Christophe-Du-Bois</Locality>
+  <GPSLocality>
+    <Longitude>-0.944358</Longitude>
+    <Latitude>47.028094</Latitude>
+  </GPSLocality>
+  <Author>David Mercier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Verbascum pulverulentum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Scrophulariaceae Juss.</Family>
+    <Genus>Verbascum L.</Genus>
+    <Species>Verbascum pulverulentum Vill.</Species>
+  </Taxon>
+  <VernacularNames>Hoary mullein</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

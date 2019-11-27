@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19755.jpg</FileName>
+  <IndividualPlantId>3249</IndividualPlantId>
+  <Date>03/05/08</Date>
+  <Locality>Greece - Crète</Locality>
+  <GPSLocality>
+    <Longitude>24.809269</Longitude>
+    <Latitude>35.240117</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Euphorbia paralias</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Euphorbiaceae Juss.</Family>
+    <Genus>Euphorbia L.</Genus>
+    <Species>Euphorbia paralias L.</Species>
+  </Taxon>
+  <VernacularNames>Sea spurge</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

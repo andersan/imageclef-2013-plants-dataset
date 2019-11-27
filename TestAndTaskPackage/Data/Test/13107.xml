@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13107.jpg</FileName>
+  <IndividualPlantId>3275</IndividualPlantId>
+  <Date>25/04/11</Date>
+  <Locality>France - Perols</Locality>
+  <GPSLocality>
+    <Longitude>3.954211</Longitude>
+    <Latitude>43.563782</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

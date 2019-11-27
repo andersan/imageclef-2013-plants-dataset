@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5140.jpg</FileName>
+  <IndividualPlantId>4271</IndividualPlantId>
+  <Date>30/03/12</Date>
+  <Locality>France - Boulogne-Billancourt</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Aesculus hippocastanum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Aesculus L.</Genus>
+    <Species>Aesculus hippocastanum L.</Species>
+  </Taxon>
+  <VernacularNames>Horse chestnut</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5477.jpg</FileName>
+  <IndividualPlantId>4337</IndividualPlantId>
+  <Date>09/07/11</Date>
+  <Locality>France - Denée</Locality>
+  <GPSLocality>
+    <Longitude>-0.611478</Longitude>
+    <Latitude>47.377177</Latitude>
+  </GPSLocality>
+  <Author>David Mercier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Populus nigra</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Populus L.</Genus>
+    <Species>Populus nigra L.</Species>
+  </Taxon>
+  <VernacularNames>Black poplar</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

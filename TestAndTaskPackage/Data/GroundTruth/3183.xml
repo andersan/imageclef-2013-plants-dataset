@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3183.jpg</FileName>
+  <IndividualPlantId>5404</IndividualPlantId>
+  <Date>20/06/12</Date>
+  <Locality>France - Monfeu</Locality>
+  <GPSLocality>
+    <Longitude>-0.336405</Longitude>
+    <Latitude>48.119291</Latitude>
+  </GPSLocality>
+  <Author>Jean Claude Estatico</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Berberis vulgaris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Berberidaceae Juss.</Family>
+    <Genus>Berberis L.</Genus>
+    <Species>Berberis vulgaris L.</Species>
+  </Taxon>
+  <VernacularNames>European barberry</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

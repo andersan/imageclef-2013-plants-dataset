@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8291.jpg</FileName>
+  <IndividualPlantId>5946</IndividualPlantId>
+  <Date>20/08/11</Date>
+  <Locality>France - Saint-Antonin-Noble-Val</Locality>
+  <GPSLocality>
+    <Longitude>1.756144</Longitude>
+    <Latitude>44.151119</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

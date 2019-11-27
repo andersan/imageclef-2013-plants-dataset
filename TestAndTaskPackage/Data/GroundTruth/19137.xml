@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19137.jpg</FileName>
+  <IndividualPlantId>3</IndividualPlantId>
+  <Date>07/02/13</Date>
+  <Locality>France - Gruissan</Locality>
+  <GPSLocality>
+    <Longitude>3.086181</Longitude>
+    <Latitude>43.107052</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Prunus dulcis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus dulcis (Mill.) D.A. Webb</Species>
+  </Taxon>
+  <VernacularNames>Almond</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

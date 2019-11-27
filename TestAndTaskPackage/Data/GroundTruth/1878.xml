@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1878.jpg</FileName>
+  <IndividualPlantId>4636</IndividualPlantId>
+  <Date>09/06/07</Date>
+  <Locality>France - Piana</Locality>
+  <GPSLocality>
+    <Longitude>8.635815</Longitude>
+    <Latitude>42.228742</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Olea europaea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Olea L.</Genus>
+    <Species>Olea europaea L.</Species>
+  </Taxon>
+  <VernacularNames>Olive tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

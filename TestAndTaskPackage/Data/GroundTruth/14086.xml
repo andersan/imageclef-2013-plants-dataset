@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14086.jpg</FileName>
+  <IndividualPlantId>3236</IndividualPlantId>
+  <Date>10/09/09</Date>
+  <Locality>France – Callian</Locality>
+  <GPSLocality>
+    <Longitude>6.752815</Longitude>
+    <Latitude>43.629863</Latitude>
+  </GPSLocality>
+  <Author>Dominique Giraud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Paliurus spina-christi</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rhamnaceae Juss.</Family>
+    <Genus>Paliurus Mill.</Genus>
+    <Species>Paliurus spina-christi Mill.</Species>
+  </Taxon>
+  <VernacularNames>Jerusalem thorn</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

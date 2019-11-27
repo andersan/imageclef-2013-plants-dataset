@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14762.jpg</FileName>
+  <IndividualPlantId>5344</IndividualPlantId>
+  <Date>30/07/09</Date>
+  <Locality>France - Saint-Ferriol</Locality>
+  <GPSLocality>
+    <Longitude>2.224960</Longitude>
+    <Latitude>42.892849</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Cornus sanguinea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Cornales Link</Order>
+    <Family>Cornaceae Bercht. ex J. Presl</Family>
+    <Genus>Cornus L.</Genus>
+    <Species>Cornus sanguinea L.</Species>
+  </Taxon>
+  <VernacularNames>Common dogwood</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

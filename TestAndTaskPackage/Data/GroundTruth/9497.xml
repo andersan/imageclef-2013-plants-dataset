@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9497.jpg</FileName>
+  <IndividualPlantId>6074</IndividualPlantId>
+  <Date>24/10/09</Date>
+  <Locality>France - Nissan-Lez-Enserune</Locality>
+  <GPSLocality>
+    <Longitude>3.115217</Longitude>
+    <Latitude>43.310288</Latitude>
+  </GPSLocality>
+  <Author>Jpm</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Pittosporum tobira</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Pittosporaceae R. Br.</Family>
+    <Genus>Pittosporum Banks ex Gaertn.</Genus>
+    <Species>Pittosporum tobira (Thunb.) W.T. Aiton</Species>
+  </Taxon>
+  <VernacularNames>Japanese mock-orange</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

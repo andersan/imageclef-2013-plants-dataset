@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19135.jpg</FileName>
+  <IndividualPlantId>5121</IndividualPlantId>
+  <Date>20/06/07</Date>
+  <Locality>France - Olonzac</Locality>
+  <GPSLocality>
+    <Longitude>2.897647</Longitude>
+    <Latitude>44.005762</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Scolymus hispanicus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Scolymus L.</Genus>
+    <Species>Scolymus hispanicus L.</Species>
+  </Taxon>
+  <VernacularNames>Common golden thistle</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

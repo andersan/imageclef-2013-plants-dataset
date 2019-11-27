@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11072.jpg</FileName>
+  <IndividualPlantId>4026</IndividualPlantId>
+  <Date>13/09/07</Date>
+  <Locality>France - Saint-Jean-Du-Gard</Locality>
+  <GPSLocality>
+    <Longitude>3.885144</Longitude>
+    <Latitude>44.105250</Latitude>
+  </GPSLocality>
+  <Author>Pablo Gazon</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Quercus rubra</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus rubra L.</Species>
+  </Taxon>
+  <VernacularNames>Northern red oak</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

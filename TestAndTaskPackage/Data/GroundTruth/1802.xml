@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1802.jpg</FileName>
+  <IndividualPlantId>2747</IndividualPlantId>
+  <Date>15/03/03</Date>
+  <Locality>France - Ozoir-la-Ferrière</Locality>
+  <GPSLocality>
+    <Longitude>2.671739</Longitude>
+    <Latitude>48.763827</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Salix caprea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Salix L.</Genus>
+    <Species>Salix caprea L.</Species>
+  </Taxon>
+  <VernacularNames>Goat willow</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

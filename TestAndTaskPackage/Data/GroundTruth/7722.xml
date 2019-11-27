@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7722.jpg</FileName>
+  <IndividualPlantId>4217</IndividualPlantId>
+  <Date>13/10/06</Date>
+  <Locality>France - Bonneuil-Matours</Locality>
+  <GPSLocality>
+    <Longitude>0.570476</Longitude>
+    <Latitude>46.679826</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Senecio inaequidens</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Senecio L.</Genus>
+    <Species>Senecio inaequidens DC.</Species>
+  </Taxon>
+  <VernacularNames>Narrow-leaved ragwort</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

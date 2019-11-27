@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3725.jpg</FileName>
+  <IndividualPlantId>1383</IndividualPlantId>
+  <Date>09/05/11</Date>
+  <Locality>France - Sollacaro</Locality>
+  <GPSLocality>
+    <Longitude>8.912094</Longitude>
+    <Latitude>41.744222</Latitude>
+  </GPSLocality>
+  <Author>Pierre Lambert</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

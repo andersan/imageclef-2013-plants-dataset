@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18844.jpg</FileName>
+  <IndividualPlantId>5646</IndividualPlantId>
+  <Date>04/08/05</Date>
+  <Locality>France - Nanthiat</Locality>
+  <GPSLocality>
+    <Longitude>0.986220</Longitude>
+    <Latitude>45.409048</Latitude>
+  </GPSLocality>
+  <Author>Laurent Petit</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7837.jpg</FileName>
+  <IndividualPlantId>5758</IndividualPlantId>
+  <Date>16/04/11</Date>
+  <Locality>France - Champcueil</Locality>
+  <GPSLocality>
+    <Longitude>2.445028</Longitude>
+    <Latitude>48.515058</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ilex aquifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Aquifoliales Senft</Order>
+    <Family>Aquifoliaceae Bercht. &amp; J. Presl</Family>
+    <Genus>Ilex L.</Genus>
+    <Species>Ilex aquifolium L.</Species>
+  </Taxon>
+  <VernacularNames>European holly</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

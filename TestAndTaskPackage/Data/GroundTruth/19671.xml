@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19671.jpg</FileName>
+  <IndividualPlantId>4637</IndividualPlantId>
+  <Date>04/12/11</Date>
+  <Locality>France - Marseille</Locality>
+  <GPSLocality>
+    <Longitude>5.369780</Longitude>
+    <Latitude>43.296482</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Myrtus communis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Myrtales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Myrtaceae Juss.</Family>
+    <Genus>Myrtus L.</Genus>
+    <Species>Myrtus communis L.</Species>
+  </Taxon>
+  <VernacularNames>Common myrtle</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

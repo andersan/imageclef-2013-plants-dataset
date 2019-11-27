@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21896.jpg</FileName>
+  <IndividualPlantId>3360</IndividualPlantId>
+  <Date>25/04/11</Date>
+  <Locality>France - Perols</Locality>
+  <GPSLocality>
+    <Longitude>3.954211</Longitude>
+    <Latitude>43.563782</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Platanus x hispanica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Proteanae Takht.</Superorder>
+    <Order>Proteales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Platanaceae T. Lestib.</Family>
+    <Genus>Platanus L.</Genus>
+    <Species>Platanus x hispanica Mill. ex MŸnchh.</Species>
+  </Taxon>
+  <VernacularNames>Hybrid plane</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

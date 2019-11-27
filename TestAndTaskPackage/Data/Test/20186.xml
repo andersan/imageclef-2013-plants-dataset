@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20186.jpg</FileName>
+  <IndividualPlantId>2140</IndividualPlantId>
+  <Date>03/07/12</Date>
+  <Locality>France - Changé</Locality>
+  <GPSLocality>
+    <Longitude>0.278643</Longitude>
+    <Latitude>47.986925</Latitude>
+  </GPSLocality>
+  <Author>Emmanuel Stratmains</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

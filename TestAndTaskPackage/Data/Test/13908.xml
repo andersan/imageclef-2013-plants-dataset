@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13908.jpg</FileName>
+  <IndividualPlantId>960</IndividualPlantId>
+  <Date>15/04/09</Date>
+  <Locality>France - Larra</Locality>
+  <GPSLocality>
+    <Longitude>1.232922</Longitude>
+    <Latitude>43.738676</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21502.jpg</FileName>
+  <IndividualPlantId>5635</IndividualPlantId>
+  <Date>16/10/11</Date>
+  <Locality>France - Plan-D'aups-Sainte-Baume</Locality>
+  <GPSLocality>
+    <Longitude>5.709460</Longitude>
+    <Latitude>43.326780</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Sorbus torminalis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus torminalis (L.) Crantz</Species>
+  </Taxon>
+  <VernacularNames>Wild service tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

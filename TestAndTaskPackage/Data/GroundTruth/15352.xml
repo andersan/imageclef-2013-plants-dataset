@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15352.jpg</FileName>
+  <IndividualPlantId>5896</IndividualPlantId>
+  <Date>11/06/11</Date>
+  <Locality>France - Malatras</Locality>
+  <GPSLocality>
+    <Longitude>5.475233</Longitude>
+    <Latitude>45.272851</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Alnus glutinosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Alnus Mill.</Genus>
+    <Species>Alnus glutinosa (L.) Gaertn.</Species>
+  </Taxon>
+  <VernacularNames>Black alder</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

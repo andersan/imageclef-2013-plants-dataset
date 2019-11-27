@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>513.jpg</FileName>
+  <IndividualPlantId>4128</IndividualPlantId>
+  <Date>19/04/05</Date>
+  <Locality>France - Saint-Rémy-De-Provence</Locality>
+  <GPSLocality>
+    <Longitude>4.832363</Longitude>
+    <Latitude>43.774236</Latitude>
+  </GPSLocality>
+  <Author>Christophe Bernier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

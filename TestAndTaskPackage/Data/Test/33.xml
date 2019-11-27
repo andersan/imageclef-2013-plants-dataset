@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>33.jpg</FileName>
+  <IndividualPlantId>2600</IndividualPlantId>
+  <Date>01/11/11</Date>
+  <Locality>France - Pontault-Combault</Locality>
+  <GPSLocality>
+    <Longitude>2.607598</Longitude>
+    <Latitude>48.801255</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

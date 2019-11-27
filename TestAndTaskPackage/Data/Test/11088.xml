@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11088.jpg</FileName>
+  <IndividualPlantId>6131</IndividualPlantId>
+  <Date>05/07/11</Date>
+  <Locality>France - Saint-Christophe-Du-Bois</Locality>
+  <GPSLocality>
+    <Longitude>-0.944358</Longitude>
+    <Latitude>47.028094</Latitude>
+  </GPSLocality>
+  <Author>David Mercier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

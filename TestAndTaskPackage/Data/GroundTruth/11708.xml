@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11708.jpg</FileName>
+  <IndividualPlantId>5463</IndividualPlantId>
+  <Date>11/03/13</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Adam Best</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Hedera helix</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Araliaceae Juss.</Family>
+    <Genus>Hedera L.</Genus>
+    <Species>Hedera helix L.</Species>
+  </Taxon>
+  <VernacularNames>English ivy</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

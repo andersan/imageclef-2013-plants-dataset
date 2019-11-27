@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22154.jpg</FileName>
+  <IndividualPlantId>3033</IndividualPlantId>
+  <Date>30/10/11</Date>
+  <Locality>France - Prémillieu</Locality>
+  <GPSLocality>
+    <Longitude>5.572128</Longitude>
+    <Latitude>45.876744</Latitude>
+  </GPSLocality>
+  <Author>Remi Tournebize</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Fagus sylvatica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Fagus L.</Genus>
+    <Species>Fagus sylvatica L.</Species>
+  </Taxon>
+  <VernacularNames>European beech</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

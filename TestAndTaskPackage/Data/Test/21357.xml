@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21357.jpg</FileName>
+  <IndividualPlantId>1345</IndividualPlantId>
+  <Date>02/05/07</Date>
+  <Locality>France - Olonzac</Locality>
+  <GPSLocality>
+    <Longitude>2.897647</Longitude>
+    <Latitude>44.005762</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

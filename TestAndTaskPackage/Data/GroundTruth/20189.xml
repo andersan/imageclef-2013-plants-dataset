@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20189.jpg</FileName>
+  <IndividualPlantId>5481</IndividualPlantId>
+  <Date>10/06/11</Date>
+  <Locality>France - Sainte-Enimie</Locality>
+  <GPSLocality>
+    <Longitude>3.461195</Longitude>
+    <Latitude>44.284375</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Monotropa hypopitys</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Ericaceae Juss.</Family>
+    <Genus>Monotropa L.</Genus>
+    <Species>Monotropa hypopitys L.</Species>
+  </Taxon>
+  <VernacularNames>Dutchman's pipe</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

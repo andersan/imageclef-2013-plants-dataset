@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5822.jpg</FileName>
+  <IndividualPlantId>1725</IndividualPlantId>
+  <Date>02/03/08</Date>
+  <Locality>France - Saint-Jean-Du-Gard</Locality>
+  <GPSLocality>
+    <Longitude>3.885144</Longitude>
+    <Latitude>44.105250</Latitude>
+  </GPSLocality>
+  <Author>Pablo Gazon</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

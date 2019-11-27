@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6697.jpg</FileName>
+  <IndividualPlantId>2895</IndividualPlantId>
+  <Date>11/10/12</Date>
+  <Locality>France - Us</Locality>
+  <GPSLocality>
+    <Longitude>-0.085957</Longitude>
+    <Latitude>42.966671</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Solanum dulcamara</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Solanaceae Juss.</Family>
+    <Genus>Solanum L.</Genus>
+    <Species>Solanum dulcamara L.</Species>
+  </Taxon>
+  <VernacularNames>Bittersweet</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

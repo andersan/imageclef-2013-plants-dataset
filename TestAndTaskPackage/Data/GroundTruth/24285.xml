@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24285.jpg</FileName>
+  <IndividualPlantId>149</IndividualPlantId>
+  <Date>22/09/12</Date>
+  <Locality>France - Les Eyzies-De-Tayac-Sireuil</Locality>
+  <GPSLocality>
+    <Longitude>1.018000</Longitude>
+    <Latitude>44.936000</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Sorbus domestica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus domestica L.</Species>
+  </Taxon>
+  <VernacularNames>Service tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

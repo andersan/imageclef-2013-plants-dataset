@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16469.jpg</FileName>
+  <IndividualPlantId>555</IndividualPlantId>
+  <Date>24/09/12</Date>
+  <Locality>France - Saint-Léon-Sur-Vézère</Locality>
+  <GPSLocality>
+    <Longitude>1.088113</Longitude>
+    <Latitude>45.011300</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

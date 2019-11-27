@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2053.jpg</FileName>
+  <IndividualPlantId>6032</IndividualPlantId>
+  <Date>08/04/12</Date>
+  <Locality>France - Ozoir-La-Ferrière</Locality>
+  <GPSLocality>
+    <Longitude>2.671739</Longitude>
+    <Latitude>48.763827</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Aesculus hippocastanum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Aesculus L.</Genus>
+    <Species>Aesculus hippocastanum L.</Species>
+  </Taxon>
+  <VernacularNames>Horse chestnut</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

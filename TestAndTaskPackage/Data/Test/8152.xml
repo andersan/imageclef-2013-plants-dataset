@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8152.jpg</FileName>
+  <IndividualPlantId>5444</IndividualPlantId>
+  <Date>18/05/05</Date>
+  <Locality>France - Palisse</Locality>
+  <GPSLocality>
+    <Longitude>2.206116</Longitude>
+    <Latitude>45.418286</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

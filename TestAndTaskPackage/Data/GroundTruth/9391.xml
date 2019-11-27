@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9391.jpg</FileName>
+  <IndividualPlantId>647</IndividualPlantId>
+  <Date>06/02/11</Date>
+  <Locality>France - Nîmes</Locality>
+  <GPSLocality>
+    <Longitude>4.360054</Longitude>
+    <Latitude>43.836699</Latitude>
+  </GPSLocality>
+  <Author>Jpm</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Quercus ilex</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus ilex L.</Species>
+  </Taxon>
+  <VernacularNames>Holm oak</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

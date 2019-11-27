@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9161.jpg</FileName>
+  <IndividualPlantId>824</IndividualPlantId>
+  <Date>20/04/06</Date>
+  <Locality>France - Othe</Locality>
+  <GPSLocality>
+    <Longitude>5.441739</Longitude>
+    <Latitude>49.494554</Latitude>
+  </GPSLocality>
+  <Author>Francois Meignant</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Caltha palustris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Caltha Mill.</Genus>
+    <Species>Caltha palustris L.</Species>
+  </Taxon>
+  <VernacularNames>Kingcup</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

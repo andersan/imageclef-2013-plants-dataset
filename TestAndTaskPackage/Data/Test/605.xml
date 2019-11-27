@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>605.jpg</FileName>
+  <IndividualPlantId>2454</IndividualPlantId>
+  <Date>30/04/08</Date>
+  <Locality>France - Agde</Locality>
+  <GPSLocality>
+    <Longitude>3.470830</Longitude>
+    <Latitude>43.312455</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13944.jpg</FileName>
+  <IndividualPlantId>3848</IndividualPlantId>
+  <Date>30/04/05</Date>
+  <Locality>France - Merlines</Locality>
+  <GPSLocality>
+    <Longitude>2.460673</Longitude>
+    <Latitude>45.646632</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

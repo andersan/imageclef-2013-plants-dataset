@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6060.jpg</FileName>
+  <IndividualPlantId>3480</IndividualPlantId>
+  <Date>17/05/07</Date>
+  <Locality>France - Champ-Sur-Drac</Locality>
+  <GPSLocality>
+    <Longitude>5.731518</Longitude>
+    <Latitude>45.069402</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Fraxinus excelsior</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus excelsior L.</Species>
+  </Taxon>
+  <VernacularNames>European ash</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

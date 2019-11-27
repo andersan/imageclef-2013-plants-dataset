@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23526.jpg</FileName>
+  <IndividualPlantId>2767</IndividualPlantId>
+  <Date>11/06/11</Date>
+  <Locality>France - Malatras</Locality>
+  <GPSLocality>
+    <Longitude>5.475233</Longitude>
+    <Latitude>45.272851</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Acer pseudoplatanus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer pseudoplatanus L.</Species>
+  </Taxon>
+  <VernacularNames>Sycamore maple</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

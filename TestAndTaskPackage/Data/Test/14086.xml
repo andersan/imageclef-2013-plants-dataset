@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14086.jpg</FileName>
+  <IndividualPlantId>3236</IndividualPlantId>
+  <Date>10/09/09</Date>
+  <Locality>France – Callian</Locality>
+  <GPSLocality>
+    <Longitude>6.752815</Longitude>
+    <Latitude>43.629863</Latitude>
+  </GPSLocality>
+  <Author>Dominique Giraud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

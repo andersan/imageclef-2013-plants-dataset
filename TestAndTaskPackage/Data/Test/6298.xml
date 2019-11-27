@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6298.jpg</FileName>
+  <IndividualPlantId>4065</IndividualPlantId>
+  <Date>20/06/09</Date>
+  <Locality>France - Hotonnes</Locality>
+  <GPSLocality>
+    <Longitude>5.692695</Longitude>
+    <Latitude>45.997585</Latitude>
+  </GPSLocality>
+  <Author>Olivier Iborra</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

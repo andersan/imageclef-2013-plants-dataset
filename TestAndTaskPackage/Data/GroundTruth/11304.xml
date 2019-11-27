@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11304.jpg</FileName>
+  <IndividualPlantId>6089</IndividualPlantId>
+  <Date>28/08/11</Date>
+  <Locality>France - Roissy-en-Brie</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Eupatorium cannabinum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Eupatorium L.</Genus>
+    <Species>Eupatorium cannabinum L.</Species>
+  </Taxon>
+  <VernacularNames>Hemp-agrimony</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

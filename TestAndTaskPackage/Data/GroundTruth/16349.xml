@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16349.jpg</FileName>
+  <IndividualPlantId>2369</IndividualPlantId>
+  <Date>25/09/08</Date>
+  <Locality>France - Limousis</Locality>
+  <GPSLocality>
+    <Longitude>2.401791</Longitude>
+    <Latitude>43.333499</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Quercus ilex</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus ilex L.</Species>
+  </Taxon>
+  <VernacularNames>Holm oak</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

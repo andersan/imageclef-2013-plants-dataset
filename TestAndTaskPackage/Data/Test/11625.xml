@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11625.jpg</FileName>
+  <IndividualPlantId>2246</IndividualPlantId>
+  <Date>14/03/04</Date>
+  <Locality>France - Toul</Locality>
+  <GPSLocality>
+    <Longitude>5.890159</Longitude>
+    <Latitude>48.678296</Latitude>
+  </GPSLocality>
+  <Author>Elise Avenas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>12718.jpg</FileName>
+  <IndividualPlantId>523</IndividualPlantId>
+  <Date>24/04/11</Date>
+  <Locality>France - Tuchan</Locality>
+  <GPSLocality>
+    <Longitude>1.024917</Longitude>
+    <Latitude>43.225784</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

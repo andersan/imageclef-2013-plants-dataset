@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13983.jpg</FileName>
+  <IndividualPlantId>4579</IndividualPlantId>
+  <Date>03/11/11</Date>
+  <Locality>France - Valgaudemar</Locality>
+  <GPSLocality>
+    <Longitude>6.166667</Longitude>
+    <Latitude>44.816667</Latitude>
+  </GPSLocality>
+  <Author>Patrice Lefrancois</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Sorbus aria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Sorbus L.</Genus>
+    <Species>Sorbus aria Crantz</Species>
+  </Taxon>
+  <VernacularNames>Common whitebeam</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

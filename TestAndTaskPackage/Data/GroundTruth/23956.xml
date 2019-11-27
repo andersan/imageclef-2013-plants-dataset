@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23956.jpg</FileName>
+  <IndividualPlantId>6041</IndividualPlantId>
+  <Date>25/04/07</Date>
+  <Locality>France - Hendaye</Locality>
+  <GPSLocality>
+    <Longitude>-1.766148</Longitude>
+    <Latitude>43.359399</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Frangula dodonei</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rhamnaceae Juss.</Family>
+    <Genus>Frangula Mill.</Genus>
+    <Species>Frangula dodonei Ard.</Species>
+  </Taxon>
+  <VernacularNames>Alder buckthorn</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

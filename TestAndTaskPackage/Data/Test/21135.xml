@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21135.jpg</FileName>
+  <IndividualPlantId>411</IndividualPlantId>
+  <Date>09/06/07</Date>
+  <Locality>France - Suc-Et-Sentenac</Locality>
+  <GPSLocality>
+    <Longitude>1.480892</Longitude>
+    <Latitude>42.780871</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15589.jpg</FileName>
+  <IndividualPlantId>5870</IndividualPlantId>
+  <Date>18/05/12</Date>
+  <Locality>France - Correns</Locality>
+  <GPSLocality>
+    <Longitude>6.071986</Longitude>
+    <Latitude>43.443196</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Paliurus spina-christi</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rhamnaceae Juss.</Family>
+    <Genus>Paliurus Mill.</Genus>
+    <Species>Paliurus spina-christi Mill.</Species>
+  </Taxon>
+  <VernacularNames>Jerusalem thorn</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

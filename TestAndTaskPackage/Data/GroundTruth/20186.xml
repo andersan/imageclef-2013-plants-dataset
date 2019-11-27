@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20186.jpg</FileName>
+  <IndividualPlantId>2140</IndividualPlantId>
+  <Date>03/07/12</Date>
+  <Locality>France - Changé</Locality>
+  <GPSLocality>
+    <Longitude>0.278643</Longitude>
+    <Latitude>47.986925</Latitude>
+  </GPSLocality>
+  <Author>Emmanuel Stratmains</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Phytolacca americana</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Caryophyllanae Takht.</Superorder>
+    <Order>Caryophyllales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Phytolaccaceae R. Br.</Family>
+    <Genus>Phytolacca L.</Genus>
+    <Species>Phytolacca americana L.</Species>
+  </Taxon>
+  <VernacularNames>Virginia poke</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

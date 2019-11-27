@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6409.jpg</FileName>
+  <IndividualPlantId>5442</IndividualPlantId>
+  <Date>14/07/07</Date>
+  <Locality>France - Bretignolles-sur-Mer</Locality>
+  <GPSLocality>
+    <Longitude>-1.857387</Longitude>
+    <Latitude>46.627494</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Limonium vulgare</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Caryophyllanae Takht.</Superorder>
+    <Order>Caryophyllales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Plumbaginaceae Juss.</Family>
+    <Genus>Limonium Mill.</Genus>
+    <Species>Limonium vulgare Mill.</Species>
+  </Taxon>
+  <VernacularNames>Common sea-lavender</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

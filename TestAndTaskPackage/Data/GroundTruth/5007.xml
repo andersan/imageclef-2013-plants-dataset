@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5007.jpg</FileName>
+  <IndividualPlantId>2128</IndividualPlantId>
+  <Date>19/04/06</Date>
+  <Locality>France - Fontanès</Locality>
+  <GPSLocality>
+    <Longitude>4.096884</Longitude>
+    <Latitude>43.829514</Latitude>
+  </GPSLocality>
+  <Author>Franck Jullin</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Lithodora fruticosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Boraginales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Boraginaceae Juss.</Family>
+    <Genus>Lithodora Griseb.</Genus>
+    <Species>Lithodora fruticosa (L.) Griseb.</Species>
+  </Taxon>
+  <VernacularNames>Carrasquilla arbustiva</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

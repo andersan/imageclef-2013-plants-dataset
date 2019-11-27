@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22463.jpg</FileName>
+  <IndividualPlantId>6106</IndividualPlantId>
+  <Date>08/05/10</Date>
+  <Locality>France - Brévillers</Locality>
+  <GPSLocality>
+    <Longitude>2.015786</Longitude>
+    <Latitude>50.346281</Latitude>
+  </GPSLocality>
+  <Author>Laurent Petit</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Hyacinthoides non-scripta</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Asparagaceae Juss.</Family>
+    <Genus>Hyacinthoides Heist. ex Fabr.</Genus>
+    <Species>Hyacinthoides non-scripta (L.) Chouard ex Rothm.</Species>
+  </Taxon>
+  <VernacularNames>Common bluebell</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

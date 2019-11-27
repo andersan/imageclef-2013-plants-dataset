@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24176.jpg</FileName>
+  <IndividualPlantId>3366</IndividualPlantId>
+  <Date>13/04/10</Date>
+  <Locality>France - Ivry-Sur-Seine</Locality>
+  <GPSLocality>
+    <Longitude>2.388220</Longitude>
+    <Latitude>48.813055</Latitude>
+  </GPSLocality>
+  <Author>Bertrand Bui</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

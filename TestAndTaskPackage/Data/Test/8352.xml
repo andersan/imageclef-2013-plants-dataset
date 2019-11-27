@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8352.jpg</FileName>
+  <IndividualPlantId>5244</IndividualPlantId>
+  <Date>18/04/12</Date>
+  <Locality>France - Mourèze</Locality>
+  <GPSLocality>
+    <Longitude>3.349915</Longitude>
+    <Latitude>43.616490</Latitude>
+  </GPSLocality>
+  <Author>Didier Gachon</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

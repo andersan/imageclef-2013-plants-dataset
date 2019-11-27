@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13853.jpg</FileName>
+  <IndividualPlantId>3459</IndividualPlantId>
+  <Date>20/07/12</Date>
+  <Locality>France - Saint-Coulomb</Locality>
+  <GPSLocality>
+    <Longitude>1.476588</Longitude>
+    <Latitude>43.314361</Latitude>
+  </GPSLocality>
+  <Author>Claire Felloni</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

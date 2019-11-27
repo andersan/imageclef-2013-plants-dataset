@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20684.jpg</FileName>
+  <IndividualPlantId>5104</IndividualPlantId>
+  <Date>29/08/07</Date>
+  <Locality>France - Montrozier</Locality>
+  <GPSLocality>
+    <Longitude>2.746820</Longitude>
+    <Latitude>44.406058</Latitude>
+  </GPSLocality>
+  <Author>Franck Jullin</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

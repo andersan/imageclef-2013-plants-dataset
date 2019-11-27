@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3483.jpg</FileName>
+  <IndividualPlantId>3530</IndividualPlantId>
+  <Date>11/04/10</Date>
+  <Locality>France - Liausson</Locality>
+  <GPSLocality>
+    <Longitude>3.369954</Longitude>
+    <Latitude>43.636121</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Pardoglossum cheirifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Boraginales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Boraginaceae Juss.</Family>
+    <Genus>Pardoglossum Barbier &amp; Mathez</Genus>
+    <Species>Pardoglossum cheirifolium (L.) Barbier &amp; Mathez</Species>
+  </Taxon>
+  <VernacularNames>Hound's tongue</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

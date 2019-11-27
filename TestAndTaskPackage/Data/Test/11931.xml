@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11931.jpg</FileName>
+  <IndividualPlantId>2022</IndividualPlantId>
+  <Date>19/02/10</Date>
+  <Locality>France - Montjoire</Locality>
+  <GPSLocality>
+    <Longitude>1.510770</Longitude>
+    <Latitude>43.822327</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

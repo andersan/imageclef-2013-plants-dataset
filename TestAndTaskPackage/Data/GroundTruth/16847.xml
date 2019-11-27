@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16847.jpg</FileName>
+  <IndividualPlantId>5823</IndividualPlantId>
+  <Date>24/04/11</Date>
+  <Locality>France - Albias</Locality>
+  <GPSLocality>
+    <Longitude>1.450018</Longitude>
+    <Latitude>44.090264</Latitude>
+  </GPSLocality>
+  <Author>Cecile G</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Aesculus hippocastanum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Aesculus L.</Genus>
+    <Species>Aesculus hippocastanum L.</Species>
+  </Taxon>
+  <VernacularNames>Horse chestnut</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

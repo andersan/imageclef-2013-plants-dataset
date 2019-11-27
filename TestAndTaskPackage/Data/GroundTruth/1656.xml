@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1656.jpg</FileName>
+  <IndividualPlantId>5745</IndividualPlantId>
+  <Date>08/09/11</Date>
+  <Locality>France - Poulx</Locality>
+  <GPSLocality>
+    <Longitude>4.424057</Longitude>
+    <Latitude>43.910812</Latitude>
+  </GPSLocality>
+  <Author>Jame Lagarrigue</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Verbena officinalis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Verbenaceae J. St.-Hil.</Family>
+    <Genus>Verbena L.</Genus>
+    <Species>Verbena officinalis L.</Species>
+  </Taxon>
+  <VernacularNames>Common vervain</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

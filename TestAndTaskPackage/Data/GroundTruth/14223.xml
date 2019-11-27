@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14223.jpg</FileName>
+  <IndividualPlantId>4238</IndividualPlantId>
+  <Date>27/09/09</Date>
+  <Locality>France - Cérins</Locality>
+  <GPSLocality>
+    <Longitude>5.545683</Longitude>
+    <Latitude>45.781373</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Parnassia palustris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Celastrales Link</Order>
+    <Family>Celastraceae R. Br.</Family>
+    <Genus>Parnassia L.</Genus>
+    <Species>Parnassia palustris L.</Species>
+  </Taxon>
+  <VernacularNames>Marsh grass-of-parnassus</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

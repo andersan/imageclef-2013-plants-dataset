@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25160.jpg</FileName>
+  <IndividualPlantId>4793</IndividualPlantId>
+  <Date>23/06/08</Date>
+  <Locality>France - Bezins-Garraux</Locality>
+  <GPSLocality>
+    <Longitude>0.697443</Longitude>
+    <Latitude>42.933481</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

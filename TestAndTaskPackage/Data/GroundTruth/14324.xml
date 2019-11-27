@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14324.jpg</FileName>
+  <IndividualPlantId>1477</IndividualPlantId>
+  <Date>28/04/12</Date>
+  <Locality>France - Grabels</Locality>
+  <GPSLocality>
+    <Longitude>3.797119</Longitude>
+    <Latitude>43.647720</Latitude>
+  </GPSLocality>
+  <Author>Jean-Francois Molino</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Corylus avellana</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Betulaceae Gray</Family>
+    <Genus>Corylus L.</Genus>
+    <Species>Corylus avellana L.</Species>
+  </Taxon>
+  <VernacularNames>Common hazel</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

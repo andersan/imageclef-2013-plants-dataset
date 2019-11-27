@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>26648.jpg</FileName>
+  <IndividualPlantId>4960</IndividualPlantId>
+  <Date>10/12/11</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Solanum nigrum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Solanaceae Juss.</Family>
+    <Genus>Solanum L.</Genus>
+    <Species>Solanum nigrum L.</Species>
+  </Taxon>
+  <VernacularNames>European black nightshade</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

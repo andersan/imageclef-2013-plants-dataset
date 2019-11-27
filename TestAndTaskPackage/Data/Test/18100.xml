@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18100.jpg</FileName>
+  <IndividualPlantId>3618</IndividualPlantId>
+  <Date>04/03/13</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.3509860038757324</Longitude>
+    <Latitude>48.856666564941406</Latitude>
+  </GPSLocality>
+  <Author>Coloramisu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

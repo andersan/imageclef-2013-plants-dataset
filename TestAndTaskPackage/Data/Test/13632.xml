@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13632.jpg</FileName>
+  <IndividualPlantId>5335</IndividualPlantId>
+  <Date>22/04/11</Date>
+  <Locality>France - Villemur-Sur-Tarn</Locality>
+  <GPSLocality>
+    <Longitude>1.503658</Longitude>
+    <Latitude>43.864991</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

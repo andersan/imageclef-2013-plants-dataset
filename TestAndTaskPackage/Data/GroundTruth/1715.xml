@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1715.jpg</FileName>
+  <IndividualPlantId>674</IndividualPlantId>
+  <Date>01/07/09</Date>
+  <Locality>France - Saint-Ferriol</Locality>
+  <GPSLocality>
+    <Longitude>2.224960</Longitude>
+    <Latitude>42.892849</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Amelanchier ovalis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Amelanchier Medik.</Genus>
+    <Species>Amelanchier ovalis Medik.</Species>
+  </Taxon>
+  <VernacularNames>Snowy mespilus</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

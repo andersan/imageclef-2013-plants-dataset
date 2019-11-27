@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18198.jpg</FileName>
+  <IndividualPlantId>1337</IndividualPlantId>
+  <Date>16/05/07</Date>
+  <Locality>France - St Mesmin</Locality>
+  <GPSLocality>
+    <Longitude>-0.732569</Longitude>
+    <Latitude>46.793922</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

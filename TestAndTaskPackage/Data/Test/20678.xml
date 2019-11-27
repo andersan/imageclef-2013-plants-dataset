@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20678.jpg</FileName>
+  <IndividualPlantId>79</IndividualPlantId>
+  <Date>10/03/13</Date>
+  <Locality>France - Marseille</Locality>
+  <GPSLocality>
+    <Longitude>5.36978</Longitude>
+    <Latitude>43.296482</Latitude>
+  </GPSLocality>
+  <Author>Martin Casanova</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

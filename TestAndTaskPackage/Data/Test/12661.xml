@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>12661.jpg</FileName>
+  <IndividualPlantId>93</IndividualPlantId>
+  <Date>28/05/06</Date>
+  <Locality>France - Baulon</Locality>
+  <GPSLocality>
+    <Longitude>-1.932132</Longitude>
+    <Latitude>47.985129</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

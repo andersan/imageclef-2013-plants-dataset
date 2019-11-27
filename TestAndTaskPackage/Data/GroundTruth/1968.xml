@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1968.jpg</FileName>
+  <IndividualPlantId>5838</IndividualPlantId>
+  <Date>03/10/12</Date>
+  <Locality>France - Marseille</Locality>
+  <GPSLocality>
+    <Longitude>5.369780</Longitude>
+    <Latitude>43.296482</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ailanthus altissima</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Simaroubaceae DC.</Family>
+    <Genus>Ailanthus Desf.</Genus>
+    <Species>Ailanthus altissima (Mill.) Swingle</Species>
+  </Taxon>
+  <VernacularNames>Tree of heaven</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

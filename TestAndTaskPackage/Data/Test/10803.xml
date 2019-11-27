@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10803.jpg</FileName>
+  <IndividualPlantId>4071</IndividualPlantId>
+  <Date>09/05/11</Date>
+  <Locality>France - Saint-Remy-De-Provence</Locality>
+  <GPSLocality>
+    <Longitude>4.831343</Longitude>
+    <Latitude>43.788652</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

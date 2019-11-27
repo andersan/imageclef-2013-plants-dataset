@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>26277.jpg</FileName>
+  <IndividualPlantId>247</IndividualPlantId>
+  <Date>27/02/09</Date>
+  <Locality>France - Pau</Locality>
+  <GPSLocality>
+    <Longitude>-0.370797</Longitude>
+    <Latitude>43.295100</Latitude>
+  </GPSLocality>
+  <Author>Manuel Pirot</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Ranunculus ficaria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Ranunculus L.</Genus>
+    <Species>Ranunculus ficaria L.</Species>
+  </Taxon>
+  <VernacularNames>Lesser celandine</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

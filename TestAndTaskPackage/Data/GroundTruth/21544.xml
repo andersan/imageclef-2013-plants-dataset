@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21544.jpg</FileName>
+  <IndividualPlantId>984</IndividualPlantId>
+  <Date>12/04/12</Date>
+  <Locality>France - Rocquencourt</Locality>
+  <GPSLocality>
+    <Longitude>2.110762</Longitude>
+    <Latitude>48.837144</Latitude>
+  </GPSLocality>
+  <Author>Vera Bakic</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Hedera helix</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Araliaceae Juss.</Family>
+    <Genus>Hedera L.</Genus>
+    <Species>Hedera helix L.</Species>
+  </Taxon>
+  <VernacularNames>English ivy</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

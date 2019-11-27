@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22495.jpg</FileName>
+  <IndividualPlantId>4790</IndividualPlantId>
+  <Date>09/04/11</Date>
+  <Locality>France - Nantes</Locality>
+  <GPSLocality>
+    <Longitude>-1.553621</Longitude>
+    <Latitude>47.218371</Latitude>
+  </GPSLocality>
+  <Author>Patricia Destrade</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Anacamptis morio</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Anacamptis Rich.</Genus>
+    <Species>Anacamptis morio (L.) R.M. Bateman, Pridgeon &amp; M.W. Chase</Species>
+  </Taxon>
+  <VernacularNames>Green-winged orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

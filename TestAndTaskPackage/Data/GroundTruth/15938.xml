@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15938.jpg</FileName>
+  <IndividualPlantId>5626</IndividualPlantId>
+  <Date>07/05/08</Date>
+  <Locality>France - Lauret</Locality>
+  <GPSLocality>
+    <Longitude>3.885359</Longitude>
+    <Latitude>43.832368</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Linum campanulatum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Linaceae DC. ex Perleb</Family>
+    <Genus>Linum L.</Genus>
+    <Species>Linum campanulatum L.</Species>
+  </Taxon>
+  <VernacularNames>Flax</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10367.jpg</FileName>
+  <IndividualPlantId>1365</IndividualPlantId>
+  <Date>15/04/09</Date>
+  <Locality>France - Larra</Locality>
+  <GPSLocality>
+    <Longitude>1.232922</Longitude>
+    <Latitude>43.738676</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Viburnum lantana</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Viburnum L.</Genus>
+    <Species>Viburnum lantana L.</Species>
+  </Taxon>
+  <VernacularNames>Wayfaringtree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

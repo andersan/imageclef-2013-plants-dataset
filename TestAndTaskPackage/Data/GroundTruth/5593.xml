@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5593.jpg</FileName>
+  <IndividualPlantId>5709</IndividualPlantId>
+  <Date>12/09/04</Date>
+  <Locality>France - Gèdre</Locality>
+  <GPSLocality>
+    <Longitude>0.017853</Longitude>
+    <Latitude>42.796912</Latitude>
+  </GPSLocality>
+  <Author>Alain Bigou</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Saxifraga paniculata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Myrothamnanae Takht.</Superorder>
+    <Order>Saxifragales Bercht. &amp; J. Presl</Order>
+    <Family>Saxifragaceae Juss.</Family>
+    <Genus>Saxifraga L.</Genus>
+    <Species>Saxifraga paniculata Mill.</Species>
+  </Taxon>
+  <VernacularNames>White mountain saxifrage</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

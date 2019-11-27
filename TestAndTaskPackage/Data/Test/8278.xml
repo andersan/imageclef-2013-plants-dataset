@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8278.jpg</FileName>
+  <IndividualPlantId>3017</IndividualPlantId>
+  <Date>15/10/11</Date>
+  <Locality>France - Le Noyer-En-Ouche</Locality>
+  <GPSLocality>
+    <Longitude>0.702363</Longitude>
+    <Latitude>49.006552</Latitude>
+  </GPSLocality>
+  <Author>Josette Rivory</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

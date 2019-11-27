@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5866.jpg</FileName>
+  <IndividualPlantId>5916</IndividualPlantId>
+  <Date>09/03/13</Date>
+  <Locality>France - Beauregard</Locality>
+  <GPSLocality>
+    <Longitude>4.754476</Longitude>
+    <Latitude>46.001135</Latitude>
+  </GPSLocality>
+  <Author>Laetitia Goeau</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Laurus nobilis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Laurales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Lauraceae Juss.</Family>
+    <Genus>Laurus L.</Genus>
+    <Species>Laurus nobilis L.</Species>
+  </Taxon>
+  <VernacularNames>Laurel tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

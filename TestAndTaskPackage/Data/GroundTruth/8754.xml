@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8754.jpg</FileName>
+  <IndividualPlantId>5631</IndividualPlantId>
+  <Date>22/05/11</Date>
+  <Locality>France - Saint-Agnan-En-Vercors</Locality>
+  <GPSLocality>
+    <Longitude>5.430672</Longitude>
+    <Latitude>44.935480</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Orchis mascula</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Orchis L.</Genus>
+    <Species>Orchis mascula Alsch.</Species>
+  </Taxon>
+  <VernacularNames>Early purple orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

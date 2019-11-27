@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20008.jpg</FileName>
+  <IndividualPlantId>5346</IndividualPlantId>
+  <Date>02/06/09</Date>
+  <Locality>France - Aulus-Les-Bains</Locality>
+  <GPSLocality>
+    <Longitude>1.339370</Longitude>
+    <Latitude>42.790665</Latitude>
+  </GPSLocality>
+  <Author>Catherine Mahyeux</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Gentiana verna</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Gentianales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Gentianaceae Juss.</Family>
+    <Genus>Gentiana L.</Genus>
+    <Species>Gentiana verna L.</Species>
+  </Taxon>
+  <VernacularNames>Spring gentian</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

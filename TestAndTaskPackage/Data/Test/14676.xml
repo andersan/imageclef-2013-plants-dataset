@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14676.jpg</FileName>
+  <IndividualPlantId>4346</IndividualPlantId>
+  <Date>01/04/08</Date>
+  <Locality>France - Baillargues</Locality>
+  <GPSLocality>
+    <Longitude>4.013409</Longitude>
+    <Latitude>43.660593</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

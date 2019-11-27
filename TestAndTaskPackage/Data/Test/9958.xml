@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9958.jpg</FileName>
+  <IndividualPlantId>728</IndividualPlantId>
+  <Date>19/06/07</Date>
+  <Locality>France - Prades-Le-Lez</Locality>
+  <GPSLocality>
+    <Longitude>3.862765</Longitude>
+    <Latitude>43.697980</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

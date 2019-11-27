@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5171.jpg</FileName>
+  <IndividualPlantId>1672</IndividualPlantId>
+  <Date>17/04/10</Date>
+  <Locality>France - Opoul-Périllos</Locality>
+  <GPSLocality>
+    <Longitude>2.872769</Longitude>
+    <Latitude>42.867998</Latitude>
+  </GPSLocality>
+  <Author>Herve Gryta</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

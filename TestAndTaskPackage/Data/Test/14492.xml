@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14492.jpg</FileName>
+  <IndividualPlantId>3221</IndividualPlantId>
+  <Date>30/04/05</Date>
+  <Locality>France - Savennes</Locality>
+  <GPSLocality>
+    <Longitude>2.461586</Longitude>
+    <Latitude>45.640364</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

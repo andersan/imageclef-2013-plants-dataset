@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11511.jpg</FileName>
+  <IndividualPlantId>2355</IndividualPlantId>
+  <Date>17/06/07</Date>
+  <Locality>France - Lagnes</Locality>
+  <GPSLocality>
+    <Longitude>5.114628</Longitude>
+    <Latitude>43.893979</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

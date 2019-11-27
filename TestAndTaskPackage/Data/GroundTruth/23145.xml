@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23145.jpg</FileName>
+  <IndividualPlantId>5813</IndividualPlantId>
+  <Date>15/01/09</Date>
+  <Locality>France - Colmars</Locality>
+  <GPSLocality>
+    <Longitude>6.627112</Longitude>
+    <Latitude>44.182011</Latitude>
+  </GPSLocality>
+  <Author>Christophe Girod</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Saxifraga paniculata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Myrothamnanae Takht.</Superorder>
+    <Order>Saxifragales Bercht. &amp; J. Presl</Order>
+    <Family>Saxifragaceae Juss.</Family>
+    <Genus>Saxifraga L.</Genus>
+    <Species>Saxifraga paniculata Mill.</Species>
+  </Taxon>
+  <VernacularNames>White mountain saxifrage</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

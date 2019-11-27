@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15155.jpg</FileName>
+  <IndividualPlantId>4642</IndividualPlantId>
+  <Date>20/05/06</Date>
+  <Locality>France - Chantonnay</Locality>
+  <GPSLocality>
+    <Longitude>-1.050176</Longitude>
+    <Latitude>46.687082</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9066.jpg</FileName>
+  <IndividualPlantId>5067</IndividualPlantId>
+  <Date>07/03/11</Date>
+  <Locality>France - Les Pennes-Mirabeau</Locality>
+  <GPSLocality>
+    <Longitude>5.320103</Longitude>
+    <Latitude>43.409630</Latitude>
+  </GPSLocality>
+  <Author>Bertrand Bui</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Lithodora fruticosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Boraginales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Boraginaceae Juss.</Family>
+    <Genus>Lithodora Griseb.</Genus>
+    <Species>Lithodora fruticosa (L.) Griseb.</Species>
+  </Taxon>
+  <VernacularNames>Carrasquilla arbustiva</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25703.jpg</FileName>
+  <IndividualPlantId>4486</IndividualPlantId>
+  <Date>01/02/00</Date>
+  <Locality>France - Seyssuel</Locality>
+  <GPSLocality>
+    <Longitude>4.838129</Longitude>
+    <Latitude>45.578174</Latitude>
+  </GPSLocality>
+  <Author>Christophe Girod</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

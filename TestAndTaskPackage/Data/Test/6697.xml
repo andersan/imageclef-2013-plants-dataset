@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6697.jpg</FileName>
+  <IndividualPlantId>2895</IndividualPlantId>
+  <Date>11/10/12</Date>
+  <Locality>France - Us</Locality>
+  <GPSLocality>
+    <Longitude>-0.085957</Longitude>
+    <Latitude>42.966671</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

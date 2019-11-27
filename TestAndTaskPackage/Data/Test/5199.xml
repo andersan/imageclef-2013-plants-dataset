@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5199.jpg</FileName>
+  <IndividualPlantId>522</IndividualPlantId>
+  <Date>20/05/12</Date>
+  <Locality>France - Cosne-Cours-Sur-Loire</Locality>
+  <GPSLocality>
+    <Longitude>2.927500</Longitude>
+    <Latitude>47.412200</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

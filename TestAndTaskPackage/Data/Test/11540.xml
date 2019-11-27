@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11540.jpg</FileName>
+  <IndividualPlantId>2745</IndividualPlantId>
+  <Date>27/05/12</Date>
+  <Locality>France - Meyssiès</Locality>
+  <GPSLocality>
+    <Longitude>5.055576</Longitude>
+    <Latitude>45.468776</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

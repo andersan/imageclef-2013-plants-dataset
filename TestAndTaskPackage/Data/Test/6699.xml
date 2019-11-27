@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6699.jpg</FileName>
+  <IndividualPlantId>4672</IndividualPlantId>
+  <Date>16/07/12</Date>
+  <Locality>France - Saint-Antonin-Noble-Val</Locality>
+  <GPSLocality>
+    <Longitude>1.756144</Longitude>
+    <Latitude>44.151119</Latitude>
+  </GPSLocality>
+  <Author>Liliane Pessotto</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8961.jpg</FileName>
+  <IndividualPlantId>690</IndividualPlantId>
+  <Date>28/05/06</Date>
+  <Locality>France - Vif</Locality>
+  <GPSLocality>
+    <Longitude>5.669120</Longitude>
+    <Latitude>45.056206</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20331.jpg</FileName>
+  <IndividualPlantId>4236</IndividualPlantId>
+  <Date>16/04/11</Date>
+  <Locality>France - Champcueil</Locality>
+  <GPSLocality>
+    <Longitude>2.445028</Longitude>
+    <Latitude>48.515058</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Euonymus europaeus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Celastrales Link</Order>
+    <Family>Celastraceae R. Br.</Family>
+    <Genus>Euonymus L.</Genus>
+    <Species>Euonymus europaeus L.</Species>
+  </Taxon>
+  <VernacularNames>European spindle</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

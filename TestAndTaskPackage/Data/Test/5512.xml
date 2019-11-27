@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5512.jpg</FileName>
+  <IndividualPlantId>3578</IndividualPlantId>
+  <Date>08/04/09</Date>
+  <Locality>France - Venasque</Locality>
+  <GPSLocality>
+    <Longitude>5.146846</Longitude>
+    <Latitude>43.995641</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24279.jpg</FileName>
+  <IndividualPlantId>4490</IndividualPlantId>
+  <Date>09/04/05</Date>
+  <Locality>France - Guzargues</Locality>
+  <GPSLocality>
+    <Longitude>3.924334</Longitude>
+    <Latitude>43.721972</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Narcissus assoanus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Amaryllidaceae J. St.-Hil.</Family>
+    <Genus>Narcissus L.</Genus>
+    <Species>Narcissus assoanus Dufour ex Schult. &amp; Schult.f.</Species>
+  </Taxon>
+  <VernacularNames>Rush-leaf jonquil</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

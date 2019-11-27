@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>943.jpg</FileName>
+  <IndividualPlantId>3327</IndividualPlantId>
+  <Date>01/11/07</Date>
+  <Locality>France - Lacroix-Falgarde</Locality>
+  <GPSLocality>
+    <Longitude>1.400998</Longitude>
+    <Latitude>43.494121</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

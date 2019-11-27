@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9161.jpg</FileName>
+  <IndividualPlantId>824</IndividualPlantId>
+  <Date>20/04/06</Date>
+  <Locality>France - Othe</Locality>
+  <GPSLocality>
+    <Longitude>5.441739</Longitude>
+    <Latitude>49.494554</Latitude>
+  </GPSLocality>
+  <Author>Francois Meignant</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

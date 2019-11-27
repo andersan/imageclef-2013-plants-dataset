@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11944.jpg</FileName>
+  <IndividualPlantId>1206</IndividualPlantId>
+  <Date>02/03/13</Date>
+  <Locality>France - La Ville-du-Bois</Locality>
+  <GPSLocality>
+    <Longitude>2.2688259</Longitude>
+    <Latitude>48.661072</Latitude>
+  </GPSLocality>
+  <Author>Laetitia Goeau</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

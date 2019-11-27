@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>447.jpg</FileName>
+  <IndividualPlantId>5578</IndividualPlantId>
+  <Date>20/06/08</Date>
+  <Locality>France - Vauvenargues</Locality>
+  <GPSLocality>
+    <Longitude>5.602142</Longitude>
+    <Latitude>43.555284</Latitude>
+  </GPSLocality>
+  <Author>Jean-Claude Ernewein</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Asphodelus cerasiferus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Xanthorrhoeaceae Dumort.</Family>
+    <Genus>Asphodelus L.</Genus>
+    <Species>Asphodelus cerasiferus J.Gay</Species>
+  </Taxon>
+  <VernacularNames>Cherry asphodel</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>377.jpg</FileName>
+  <IndividualPlantId>450</IndividualPlantId>
+  <Date>19/04/04</Date>
+  <Locality>France - Riboux</Locality>
+  <GPSLocality>
+    <Longitude>5.756299</Longitude>
+    <Latitude>43.302966</Latitude>
+  </GPSLocality>
+  <Author>Robert Leras</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Asphodelus cerasiferus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Xanthorrhoeaceae Dumort.</Family>
+    <Genus>Asphodelus L.</Genus>
+    <Species>Asphodelus cerasiferus J.Gay</Species>
+  </Taxon>
+  <VernacularNames>Cherry asphodel</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

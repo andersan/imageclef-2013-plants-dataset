@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11931.jpg</FileName>
+  <IndividualPlantId>2022</IndividualPlantId>
+  <Date>19/02/10</Date>
+  <Locality>France - Montjoire</Locality>
+  <GPSLocality>
+    <Longitude>1.510770</Longitude>
+    <Latitude>43.822327</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Helleborus foetidus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Helleborus Gueldenst.</Genus>
+    <Species>Helleborus foetidus L.</Species>
+  </Taxon>
+  <VernacularNames>Stinking hellebore dungwort</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

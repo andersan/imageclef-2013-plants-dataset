@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8848.jpg</FileName>
+  <IndividualPlantId>4926</IndividualPlantId>
+  <Date>30/06/05</Date>
+  <Locality>France - Laruns</Locality>
+  <GPSLocality>
+    <Longitude>-0.426274</Longitude>
+    <Latitude>42.987644</Latitude>
+  </GPSLocality>
+  <Author>Alain Bigou</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

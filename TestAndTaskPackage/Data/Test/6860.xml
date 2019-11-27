@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6860.jpg</FileName>
+  <IndividualPlantId>4368</IndividualPlantId>
+  <Date>21/12/09</Date>
+  <Locality>France - Fleury</Locality>
+  <GPSLocality>
+    <Longitude>-0.331316</Longitude>
+    <Latitude>49.201553</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

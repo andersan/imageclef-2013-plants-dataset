@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22273.jpg</FileName>
+  <IndividualPlantId>3073</IndividualPlantId>
+  <Date>28/06/07</Date>
+  <Locality>France - Nohèdes</Locality>
+  <GPSLocality>
+    <Longitude>2.289051</Longitude>
+    <Latitude>42.622603</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Dactylorhiza maculata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Dactylorhiza Neck. ex Nevski</Genus>
+    <Species>Dactylorhiza maculata (L.) Soó</Species>
+  </Taxon>
+  <VernacularNames>Heath spotted orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

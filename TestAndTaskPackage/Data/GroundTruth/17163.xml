@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>17163.jpg</FileName>
+  <IndividualPlantId>917</IndividualPlantId>
+  <Date>13/05/10</Date>
+  <Locality>France - Athis-Mons</Locality>
+  <GPSLocality>
+    <Longitude>2.376120</Longitude>
+    <Latitude>48.700129</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Fraxinus excelsior</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus excelsior L.</Species>
+  </Taxon>
+  <VernacularNames>European ash</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

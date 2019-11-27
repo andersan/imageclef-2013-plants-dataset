@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18151.jpg</FileName>
+  <IndividualPlantId>4870</IndividualPlantId>
+  <Date>14/10/12</Date>
+  <Locality>France - Digne-Les-Bains</Locality>
+  <GPSLocality>
+    <Longitude>6.231100</Longitude>
+    <Latitude>44.091248</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Salix alba</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Salix L.</Genus>
+    <Species>Salix alba L.</Species>
+  </Taxon>
+  <VernacularNames>White willow</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

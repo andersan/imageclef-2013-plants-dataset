@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25606.jpg</FileName>
+  <IndividualPlantId>732</IndividualPlantId>
+  <Date>01/03/08</Date>
+  <Locality>France - Soueich</Locality>
+  <GPSLocality>
+    <Longitude>0.778652</Longitude>
+    <Latitude>43.047764</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

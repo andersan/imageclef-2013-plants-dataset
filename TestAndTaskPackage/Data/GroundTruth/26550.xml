@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>26550.jpg</FileName>
+  <IndividualPlantId>4162</IndividualPlantId>
+  <Date>14/06/09</Date>
+  <Locality>France - Bez-Et-Esparon</Locality>
+  <GPSLocality>
+    <Longitude>3.529858</Longitude>
+    <Latitude>43.972528</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Anemone hepatica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Anemone L.</Genus>
+    <Species>Anemone hepatica L.</Species>
+  </Taxon>
+  <VernacularNames>Common hepatica</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

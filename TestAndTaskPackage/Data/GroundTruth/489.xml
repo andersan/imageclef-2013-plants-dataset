@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>489.jpg</FileName>
+  <IndividualPlantId>5776</IndividualPlantId>
+  <Date>24/04/06</Date>
+  <Locality>France - Champ-Sur-Drac</Locality>
+  <GPSLocality>
+    <Longitude>5.731518</Longitude>
+    <Latitude>45.069402</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Syringa vulgaris</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Syringa L.</Genus>
+    <Species>Syringa vulgaris L.</Species>
+  </Taxon>
+  <VernacularNames>Common lilac</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

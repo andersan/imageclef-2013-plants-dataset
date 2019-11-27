@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21497.jpg</FileName>
+  <IndividualPlantId>3261</IndividualPlantId>
+  <Date>03/06/07</Date>
+  <Locality>France - Col De Menta</Locality>
+  <GPSLocality>
+    <Longitude>9.028573</Longitude>
+    <Latitude>41.991395</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Quercus ilex</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus ilex L.</Species>
+  </Taxon>
+  <VernacularNames>Holm oak</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18314.jpg</FileName>
+  <IndividualPlantId>5800</IndividualPlantId>
+  <Date>31/03/07</Date>
+  <Locality>France - Gruissan</Locality>
+  <GPSLocality>
+    <Longitude>3.086181</Longitude>
+    <Latitude>43.107052</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

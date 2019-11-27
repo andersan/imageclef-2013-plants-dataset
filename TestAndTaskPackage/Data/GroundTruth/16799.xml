@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16799.jpg</FileName>
+  <IndividualPlantId>3477</IndividualPlantId>
+  <Date>20/06/10</Date>
+  <Locality>France - Luc-En-Diois</Locality>
+  <GPSLocality>
+    <Longitude>5.452401</Longitude>
+    <Latitude>44.615100</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Fraxinus angustifolia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus angustifolia Vahl</Species>
+  </Taxon>
+  <VernacularNames>Narrow leafed ash</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

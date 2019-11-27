@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11505.jpg</FileName>
+  <IndividualPlantId>5726</IndividualPlantId>
+  <Date>12/05/07</Date>
+  <Locality>France - Saint-Affrique</Locality>
+  <GPSLocality>
+    <Longitude>2.887126</Longitude>
+    <Latitude>43.958190</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

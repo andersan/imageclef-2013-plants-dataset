@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23518.jpg</FileName>
+  <IndividualPlantId>3653</IndividualPlantId>
+  <Date>18/06/99</Date>
+  <Locality>France - Graissesac</Locality>
+  <GPSLocality>
+    <Longitude>-81.537701</Longitude>
+    <Latitude>26.193744</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Centaurea pectinata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Centaurea L.</Genus>
+    <Species>Centaurea pectinata L.</Species>
+  </Taxon>
+  <VernacularNames>Knapweed</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

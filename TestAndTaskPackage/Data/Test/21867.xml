@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21867.jpg</FileName>
+  <IndividualPlantId>2193</IndividualPlantId>
+  <Date>01/05/11</Date>
+  <Locality>France - Grigny</Locality>
+  <GPSLocality>
+    <Longitude>0.164283</Longitude>
+    <Latitude>46.960123</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

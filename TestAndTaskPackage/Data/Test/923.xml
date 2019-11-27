@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>923.jpg</FileName>
+  <IndividualPlantId>1853</IndividualPlantId>
+  <Date>11/03/13</Date>
+  <Locality>France - Assas</Locality>
+  <GPSLocality>
+    <Longitude>3.899178</Longitude>
+    <Latitude>43.7019469</Latitude>
+  </GPSLocality>
+  <Author>Bertrand Moynier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

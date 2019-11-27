@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5171.jpg</FileName>
+  <IndividualPlantId>1672</IndividualPlantId>
+  <Date>17/04/10</Date>
+  <Locality>France - Opoul-Périllos</Locality>
+  <GPSLocality>
+    <Longitude>2.872769</Longitude>
+    <Latitude>42.867998</Latitude>
+  </GPSLocality>
+  <Author>Herve Gryta</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Pardoglossum cheirifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Boraginales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Boraginaceae Juss.</Family>
+    <Genus>Pardoglossum Barbier &amp; Mathez</Genus>
+    <Species>Pardoglossum cheirifolium (L.) Barbier &amp; Mathez</Species>
+  </Taxon>
+  <VernacularNames>Hound's tongue</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

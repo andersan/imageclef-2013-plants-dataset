@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19291.jpg</FileName>
+  <IndividualPlantId>2229</IndividualPlantId>
+  <Date>15/04/09</Date>
+  <Locality>France - Larra</Locality>
+  <GPSLocality>
+    <Longitude>1.232922</Longitude>
+    <Latitude>43.738676</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Crataegus laevigata</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Crataegus L.</Genus>
+    <Species>Crataegus laevigata (Poir.) DC.</Species>
+  </Taxon>
+  <VernacularNames>English hawthorn</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

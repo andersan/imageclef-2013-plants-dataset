@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16469.jpg</FileName>
+  <IndividualPlantId>555</IndividualPlantId>
+  <Date>24/09/12</Date>
+  <Locality>France - Saint-Léon-Sur-Vézère</Locality>
+  <GPSLocality>
+    <Longitude>1.088113</Longitude>
+    <Latitude>45.011300</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Acer negundo</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Sapindaceae Juss.</Family>
+    <Genus>Acer L.</Genus>
+    <Species>Acer negundo L.</Species>
+  </Taxon>
+  <VernacularNames>Box elder maple</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

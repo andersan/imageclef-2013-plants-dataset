@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15303.jpg</FileName>
+  <IndividualPlantId>2740</IndividualPlantId>
+  <Date>26/04/10</Date>
+  <Locality>France - Hirsingue</Locality>
+  <GPSLocality>
+    <Longitude>7.252793</Longitude>
+    <Latitude>47.587301</Latitude>
+  </GPSLocality>
+  <Author>Hugues Tinguy</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19462.jpg</FileName>
+  <IndividualPlantId>5740</IndividualPlantId>
+  <Date>18/06/12</Date>
+  <Locality>France - Gueradur</Locality>
+  <GPSLocality>
+    <Longitude>-3.495178</Longitude>
+    <Latitude>48.786972</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Quercus robur</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus robur L.</Species>
+  </Taxon>
+  <VernacularNames>Pedunculate oak</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

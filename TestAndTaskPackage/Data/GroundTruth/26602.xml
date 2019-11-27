@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>26602.jpg</FileName>
+  <IndividualPlantId>4142</IndividualPlantId>
+  <Date>23/06/12</Date>
+  <Locality>France - Le Cres</Locality>
+  <GPSLocality>
+    <Longitude>3.936612</Longitude>
+    <Latitude>43.644825</Latitude>
+  </GPSLocality>
+  <Author>Identify Identify</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Celtis australis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Cannabaceae Martinov</Family>
+    <Genus>Celtis L.</Genus>
+    <Species>Celtis australis L.</Species>
+  </Taxon>
+  <VernacularNames>European nettletree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

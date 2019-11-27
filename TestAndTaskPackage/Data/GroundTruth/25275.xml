@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25275.jpg</FileName>
+  <IndividualPlantId>3803</IndividualPlantId>
+  <Date>08/05/11</Date>
+  <Locality>France - Cuttoli-Corticchiato</Locality>
+  <GPSLocality>
+    <Longitude>8.907440</Longitude>
+    <Latitude>41.978130</Latitude>
+  </GPSLocality>
+  <Author>Pierre Lambert</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Serapias lingua</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Serapias Pers.</Genus>
+    <Species>Serapias lingua L.</Species>
+  </Taxon>
+  <VernacularNames>Tongue orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

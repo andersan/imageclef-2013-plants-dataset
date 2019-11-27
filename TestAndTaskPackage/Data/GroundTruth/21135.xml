@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21135.jpg</FileName>
+  <IndividualPlantId>411</IndividualPlantId>
+  <Date>09/06/07</Date>
+  <Locality>France - Suc-Et-Sentenac</Locality>
+  <GPSLocality>
+    <Longitude>1.480892</Longitude>
+    <Latitude>42.780871</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Dryas octopetala</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Dryas L.</Genus>
+    <Species>Dryas octopetala L.</Species>
+  </Taxon>
+  <VernacularNames>White dryad</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

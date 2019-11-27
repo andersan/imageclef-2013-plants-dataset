@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10691.jpg</FileName>
+  <IndividualPlantId>3126</IndividualPlantId>
+  <Date>02/09/12</Date>
+  <Locality>France - Huisseau-Sur-Mauves</Locality>
+  <GPSLocality>
+    <Longitude>1.702582</Longitude>
+    <Latitude>47.893201</Latitude>
+  </GPSLocality>
+  <Author>Jacques Marechal</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

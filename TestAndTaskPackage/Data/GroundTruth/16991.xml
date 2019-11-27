@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16991.jpg</FileName>
+  <IndividualPlantId>1746</IndividualPlantId>
+  <Date>27/06/08</Date>
+  <Locality>France - Passy</Locality>
+  <GPSLocality>
+    <Longitude>6.684919</Longitude>
+    <Latitude>45.923392</Latitude>
+  </GPSLocality>
+  <Author>Clemence Bes</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Thalictrum aquilegiifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Thalictrum L.</Genus>
+    <Species>Thalictrum aquilegiifolium L.</Species>
+  </Taxon>
+  <VernacularNames>Columbine meadow-rue</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

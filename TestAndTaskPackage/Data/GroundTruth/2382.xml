@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2382.jpg</FileName>
+  <IndividualPlantId>3474</IndividualPlantId>
+  <Date>13/06/07</Date>
+  <Locality>France - Nohèdes</Locality>
+  <GPSLocality>
+    <Longitude>2.289051</Longitude>
+    <Latitude>42.622603</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Thalictrum aquilegiifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Thalictrum L.</Genus>
+    <Species>Thalictrum aquilegiifolium L.</Species>
+  </Taxon>
+  <VernacularNames>Columbine meadow-rue</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

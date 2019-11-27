@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13821.jpg</FileName>
+  <IndividualPlantId>719</IndividualPlantId>
+  <Date>11/12/10</Date>
+  <Locality>France - Les Assions</Locality>
+  <GPSLocality>
+    <Longitude>4.174045</Longitude>
+    <Latitude>44.421387</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Hedera helix</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Araliaceae Juss.</Family>
+    <Genus>Hedera L.</Genus>
+    <Species>Hedera helix L.</Species>
+  </Taxon>
+  <VernacularNames>English ivy</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

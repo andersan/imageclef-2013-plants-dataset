@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18198.jpg</FileName>
+  <IndividualPlantId>1337</IndividualPlantId>
+  <Date>16/05/07</Date>
+  <Locality>France - St Mesmin</Locality>
+  <GPSLocality>
+    <Longitude>-0.732569</Longitude>
+    <Latitude>46.793922</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Viburnum opulus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Viburnum L.</Genus>
+    <Species>Viburnum opulus L.</Species>
+  </Taxon>
+  <VernacularNames>Guelder rose</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

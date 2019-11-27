@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22931.jpg</FileName>
+  <IndividualPlantId>232</IndividualPlantId>
+  <Date>20/04/11</Date>
+  <Locality>France - Castelnau-De-Montmiral</Locality>
+  <GPSLocality>
+    <Longitude>1.820217</Longitude>
+    <Latitude>43.965652</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Bellevalia romana</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Asparagaceae Juss.</Family>
+    <Genus>Bellevalia Lapeyr.</Genus>
+    <Species>Bellevalia romana (L.) Sweet</Species>
+  </Taxon>
+  <VernacularNames>Roman hyacinth</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

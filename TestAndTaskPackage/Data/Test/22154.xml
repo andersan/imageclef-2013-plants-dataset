@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22154.jpg</FileName>
+  <IndividualPlantId>3033</IndividualPlantId>
+  <Date>30/10/11</Date>
+  <Locality>France - Prémillieu</Locality>
+  <GPSLocality>
+    <Longitude>5.572128</Longitude>
+    <Latitude>45.876744</Latitude>
+  </GPSLocality>
+  <Author>Remi Tournebize</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

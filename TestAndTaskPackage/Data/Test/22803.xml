@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22803.jpg</FileName>
+  <IndividualPlantId>3261</IndividualPlantId>
+  <Date>03/06/07</Date>
+  <Locality>France - Col De Menta</Locality>
+  <GPSLocality>
+    <Longitude>9.028573</Longitude>
+    <Latitude>41.991395</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

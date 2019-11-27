@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5.jpg</FileName>
+  <IndividualPlantId>692</IndividualPlantId>
+  <Date>08/05/07</Date>
+  <Locality>France - Vedène</Locality>
+  <GPSLocality>
+    <Longitude>4.903105</Longitude>
+    <Latitude>43.974378</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Convolvulus cantabrica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Convolvulaceae Juss.</Family>
+    <Genus>Convolvulus L.</Genus>
+    <Species>Convolvulus cantabrica L.</Species>
+  </Taxon>
+  <VernacularNames>Cantabrican morning glory</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

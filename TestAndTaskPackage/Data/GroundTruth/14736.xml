@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14736.jpg</FileName>
+  <IndividualPlantId>5575</IndividualPlantId>
+  <Date>23/03/09</Date>
+  <Locality>France - Chantilly</Locality>
+  <GPSLocality>
+    <Longitude>2.415919</Longitude>
+    <Latitude>49.145756</Latitude>
+  </GPSLocality>
+  <Author>Elzbieta Jatowt-Lombaert</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Scilla bifolia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Asparagaceae Juss.</Family>
+    <Genus>Scilla L.</Genus>
+    <Species>Scilla bifolia L.</Species>
+  </Taxon>
+  <VernacularNames>Two-leaf squill</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

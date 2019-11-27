@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18844.jpg</FileName>
+  <IndividualPlantId>5646</IndividualPlantId>
+  <Date>04/08/05</Date>
+  <Locality>France - Nanthiat</Locality>
+  <GPSLocality>
+    <Longitude>0.986220</Longitude>
+    <Latitude>45.409048</Latitude>
+  </GPSLocality>
+  <Author>Laurent Petit</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Clinopodium vulgare</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Lamiaceae Martinov</Family>
+    <Genus>Clinopodium L.</Genus>
+    <Species>Clinopodium vulgare L.</Species>
+  </Taxon>
+  <VernacularNames>Wild basil</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

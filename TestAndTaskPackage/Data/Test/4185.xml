@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4185.jpg</FileName>
+  <IndividualPlantId>2209</IndividualPlantId>
+  <Date>01/05/03</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>4.619751</Longitude>
+    <Latitude>45.786679</Latitude>
+  </GPSLocality>
+  <Author>Christophe Girod</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

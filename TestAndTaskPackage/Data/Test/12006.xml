@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>12006.jpg</FileName>
+  <IndividualPlantId>5747</IndividualPlantId>
+  <Date>09/04/11</Date>
+  <Locality>France - Athis-Mons</Locality>
+  <GPSLocality>
+    <Longitude>2.376120</Longitude>
+    <Latitude>48.700129</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

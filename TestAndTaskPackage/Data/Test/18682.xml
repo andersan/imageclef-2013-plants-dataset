@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18682.jpg</FileName>
+  <IndividualPlantId>1741</IndividualPlantId>
+  <Date>20/06/12</Date>
+  <Locality>France - Naives</Locality>
+  <GPSLocality>
+    <Longitude>5.547078</Longitude>
+    <Latitude>48.661680</Latitude>
+  </GPSLocality>
+  <Author>Jean Claude Estatico</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7632.jpg</FileName>
+  <IndividualPlantId>2791</IndividualPlantId>
+  <Date>20/06/12</Date>
+  <Locality>France - Sizun</Locality>
+  <GPSLocality>
+    <Longitude>-4.077555</Longitude>
+    <Latitude>48.405806</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

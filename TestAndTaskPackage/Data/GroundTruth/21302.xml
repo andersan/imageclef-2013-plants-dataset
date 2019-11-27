@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21302.jpg</FileName>
+  <IndividualPlantId>4848</IndividualPlantId>
+  <Date>11/03/13</Date>
+  <Locality>France - Paris</Locality>
+  <GPSLocality>
+    <Longitude>2.3509860038757324</Longitude>
+    <Latitude>48.856666564941406</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Robinia pseudoacacia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Robinia L.</Genus>
+    <Species>Robinia pseudoacacia L.</Species>
+  </Taxon>
+  <VernacularNames>Black locust</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15286.jpg</FileName>
+  <IndividualPlantId>2278</IndividualPlantId>
+  <Date>27/06/10</Date>
+  <Locality>France - Plan-D'aups-Sainte-Baume</Locality>
+  <GPSLocality>
+    <Longitude>5.709460</Longitude>
+    <Latitude>43.326780</Latitude>
+  </GPSLocality>
+  <Author>Genevieve Botti</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Verbascum pulverulentum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Scrophulariaceae Juss.</Family>
+    <Genus>Verbascum L.</Genus>
+    <Species>Verbascum pulverulentum Vill.</Species>
+  </Taxon>
+  <VernacularNames>Hoary mullein</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20146.jpg</FileName>
+  <IndividualPlantId>2689</IndividualPlantId>
+  <Date>09/09/12</Date>
+  <Locality>France - Île-De-Batz</Locality>
+  <GPSLocality>
+    <Longitude>-4.009722</Longitude>
+    <Latitude>48.745278</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Malva dendromorpha</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malvales Juss.</Order>
+    <Family>Malvaceae Juss.</Family>
+    <Genus>Malva L.</Genus>
+    <Species>Malva dendromorpha M.F. Ray</Species>
+  </Taxon>
+  <VernacularNames>Tree mallow</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

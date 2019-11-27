@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15008.jpg</FileName>
+  <IndividualPlantId>6194</IndividualPlantId>
+  <Date>14/07/08</Date>
+  <Locality>France - Saint-Gervais-Les-Bains</Locality>
+  <GPSLocality>
+    <Longitude>6.712187</Longitude>
+    <Latitude>45.892013</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Lilium martagon</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Liliales Perleb</Order>
+    <Family>Liliaceae Juss.</Family>
+    <Genus>Lilium L.</Genus>
+    <Species>Lilium martagon L.</Species>
+  </Taxon>
+  <VernacularNames>Turk's cap lily</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

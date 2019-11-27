@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11272.jpg</FileName>
+  <IndividualPlantId>5019</IndividualPlantId>
+  <Date>24/04/08</Date>
+  <Locality>France - Les Rives</Locality>
+  <GPSLocality>
+    <Longitude>3.269173</Longitude>
+    <Latitude>43.842228</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

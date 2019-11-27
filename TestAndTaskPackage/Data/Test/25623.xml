@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25623.jpg</FileName>
+  <IndividualPlantId>1893</IndividualPlantId>
+  <Date>16/08/07</Date>
+  <Locality>France - Juillac</Locality>
+  <GPSLocality>
+    <Longitude>1.322400</Longitude>
+    <Latitude>45.317259</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9840.jpg</FileName>
+  <IndividualPlantId>3362</IndividualPlantId>
+  <Date>26/05/12</Date>
+  <Locality>France - Aillon-Le-Jeune</Locality>
+  <GPSLocality>
+    <Longitude>6.080885</Longitude>
+    <Latitude>45.618459</Latitude>
+  </GPSLocality>
+  <Author>Renaud Raffier</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

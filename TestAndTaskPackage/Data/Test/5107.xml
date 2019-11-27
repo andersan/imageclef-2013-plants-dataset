@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5107.jpg</FileName>
+  <IndividualPlantId>546</IndividualPlantId>
+  <Date>30/05/11</Date>
+  <Locality>France - Graissessac</Locality>
+  <GPSLocality>
+    <Longitude>3.094231</Longitude>
+    <Latitude>43.679435</Latitude>
+  </GPSLocality>
+  <Author>Jean Rene Garcia</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

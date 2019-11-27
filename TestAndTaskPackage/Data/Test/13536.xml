@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13536.jpg</FileName>
+  <IndividualPlantId>473</IndividualPlantId>
+  <Date>11/04/11</Date>
+  <Locality>Spain - Marymurta</Locality>
+  <GPSLocality>
+    <Longitude>2.801857</Longitude>
+    <Latitude>41.680861</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

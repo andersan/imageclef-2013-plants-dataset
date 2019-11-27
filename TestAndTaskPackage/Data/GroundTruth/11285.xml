@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11285.jpg</FileName>
+  <IndividualPlantId>6140</IndividualPlantId>
+  <Date>18/07/10</Date>
+  <Locality>France - La Robine-Sur-Galabre</Locality>
+  <GPSLocality>
+    <Longitude>6.196104</Longitude>
+    <Latitude>44.198883</Latitude>
+  </GPSLocality>
+  <Author>Hugues Tinguy</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Convolvulus cantabrica</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Convolvulaceae Juss.</Family>
+    <Genus>Convolvulus L.</Genus>
+    <Species>Convolvulus cantabrica L.</Species>
+  </Taxon>
+  <VernacularNames>Cantabrican morning glory</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

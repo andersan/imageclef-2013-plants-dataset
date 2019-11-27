@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15682.jpg</FileName>
+  <IndividualPlantId>3555</IndividualPlantId>
+  <Date>04/02/12</Date>
+  <Locality>France - Lannilis</Locality>
+  <GPSLocality>
+    <Longitude>-4.521510</Longitude>
+    <Latitude>48.569371</Latitude>
+  </GPSLocality>
+  <Author>Marie Portas</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

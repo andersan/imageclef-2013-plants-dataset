@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14215.jpg</FileName>
+  <IndividualPlantId>2316</IndividualPlantId>
+  <Date>10/02/13</Date>
+  <Locality>France - Gruissan</Locality>
+  <GPSLocality>
+    <Longitude>3.086181</Longitude>
+    <Latitude>43.107052</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Globularia alypum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Plantaginaceae Juss.</Family>
+    <Genus>Globularia L.</Genus>
+    <Species>Globularia alypum L.</Species>
+  </Taxon>
+  <VernacularNames>Tunisian globularia alypum</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

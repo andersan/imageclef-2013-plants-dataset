@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4271.jpg</FileName>
+  <IndividualPlantId>3528</IndividualPlantId>
+  <Date>23/05/10</Date>
+  <Locality>France - Saint-Sauveur-En-Rue</Locality>
+  <GPSLocality>
+    <Longitude>4.495130</Longitude>
+    <Latitude>45.269395</Latitude>
+  </GPSLocality>
+  <Author>Houdste</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

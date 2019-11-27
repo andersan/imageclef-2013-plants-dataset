@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13884.jpg</FileName>
+  <IndividualPlantId>5068</IndividualPlantId>
+  <Date>30/05/10</Date>
+  <Locality>France - Dordives</Locality>
+  <GPSLocality>
+    <Longitude>2.767462</Longitude>
+    <Latitude>48.145531</Latitude>
+  </GPSLocality>
+  <Author>Catherine Mahyeux</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

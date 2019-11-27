@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24291.jpg</FileName>
+  <IndividualPlantId>2940</IndividualPlantId>
+  <Date>17/10/11</Date>
+  <Locality>France - Montaut</Locality>
+  <GPSLocality>
+    <Longitude>-0.200506</Longitude>
+    <Latitude>43.130354</Latitude>
+  </GPSLocality>
+  <Author>Veronique Nolan</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Liriodendron tulipifera</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Magnolianae Takht.</Superorder>
+    <Order>Magnoliales Bromhead</Order>
+    <Family>Magnoliaceae Juss.</Family>
+    <Genus>Liriodendron L.</Genus>
+    <Species>Liriodendron tulipifera L.</Species>
+  </Taxon>
+  <VernacularNames>American tulip tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

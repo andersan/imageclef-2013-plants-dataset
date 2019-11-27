@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10431.jpg</FileName>
+  <IndividualPlantId>4455</IndividualPlantId>
+  <Date>23/05/10</Date>
+  <Locality>France - Malons-Et-Elze</Locality>
+  <GPSLocality>
+    <Longitude>4.023389</Longitude>
+    <Latitude>44.416215</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Narcissus poeticus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Amaryllidaceae J. St.-Hil.</Family>
+    <Genus>Narcissus L.</Genus>
+    <Species>Narcissus poeticus L.</Species>
+  </Taxon>
+  <VernacularNames>Poet's daffodil</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

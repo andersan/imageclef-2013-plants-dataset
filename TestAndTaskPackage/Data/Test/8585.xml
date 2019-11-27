@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8585.jpg</FileName>
+  <IndividualPlantId>4037</IndividualPlantId>
+  <Date>20/06/07</Date>
+  <Locality>France - Nohèdes</Locality>
+  <GPSLocality>
+    <Longitude>2.289051</Longitude>
+    <Latitude>42.622603</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

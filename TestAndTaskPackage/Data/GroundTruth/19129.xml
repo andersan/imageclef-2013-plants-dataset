@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>19129.jpg</FileName>
+  <IndividualPlantId>3457</IndividualPlantId>
+  <Date>08/05/07</Date>
+  <Locality>France - Bagert</Locality>
+  <GPSLocality>
+    <Longitude>1.080391</Longitude>
+    <Latitude>43.078250</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Dactylorhiza fuchsii</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Dactylorhiza Neck. ex Nevski</Genus>
+    <Species>Dactylorhiza fuchsii (Druce) Soó</Species>
+  </Taxon>
+  <VernacularNames>Common spotted-orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

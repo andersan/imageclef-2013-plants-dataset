@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>12962.jpg</FileName>
+  <IndividualPlantId>5508</IndividualPlantId>
+  <Date>08/07/05</Date>
+  <Locality>France - Loudenvielle</Locality>
+  <GPSLocality>
+    <Longitude>0.412744</Longitude>
+    <Latitude>42.795702</Latitude>
+  </GPSLocality>
+  <Author>Alain Bigou</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

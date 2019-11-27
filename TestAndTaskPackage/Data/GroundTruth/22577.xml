@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22577.jpg</FileName>
+  <IndividualPlantId>5311</IndividualPlantId>
+  <Date>23/04/05</Date>
+  <Locality>France - Les Pennes-Mirabeau</Locality>
+  <GPSLocality>
+    <Longitude>5.320103</Longitude>
+    <Latitude>43.409630</Latitude>
+  </GPSLocality>
+  <Author>Bertrand Bui</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Pinus halepensis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Pinidae Cronquist, Takht. &amp; W. Zimm.</Subclass>
+    <Superorder>Pinidae Cronquist, Takht. &amp; W. Zimm.</Superorder>
+    <Order>Pinales Gorozh.</Order>
+    <Family>Pinaceae Spreng. ex Rudolphi</Family>
+    <Genus>Pinus L.</Genus>
+    <Species>Pinus halepensis Mill.</Species>
+  </Taxon>
+  <VernacularNames>Aleppo pine</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20629.jpg</FileName>
+  <IndividualPlantId>5046</IndividualPlantId>
+  <Date>15/08/99</Date>
+  <Locality>France - Brévillers</Locality>
+  <GPSLocality>
+    <Longitude>2.015786</Longitude>
+    <Latitude>50.346281</Latitude>
+  </GPSLocality>
+  <Author>Laurent Petit</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Rubus fruticosus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Rubus L.</Genus>
+    <Species>Rubus fruticosus L.</Species>
+  </Taxon>
+  <VernacularNames>Blackberry</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

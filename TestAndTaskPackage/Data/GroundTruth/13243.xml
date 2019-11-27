@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>13243.jpg</FileName>
+  <IndividualPlantId>1270</IndividualPlantId>
+  <Date>22/03/05</Date>
+  <Locality>France - Le Pouliguen</Locality>
+  <GPSLocality>
+    <Longitude>-2.425372</Longitude>
+    <Latitude>47.269852</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Ranunculus ficaria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Ranunculus L.</Genus>
+    <Species>Ranunculus ficaria L.</Species>
+  </Taxon>
+  <VernacularNames>Lesser celandine</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

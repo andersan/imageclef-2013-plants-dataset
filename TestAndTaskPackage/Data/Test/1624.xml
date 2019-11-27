@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1624.jpg</FileName>
+  <IndividualPlantId>3278</IndividualPlantId>
+  <Date>28/08/12</Date>
+  <Locality>France - Vert-Le-Petit</Locality>
+  <GPSLocality>
+    <Longitude>2.366759</Longitude>
+    <Latitude>48.550836</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14160.jpg</FileName>
+  <IndividualPlantId>564</IndividualPlantId>
+  <Date>02/05/10</Date>
+  <Locality>France - Othe</Locality>
+  <GPSLocality>
+    <Longitude>5.441739</Longitude>
+    <Latitude>49.494554</Latitude>
+  </GPSLocality>
+  <Author>Francois Meignant</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Orchis purpurea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Orchis L.</Genus>
+    <Species>Orchis purpurea Huds.</Species>
+  </Taxon>
+  <VernacularNames>Lady orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

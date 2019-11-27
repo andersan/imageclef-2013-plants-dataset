@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1641.jpg</FileName>
+  <IndividualPlantId>834</IndividualPlantId>
+  <Date>08/05/10</Date>
+  <Locality>France - Les Vans</Locality>
+  <GPSLocality>
+    <Longitude>4.131917</Longitude>
+    <Latitude>44.404688</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

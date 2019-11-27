@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23571.jpg</FileName>
+  <IndividualPlantId>3727</IndividualPlantId>
+  <Date>03/05/05</Date>
+  <Locality>France - Neuvic</Locality>
+  <GPSLocality>
+    <Longitude>2.528592</Longitude>
+    <Latitude>44.651690</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Ilex aquifolium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Aquifoliales Senft</Order>
+    <Family>Aquifoliaceae Bercht. &amp; J. Presl</Family>
+    <Genus>Ilex L.</Genus>
+    <Species>Ilex aquifolium L.</Species>
+  </Taxon>
+  <VernacularNames>European holly</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

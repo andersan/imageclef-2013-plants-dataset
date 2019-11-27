@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21289.jpg</FileName>
+  <IndividualPlantId>3128</IndividualPlantId>
+  <Date>03/03/13</Date>
+  <Locality>France - Croissy-Beaubourg</Locality>
+  <GPSLocality>
+    <Longitude>2.659396</Longitude>
+    <Latitude>48.8279179</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Prunus laurocerasus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus laurocerasus L.</Species>
+  </Taxon>
+  <VernacularNames>Cherry laurel</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

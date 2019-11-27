@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16752.jpg</FileName>
+  <IndividualPlantId>4105</IndividualPlantId>
+  <Date>03/03/13</Date>
+  <Locality>France - Vic la Gardiole</Locality>
+  <GPSLocality>
+    <Longitude>3.797599</Longitude>
+    <Latitude>43.490423</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Ruscus aculeatus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Asparagaceae Juss.</Family>
+    <Genus>Ruscus L.</Genus>
+    <Species>Ruscus aculeatus L.</Species>
+  </Taxon>
+  <VernacularNames>Knee holly</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

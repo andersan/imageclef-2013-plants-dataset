@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21017.jpg</FileName>
+  <IndividualPlantId>2787</IndividualPlantId>
+  <Date>15/08/03</Date>
+  <Locality>France - Bavelincourt</Locality>
+  <GPSLocality>
+    <Longitude>2.472341</Longitude>
+    <Latitude>49.986679</Latitude>
+  </GPSLocality>
+  <Author>Laurent Petit</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

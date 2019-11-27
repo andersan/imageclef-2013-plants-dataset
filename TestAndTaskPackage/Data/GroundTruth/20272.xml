@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20272.jpg</FileName>
+  <IndividualPlantId>5157</IndividualPlantId>
+  <Date>13/02/13</Date>
+  <Locality>France - Fleury</Locality>
+  <GPSLocality>
+    <Longitude>-0.3313157</Longitude>
+    <Latitude>49.2015533</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ruscus aculeatus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Asparagaceae Juss.</Family>
+    <Genus>Ruscus L.</Genus>
+    <Species>Ruscus aculeatus L.</Species>
+  </Taxon>
+  <VernacularNames>Knee holly</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

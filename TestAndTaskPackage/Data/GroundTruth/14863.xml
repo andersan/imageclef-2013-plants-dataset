@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14863.jpg</FileName>
+  <IndividualPlantId>4852</IndividualPlantId>
+  <Date>16/10/08</Date>
+  <Locality>France - Labastide-Rouairoux</Locality>
+  <GPSLocality>
+    <Longitude>2.640954</Longitude>
+    <Latitude>43.475930</Latitude>
+  </GPSLocality>
+  <Author>Franck Jullin</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Prunus serotina</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus serotina Ehrh.</Species>
+  </Taxon>
+  <VernacularNames>Wild black cherry</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20594.jpg</FileName>
+  <IndividualPlantId>1649</IndividualPlantId>
+  <Date>17/03/09</Date>
+  <Locality>France - Luc-Sur-Orbieu</Locality>
+  <GPSLocality>
+    <Longitude>2.787348</Longitude>
+    <Latitude>43.178245</Latitude>
+  </GPSLocality>
+  <Author>Franck Jullin</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Euphorbia nicaeensis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Euphorbiaceae Juss.</Family>
+    <Genus>Euphorbia L.</Genus>
+    <Species>Euphorbia nicaeensis All.</Species>
+  </Taxon>
+  <VernacularNames>Southern spurge</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

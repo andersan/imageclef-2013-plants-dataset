@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25508.jpg</FileName>
+  <IndividualPlantId>5672</IndividualPlantId>
+  <Date>10/04/05</Date>
+  <Locality>France - Vaudremont</Locality>
+  <GPSLocality>
+    <Longitude>4.904425</Longitude>
+    <Latitude>48.128307</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Prunus spinosa</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus spinosa L.</Species>
+  </Taxon>
+  <VernacularNames>Blackthorn</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10718.jpg</FileName>
+  <IndividualPlantId>4488</IndividualPlantId>
+  <Date>07/11/08</Date>
+  <Locality>France - Oudon</Locality>
+  <GPSLocality>
+    <Longitude>-1.284136</Longitude>
+    <Latitude>47.347052</Latitude>
+  </GPSLocality>
+  <Author>Marie-France Pacaud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

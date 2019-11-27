@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15794.jpg</FileName>
+  <IndividualPlantId>5228</IndividualPlantId>
+  <Date>08/05/08</Date>
+  <Locality>France - Valflaunès</Locality>
+  <GPSLocality>
+    <Longitude>3.874341</Longitude>
+    <Latitude>43.800175</Latitude>
+  </GPSLocality>
+  <Author>Jpm</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Aphyllanthes monspeliensis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Asparagaceae Juss.</Family>
+    <Genus>Aphyllanthes L.</Genus>
+    <Species>Aphyllanthes monspeliensis L.</Species>
+  </Taxon>
+  <VernacularNames>Montpellier aphyllanthe</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

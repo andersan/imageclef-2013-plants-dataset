@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>605.jpg</FileName>
+  <IndividualPlantId>2454</IndividualPlantId>
+  <Date>30/04/08</Date>
+  <Locality>France - Agde</Locality>
+  <GPSLocality>
+    <Longitude>3.470830</Longitude>
+    <Latitude>43.312455</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Glaucium flavum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Papaveraceae Juss.</Family>
+    <Genus>Glaucium Mill.</Genus>
+    <Species>Glaucium flavum Crantz</Species>
+  </Taxon>
+  <VernacularNames>Yellow horned poppy</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

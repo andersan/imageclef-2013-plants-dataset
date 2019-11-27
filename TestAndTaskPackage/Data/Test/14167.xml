@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14167.jpg</FileName>
+  <IndividualPlantId>485</IndividualPlantId>
+  <Date>30/06/09</Date>
+  <Locality>France - Roquecourbe-Minervois</Locality>
+  <GPSLocality>
+    <Longitude>2.653698</Longitude>
+    <Latitude>43.217950</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>254.jpg</FileName>
+  <IndividualPlantId>4782</IndividualPlantId>
+  <Date>04/01/13</Date>
+  <Locality>France - Narbonne</Locality>
+  <GPSLocality>
+    <Longitude>3.003078</Longitude>
+    <Latitude>43.184277</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

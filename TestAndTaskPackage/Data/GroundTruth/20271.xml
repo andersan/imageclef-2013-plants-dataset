@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20271.jpg</FileName>
+  <IndividualPlantId>4448</IndividualPlantId>
+  <Date>07/09/12</Date>
+  <Locality>France - Blois</Locality>
+  <GPSLocality>
+    <Longitude>1.336272</Longitude>
+    <Latitude>47.587952</Latitude>
+  </GPSLocality>
+  <Author>Marielaurentb</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Solanum nigrum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Solanaceae Juss.</Family>
+    <Genus>Solanum L.</Genus>
+    <Species>Solanum nigrum L.</Species>
+  </Taxon>
+  <VernacularNames>European black nightshade</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

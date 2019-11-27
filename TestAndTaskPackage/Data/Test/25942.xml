@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25942.jpg</FileName>
+  <IndividualPlantId>1787</IndividualPlantId>
+  <Date>11/12/07</Date>
+  <Locality>France - Les Alleux</Locality>
+  <GPSLocality>
+    <Longitude>4.736849</Longitude>
+    <Latitude>49.471488</Latitude>
+  </GPSLocality>
+  <Author>Christophe Girod</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

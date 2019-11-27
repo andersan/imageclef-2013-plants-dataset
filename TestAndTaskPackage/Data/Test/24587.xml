@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24587.jpg</FileName>
+  <IndividualPlantId>4910</IndividualPlantId>
+  <Date>16/04/12</Date>
+  <Locality>France - Marseillette</Locality>
+  <GPSLocality>
+    <Longitude>2.540097</Longitude>
+    <Latitude>43.208224</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

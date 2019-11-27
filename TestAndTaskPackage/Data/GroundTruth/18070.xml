@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18070.jpg</FileName>
+  <IndividualPlantId>5498</IndividualPlantId>
+  <Date>03/05/03</Date>
+  <Locality>France - Roissy-En-Brie</Locality>
+  <GPSLocality>
+    <Longitude>2.654541</Longitude>
+    <Latitude>48.790685</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Hyacinthoides non-scripta</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Asparagaceae Juss.</Family>
+    <Genus>Hyacinthoides Heist. ex Fabr.</Genus>
+    <Species>Hyacinthoides non-scripta (L.) Chouard ex Rothm.</Species>
+  </Taxon>
+  <VernacularNames>Common bluebell</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

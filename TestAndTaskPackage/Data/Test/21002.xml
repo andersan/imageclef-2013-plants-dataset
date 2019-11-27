@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21002.jpg</FileName>
+  <IndividualPlantId>4832</IndividualPlantId>
+  <Date>15/09/12</Date>
+  <Locality>France - Meyreuil</Locality>
+  <GPSLocality>
+    <Longitude>5.495122</Longitude>
+    <Latitude>43.486821</Latitude>
+  </GPSLocality>
+  <Author>Etienne Aspord</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

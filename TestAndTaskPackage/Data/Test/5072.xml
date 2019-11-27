@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5072.jpg</FileName>
+  <IndividualPlantId>5896</IndividualPlantId>
+  <Date>11/06/11</Date>
+  <Locality>France - Malatras</Locality>
+  <GPSLocality>
+    <Longitude>5.475233</Longitude>
+    <Latitude>45.272851</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

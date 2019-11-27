@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2702.jpg</FileName>
+  <IndividualPlantId>4430</IndividualPlantId>
+  <Date>26/05/12</Date>
+  <Locality>France - Martigues</Locality>
+  <GPSLocality>
+    <Longitude>5.053728</Longitude>
+    <Latitude>43.404811</Latitude>
+  </GPSLocality>
+  <Author>Bertrand Bui</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23409.jpg</FileName>
+  <IndividualPlantId>4063</IndividualPlantId>
+  <Date>03/05/10</Date>
+  <Locality>France - Villers-Le-Rond</Locality>
+  <GPSLocality>
+    <Longitude>5.488080</Longitude>
+    <Latitude>49.463596</Latitude>
+  </GPSLocality>
+  <Author>Francois Meignant</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

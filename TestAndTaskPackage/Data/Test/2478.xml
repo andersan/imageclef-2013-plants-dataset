@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2478.jpg</FileName>
+  <IndividualPlantId>1680</IndividualPlantId>
+  <Date>18/10/06</Date>
+  <Locality>France - Varambon</Locality>
+  <GPSLocality>
+    <Longitude>5.317069</Longitude>
+    <Latitude>46.040255</Latitude>
+  </GPSLocality>
+  <Author>Jean-Jacques Pesse</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

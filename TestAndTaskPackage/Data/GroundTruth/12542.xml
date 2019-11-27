@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>12542.jpg</FileName>
+  <IndividualPlantId>2308</IndividualPlantId>
+  <Date>06/11/12</Date>
+  <Locality>France - Soufflenheim</Locality>
+  <GPSLocality>
+    <Longitude>7.963965</Longitude>
+    <Latitude>48.829742</Latitude>
+  </GPSLocality>
+  <Author>Claire Sutter</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Quercus petraea</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Fagaceae Dumort.</Family>
+    <Genus>Quercus L.</Genus>
+    <Species>Quercus petraea (Matt.) Liebl.</Species>
+  </Taxon>
+  <VernacularNames>Durmast oak</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>22031.jpg</FileName>
+  <IndividualPlantId>4712</IndividualPlantId>
+  <Date>23/06/06</Date>
+  <Locality>France - Olonne-Sur-Mer</Locality>
+  <GPSLocality>
+    <Longitude>-1.758532</Longitude>
+    <Latitude>46.489577</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Cichorium intybus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Cichorium L.</Genus>
+    <Species>Cichorium intybus L.</Species>
+  </Taxon>
+  <VernacularNames>Common chicory</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

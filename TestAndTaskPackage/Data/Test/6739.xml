@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6739.jpg</FileName>
+  <IndividualPlantId>2487</IndividualPlantId>
+  <Date>08/05/08</Date>
+  <Locality>France - Saint-Mathieu-De-Tréviers</Locality>
+  <GPSLocality>
+    <Longitude>3.869400</Longitude>
+    <Latitude>43.770600</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

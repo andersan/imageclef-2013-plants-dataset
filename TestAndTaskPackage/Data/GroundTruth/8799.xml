@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8799.jpg</FileName>
+  <IndividualPlantId>4243</IndividualPlantId>
+  <Date>14/07/07</Date>
+  <Locality>France - Sévérac-Le-Château</Locality>
+  <GPSLocality>
+    <Longitude>3.696630</Longitude>
+    <Latitude>43.40221</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Lilium martagon</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Liliales Perleb</Order>
+    <Family>Liliaceae Juss.</Family>
+    <Genus>Lilium L.</Genus>
+    <Species>Lilium martagon L.</Species>
+  </Taxon>
+  <VernacularNames>Turk's cap lily</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

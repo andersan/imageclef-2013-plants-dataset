@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1717.jpg</FileName>
+  <IndividualPlantId>2985</IndividualPlantId>
+  <Date>20/06/10</Date>
+  <Locality>France - Vers</Locality>
+  <GPSLocality>
+    <Longitude>1.553376</Longitude>
+    <Latitude>44.486067</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

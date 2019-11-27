@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24871.jpg</FileName>
+  <IndividualPlantId>1579</IndividualPlantId>
+  <Date>18/02/13</Date>
+  <Locality>France - Rignieux-le-Franc</Locality>
+  <GPSLocality>
+    <Longitude>5.188473</Longitude>
+    <Latitude>45.940263</Latitude>
+  </GPSLocality>
+  <Author>Remi Tournebize</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Prunus avium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus avium (L.) L.</Species>
+  </Taxon>
+  <VernacularNames>Wild cherry</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18014.jpg</FileName>
+  <IndividualPlantId>1693</IndividualPlantId>
+  <Date>26/03/11</Date>
+  <Locality>France - Minerve</Locality>
+  <GPSLocality>
+    <Longitude>2.746600</Longitude>
+    <Latitude>43.354066</Latitude>
+  </GPSLocality>
+  <Author>Christophe Girod</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Gagea granatelli</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Liliales Perleb</Order>
+    <Family>Liliaceae Juss.</Family>
+    <Genus>Gagea Salisb.</Genus>
+    <Species>Gagea granatelli Parl.</Species>
+  </Taxon>
+  <VernacularNames>Mediterranean Gagea</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

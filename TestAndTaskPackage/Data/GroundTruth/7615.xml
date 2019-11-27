@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7615.jpg</FileName>
+  <IndividualPlantId>3295</IndividualPlantId>
+  <Date>25/09/08</Date>
+  <Locality>France - Limousis</Locality>
+  <GPSLocality>
+    <Longitude>2.401791</Longitude>
+    <Latitude>43.333499</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Ailanthus altissima</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Sapindales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Simaroubaceae DC.</Family>
+    <Genus>Ailanthus Desf.</Genus>
+    <Species>Ailanthus altissima (Mill.) Swingle</Species>
+  </Taxon>
+  <VernacularNames>Tree of heaven</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

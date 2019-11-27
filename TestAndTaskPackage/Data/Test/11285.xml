@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11285.jpg</FileName>
+  <IndividualPlantId>6140</IndividualPlantId>
+  <Date>18/07/10</Date>
+  <Locality>France - La Robine-Sur-Galabre</Locality>
+  <GPSLocality>
+    <Longitude>6.196104</Longitude>
+    <Latitude>44.198883</Latitude>
+  </GPSLocality>
+  <Author>Hugues Tinguy</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

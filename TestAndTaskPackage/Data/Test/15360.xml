@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15360.jpg</FileName>
+  <IndividualPlantId>104</IndividualPlantId>
+  <Date>27/04/08</Date>
+  <Locality>Greece - Crète</Locality>
+  <GPSLocality>
+    <Longitude>24.809269</Longitude>
+    <Latitude>35.240117</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

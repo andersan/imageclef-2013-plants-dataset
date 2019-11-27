@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>12844.jpg</FileName>
+  <IndividualPlantId>4890</IndividualPlantId>
+  <Date>03/05/09</Date>
+  <Locality>France - Saint-Étienne-Lardeyrol</Locality>
+  <GPSLocality>
+    <Longitude>4.000234</Longitude>
+    <Latitude>45.071229</Latitude>
+  </GPSLocality>
+  <Author>Houdste</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

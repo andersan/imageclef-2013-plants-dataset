@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10263.jpg</FileName>
+  <IndividualPlantId>4059</IndividualPlantId>
+  <Date>10/11/11</Date>
+  <Locality>France - Condorcet</Locality>
+  <GPSLocality>
+    <Longitude>5.199697</Longitude>
+    <Latitude>44.407042</Latitude>
+  </GPSLocality>
+  <Author>Jean-Claude Bouzat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Ligustrum vulgare</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Ligustrum L.</Genus>
+    <Species>Ligustrum vulgare L.</Species>
+  </Taxon>
+  <VernacularNames>European privet</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

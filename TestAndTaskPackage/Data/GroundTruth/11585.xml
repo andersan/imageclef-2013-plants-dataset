@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>11585.jpg</FileName>
+  <IndividualPlantId>5470</IndividualPlantId>
+  <Date>24/02/08</Date>
+  <Locality>France - Avignon</Locality>
+  <GPSLocality>
+    <Longitude>4.805528</Longitude>
+    <Latitude>43.949317</Latitude>
+  </GPSLocality>
+  <Author>Daniel Mathieu</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Ranunculus ficaria</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Ranunculanae Takht. ex Reveal</Superorder>
+    <Order>Ranunculales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Ranunculaceae Juss.</Family>
+    <Genus>Ranunculus L.</Genus>
+    <Species>Ranunculus ficaria L.</Species>
+  </Taxon>
+  <VernacularNames>Lesser celandine</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

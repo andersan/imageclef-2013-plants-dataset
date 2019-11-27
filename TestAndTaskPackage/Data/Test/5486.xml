@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>5486.jpg</FileName>
+  <IndividualPlantId>2637</IndividualPlantId>
+  <Date>22/04/07</Date>
+  <Locality>France - Montlaur</Locality>
+  <GPSLocality>
+    <Longitude>2.284107</Longitude>
+    <Latitude>43.175115</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10501.jpg</FileName>
+  <IndividualPlantId>1693</IndividualPlantId>
+  <Date>26/03/11</Date>
+  <Locality>France - Minerve</Locality>
+  <GPSLocality>
+    <Longitude>2.746600</Longitude>
+    <Latitude>43.354066</Latitude>
+  </GPSLocality>
+  <Author>Christophe Girod</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>943.jpg</FileName>
+  <IndividualPlantId>3327</IndividualPlantId>
+  <Date>01/11/07</Date>
+  <Locality>France - Lacroix-Falgarde</Locality>
+  <GPSLocality>
+    <Longitude>1.400998</Longitude>
+    <Latitude>43.494121</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Juglans regia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fagales Engl.</Order>
+    <Family>Juglandaceae DC. ex Perleb</Family>
+    <Genus>Juglans L.</Genus>
+    <Species>Juglans regia L.</Species>
+  </Taxon>
+  <VernacularNames>Common walnut</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1624.jpg</FileName>
+  <IndividualPlantId>3278</IndividualPlantId>
+  <Date>28/08/12</Date>
+  <Locality>France - Vert-Le-Petit</Locality>
+  <GPSLocality>
+    <Longitude>2.366759</Longitude>
+    <Latitude>48.550836</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Populus alba</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Malpighiales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Salicaceae Mirb.</Family>
+    <Genus>Populus L.</Genus>
+    <Species>Populus alba L.</Species>
+  </Taxon>
+  <VernacularNames>Silver poplar</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

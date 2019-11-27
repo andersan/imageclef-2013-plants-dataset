@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10463.jpg</FileName>
+  <IndividualPlantId>3929</IndividualPlantId>
+  <Date>26/03/11</Date>
+  <Locality>France - Dolus-D'oléron</Locality>
+  <GPSLocality>
+    <Longitude>-1.252994</Longitude>
+    <Latitude>45.911420</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

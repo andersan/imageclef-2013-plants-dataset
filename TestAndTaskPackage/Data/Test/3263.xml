@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3263.jpg</FileName>
+  <IndividualPlantId>3475</IndividualPlantId>
+  <Date>14/07/11</Date>
+  <Locality>France - Vassieux-En-Vercors</Locality>
+  <GPSLocality>
+    <Longitude>5.370850</Longitude>
+    <Latitude>44.895510</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

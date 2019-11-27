@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>21692.jpg</FileName>
+  <IndividualPlantId>3494</IndividualPlantId>
+  <Date>04/10/06</Date>
+  <Locality>France - Lathus-Saint-Rémy</Locality>
+  <GPSLocality>
+    <Longitude>0.959051</Longitude>
+    <Latitude>46.333355</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Prunus avium</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Prunus L.</Genus>
+    <Species>Prunus avium (L.) L.</Species>
+  </Taxon>
+  <VernacularNames>Wild cherry</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

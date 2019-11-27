@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6767.jpg</FileName>
+  <IndividualPlantId>733</IndividualPlantId>
+  <Date>07/08/12</Date>
+  <Locality>France - La Neuville-En-Tourne-À-Fuy</Locality>
+  <GPSLocality>
+    <Longitude>4.375665</Longitude>
+    <Latitude>49.347955</Latitude>
+  </GPSLocality>
+  <Author>Eric Leguay</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

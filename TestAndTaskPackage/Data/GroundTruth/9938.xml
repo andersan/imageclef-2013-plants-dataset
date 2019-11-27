@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>9938.jpg</FileName>
+  <IndividualPlantId>3568</IndividualPlantId>
+  <Date>26/05/12</Date>
+  <Locality>France - Saint-Coulomb</Locality>
+  <GPSLocality>
+    <Longitude>1.476588</Longitude>
+    <Latitude>43.314361</Latitude>
+  </GPSLocality>
+  <Author>Claire Felloni</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Anacamptis morio</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Anacamptis Rich.</Genus>
+    <Species>Anacamptis morio (L.) R.M. Bateman, Pridgeon &amp; M.W. Chase</Species>
+  </Taxon>
+  <VernacularNames>Green-winged orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3814.jpg</FileName>
+  <IndividualPlantId>298</IndividualPlantId>
+  <Date>03/08/08</Date>
+  <Locality>France - Gavarnie</Locality>
+  <GPSLocality>
+    <Longitude>-0.010267</Longitude>
+    <Latitude>42.735192</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Epipactis atrorubens</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Epipactis Pers.</Genus>
+    <Species>Epipactis atrorubens (Hoffm.) Besser</Species>
+  </Taxon>
+  <VernacularNames>Dark red helleborine</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

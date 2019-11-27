@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14163.jpg</FileName>
+  <IndividualPlantId>972</IndividualPlantId>
+  <Date>21/05/08</Date>
+  <Locality>France - Peyreleau</Locality>
+  <GPSLocality>
+    <Longitude>3.208578</Longitude>
+    <Latitude>44.188258</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Dactylorhiza fuchsii</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Orchidaceae Juss.</Family>
+    <Genus>Dactylorhiza Neck. ex Nevski</Genus>
+    <Species>Dactylorhiza fuchsii (Druce) Soó</Species>
+  </Taxon>
+  <VernacularNames>Common spotted-orchid</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

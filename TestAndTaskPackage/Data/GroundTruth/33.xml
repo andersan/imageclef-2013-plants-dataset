@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>33.jpg</FileName>
+  <IndividualPlantId>2600</IndividualPlantId>
+  <Date>01/11/11</Date>
+  <Locality>France - Pontault-Combault</Locality>
+  <GPSLocality>
+    <Longitude>2.607598</Longitude>
+    <Latitude>48.801255</Latitude>
+  </GPSLocality>
+  <Author>Annick Larbouillat</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Colutea arborescens</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Fabales Bromhead</Order>
+    <Family>Fabaceae Lindl.</Family>
+    <Genus>Colutea L.</Genus>
+    <Species>Colutea arborescens L.</Species>
+  </Taxon>
+  <VernacularNames>Bladder senna</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

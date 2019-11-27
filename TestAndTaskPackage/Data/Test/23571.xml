@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>23571.jpg</FileName>
+  <IndividualPlantId>3727</IndividualPlantId>
+  <Date>03/05/05</Date>
+  <Locality>France - Neuvic</Locality>
+  <GPSLocality>
+    <Longitude>2.528592</Longitude>
+    <Latitude>44.651690</Latitude>
+  </GPSLocality>
+  <Author>Julien Barataud</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

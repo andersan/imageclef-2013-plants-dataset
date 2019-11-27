@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>7789.jpg</FileName>
+  <IndividualPlantId>4213</IndividualPlantId>
+  <Date>02/05/09</Date>
+  <Locality>France - Fort-Louis</Locality>
+  <GPSLocality>
+    <Longitude>8.056883</Longitude>
+    <Latitude>48.801300</Latitude>
+  </GPSLocality>
+  <Author>Claire Sutter</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Fraxinus excelsior</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus excelsior L.</Species>
+  </Taxon>
+  <VernacularNames>European ash</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

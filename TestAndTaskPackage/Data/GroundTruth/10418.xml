@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>10418.jpg</FileName>
+  <IndividualPlantId>6129</IndividualPlantId>
+  <Date>07/03/13</Date>
+  <Locality>France - Saint-Péreuse</Locality>
+  <GPSLocality>
+    <Longitude>3.804188</Longitude>
+    <Latitude>47.072811</Latitude>
+  </GPSLocality>
+  <Author>Fred Febre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Hedera helix</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Apiales Nakai</Order>
+    <Family>Araliaceae Juss.</Family>
+    <Genus>Hedera L.</Genus>
+    <Species>Hedera helix L.</Species>
+  </Taxon>
+  <VernacularNames>English ivy</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25127.jpg</FileName>
+  <IndividualPlantId>2887</IndividualPlantId>
+  <Date>18/07/12</Date>
+  <Locality>France - Neufchateau</Locality>
+  <GPSLocality>
+    <Longitude>5.694596</Longitude>
+    <Latitude>48.354965</Latitude>
+  </GPSLocality>
+  <Author>Jean Claude Estatico</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Solanum dulcamara</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Solanaceae Juss.</Family>
+    <Genus>Solanum L.</Genus>
+    <Species>Solanum dulcamara L.</Species>
+  </Taxon>
+  <VernacularNames>Bittersweet</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

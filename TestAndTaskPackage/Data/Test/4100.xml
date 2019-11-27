@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4100.jpg</FileName>
+  <IndividualPlantId>1629</IndividualPlantId>
+  <Date>20/06/08</Date>
+  <Locality>France - Castelnau-D'estrétefonds</Locality>
+  <GPSLocality>
+    <Longitude>1.357670</Longitude>
+    <Latitude>43.783897</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

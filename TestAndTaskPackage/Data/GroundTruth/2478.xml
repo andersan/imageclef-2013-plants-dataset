@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>2478.jpg</FileName>
+  <IndividualPlantId>1680</IndividualPlantId>
+  <Date>18/10/06</Date>
+  <Locality>France - Varambon</Locality>
+  <GPSLocality>
+    <Longitude>5.317069</Longitude>
+    <Latitude>46.040255</Latitude>
+  </GPSLocality>
+  <Author>Jean-Jacques Pesse</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Solanum dulcamara</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Solanales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Solanaceae Juss.</Family>
+    <Genus>Solanum L.</Genus>
+    <Species>Solanum dulcamara L.</Species>
+  </Taxon>
+  <VernacularNames>Bittersweet</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

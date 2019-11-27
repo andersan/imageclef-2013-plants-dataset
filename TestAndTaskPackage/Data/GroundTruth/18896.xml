@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>18896.jpg</FileName>
+  <IndividualPlantId>2621</IndividualPlantId>
+  <Date>08/08/12</Date>
+  <Locality>France - La Chapelle St Mesmin</Locality>
+  <GPSLocality>
+    <Longitude>1.840210</Longitude>
+    <Latitude>47.887274</Latitude>
+  </GPSLocality>
+  <Author>Jacques Marechal</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <ClassId>Potentilla recta</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Rosaceae Juss.</Family>
+    <Genus>Potentilla Adans.</Genus>
+    <Species>Potentilla recta L.</Species>
+  </Taxon>
+  <VernacularNames>Rough-fruited cinquefoil</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

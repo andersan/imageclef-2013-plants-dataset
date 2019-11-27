@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>26058.jpg</FileName>
+  <IndividualPlantId>1225</IndividualPlantId>
+  <Date>04/07/10</Date>
+  <Locality>France - Ris-Orangis</Locality>
+  <GPSLocality>
+    <Longitude>2.410451</Longitude>
+    <Latitude>48.645663</Latitude>
+  </GPSLocality>
+  <Author>Jean-Luc Gorremans</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Senecio inaequidens</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Asterales Link</Order>
+    <Family>Asteraceae Bercht. &amp; J. Presl</Family>
+    <Genus>Senecio L.</Genus>
+    <Species>Senecio inaequidens DC.</Species>
+  </Taxon>
+  <VernacularNames>Narrow-leaved ragwort</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

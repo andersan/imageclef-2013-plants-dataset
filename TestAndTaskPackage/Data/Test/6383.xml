@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6383.jpg</FileName>
+  <IndividualPlantId>2997</IndividualPlantId>
+  <Date>15/05/09</Date>
+  <Locality>France - Raissac</Locality>
+  <GPSLocality>
+    <Longitude>2.160145</Longitude>
+    <Latitude>43.277933</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

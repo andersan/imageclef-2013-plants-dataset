@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15369.jpg</FileName>
+  <IndividualPlantId>1393</IndividualPlantId>
+  <Date>17/10/11</Date>
+  <Locality>France - Montaut</Locality>
+  <GPSLocality>
+    <Longitude>-0.200506</Longitude>
+    <Latitude>43.130354</Latitude>
+  </GPSLocality>
+  <Author>Veronique Nolan</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Viburnum opulus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Dipsacales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Adoxaceae E. Mey.</Family>
+    <Genus>Viburnum L.</Genus>
+    <Species>Viburnum opulus L.</Species>
+  </Taxon>
+  <VernacularNames>Guelder rose</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

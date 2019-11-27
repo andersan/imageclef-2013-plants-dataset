@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>8296.jpg</FileName>
+  <IndividualPlantId>3963</IndividualPlantId>
+  <Date>24/04/11</Date>
+  <Locality>France - Vitry-Sur-Seine</Locality>
+  <GPSLocality>
+    <Longitude>2.398510</Longitude>
+    <Latitude>48.792001</Latitude>
+  </GPSLocality>
+  <Author>Bertrand Bui</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

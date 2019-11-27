@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4517.jpg</FileName>
+  <IndividualPlantId>5764</IndividualPlantId>
+  <Date>13/05/10</Date>
+  <Locality>France - La Couvertoirade</Locality>
+  <GPSLocality>
+    <Longitude>3.316610</Longitude>
+    <Latitude>43.912943</Latitude>
+  </GPSLocality>
+  <Author>Paul Fabre</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

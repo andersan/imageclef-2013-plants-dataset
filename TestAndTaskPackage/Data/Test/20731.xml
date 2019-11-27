@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20731.jpg</FileName>
+  <IndividualPlantId>3211</IndividualPlantId>
+  <Date>29/03/09</Date>
+  <Locality>France - Oupia</Locality>
+  <GPSLocality>
+    <Longitude>2.765961</Longitude>
+    <Latitude>43.288411</Latitude>
+  </GPSLocality>
+  <Author>Mathieu Menand</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

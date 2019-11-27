@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>895.jpg</FileName>
+  <IndividualPlantId>5453</IndividualPlantId>
+  <Date>28/12/09</Date>
+  <Locality>France - Corse</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Smilax aspera</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Liliales Perleb</Order>
+    <Family>Smilacaceae Vent.</Family>
+    <Genus>Smilax L.</Genus>
+    <Species>Smilax aspera L.</Species>
+  </Taxon>
+  <VernacularNames>Rough bindweed</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

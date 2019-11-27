@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1989.jpg</FileName>
+  <IndividualPlantId>4357</IndividualPlantId>
+  <Date>09/08/12</Date>
+  <Locality>France - La Chapelle-Saint-Mesmin</Locality>
+  <GPSLocality>
+    <Longitude>1.840210</Longitude>
+    <Latitude>47.887274</Latitude>
+  </GPSLocality>
+  <Author>Jacques Marechal</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Flower</Content>
+  <Year>ImageCLEF2013</Year>
+</Image>

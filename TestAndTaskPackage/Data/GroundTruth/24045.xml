@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>24045.jpg</FileName>
+  <IndividualPlantId>6102</IndividualPlantId>
+  <Date>23/06/12</Date>
+  <Locality>France - Roscoff</Locality>
+  <GPSLocality>
+    <Longitude>-3.761208</Longitude>
+    <Latitude>48.038147</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Entire</Content>
+  <ClassId>Cymbalaria muralis</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Plantaginaceae Juss.</Family>
+    <Genus>Cymbalaria Hill</Genus>
+    <Species>Cymbalaria muralis P. Gaertn., B. Mey. &amp; Scherb.</Species>
+  </Taxon>
+  <VernacularNames>Ivy-leaved toadflax</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
